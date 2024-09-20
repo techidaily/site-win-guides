@@ -1,7 +1,7 @@
 ---
 title: "Actionable Steps: Crafting Engaging Video Walkthroughs"
-date: 2024-09-19 23:16:36
-updated: 2024-09-20 12:25:49
+date: 2024-09-17T01:24:14.809Z
+updated: 2024-09-19T22:22:35.609Z
 tags:
   - product
 categories:
@@ -103,6 +103,13 @@ Please note that higher resolutions would result in better video quality but als
 
 ![Mirillis Action! - Video recording settings](https://mirillis.com/res/old/gfx/tutorials/howto/v5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Video Quality Settings
 
 ![Mirillis Action! - Video quality settings](https://mirillis.com/res/old/gfx/tutorials/howto/v6.png) 
@@ -125,9 +132,30 @@ Please note that higher resolutions would result in better video quality but als
 
 ![Mirillis Action! - Mouse cursor recording settings](https://mirillis.com/res/old/gfx/tutorials/howto/v9.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In video guides one of the most important things is to demonstrate various features or actions using a mouse cursor. Recording your mouse cursor is a key feature for most of video guides.With Action! you can also add animated mouse click visualizations to make things even more clear for your audience.
 
 ![Mirillis Action! - Mouse click visualizations recording settings](https://mirillis.com/res/old/gfx/tutorials/howto/v10.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Microphone recording
 
@@ -140,6 +168,13 @@ Please note that higher resolutions would result in better video quality but als
 * Always record
 * Record on button down
 * Record on button down (on/off)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Using graphics overlay in your video guides
 
@@ -168,8 +203,6 @@ Please note that higher resolutions would result in better video quality but als
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

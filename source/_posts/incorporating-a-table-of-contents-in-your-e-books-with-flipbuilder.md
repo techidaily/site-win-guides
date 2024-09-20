@@ -1,7 +1,7 @@
 ---
 title: Incorporating a Table of Contents in Your E-Books with FlipBuilder
-date: 2024-09-18 21:56:16
-updated: 2024-09-20 12:56:23
+date: 2024-09-12T21:07:49.546Z
+updated: 2024-09-20T04:34:11.790Z
 tags:
   - product
 categories:
@@ -126,19 +126,31 @@ With the page-flipping ebook you have created, your book readers will be able to
 
 ![30day_Money_Back](https://www.flipbuilder.com/page-flip-ebook/../images/b123.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Refund Policy
 
 We want you to be 100% satisfied, so we offer an unconditional 30 Day Money Back Guarantee！
 
 ![30day_Money_Back](https://www.flipbuilder.com/page-flip-ebook/../images/pro_06_05.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

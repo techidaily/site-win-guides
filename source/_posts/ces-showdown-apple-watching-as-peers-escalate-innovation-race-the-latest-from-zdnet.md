@@ -1,7 +1,7 @@
 ---
 title: "CES Showdown: Apple Watching as Peers Escalate Innovation Race – The Latest From ZDNet"
-date: 2024-09-18 17:21:42
-updated: 2024-09-20 11:25:15
+date: 2024-09-19T00:10:13.520Z
+updated: 2024-09-19T20:43:18.865Z
 tags:
   - office-furniture
 categories:
@@ -55,6 +55,13 @@ Long have we waited for Apple's AR/VR headset, and it certainly seems like there
 
 Fortunately, HTC's latest [Vive XR Elite](https://www.zdnet.com/article/htcs-vive-xr-elite-aims-to-be-the-new-premium-headset-for-the-masses/) is a competent headset that, from our initial hands-on, impresses with a lightweight (625g) and portable build, diopters for glasses-free visibility (Something I'm hoping Apple will do as well. I mean, Tim Cook wears glasses!), and the ability to connect it to a phone or computer wired or wirelessly. Should Apple's upcoming headset be anything similar, HTC may have the leg up with its relatively cheaper [$1,099 price tag](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.vive.com/us/product/vive-xr-elite/overview/) and maturity within the VR space.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Qualcomm - Emergency SOS
 
 The Qualcomm Snapdragon 8 Gen 2 chipset will be prevalent across flagship Android phones later in the year.
@@ -66,6 +73,13 @@ Apple introduced satellite communications to the masses when it launched the [iP
 **More: [Android phones will soon get iPhone-like SOS satellite texting](https://www.zdnet.com/article/android-phones-will-soon-get-iphone-like-sos-satellite-texting/)**
 
 Snapdragon Satellite comes at a time when Apple has noticeably shifted its mobile focus onto more [protective features](https://www.zdnet.com/article/apple-announces-a-brand-new-life-saving-feature-crash-detection/), ones that may not be used every day but can very well [save you from life's most dangerous encounters](https://www.zdnet.com/article/the-iphone-14s-satellite-texting-feature-saves-stranded-snowmobiler-in-alaska/) when needed. However, Qualcomm is going beyond emergency phone calls with two-way messaging. This may mean future smartphones are much more functional even when they're taken outside of carrier coverage zones. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Samsung - Studio Display
 
@@ -107,8 +121,6 @@ From my hands-on look at the Samsung monitor, it's clear to me that the company 
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
