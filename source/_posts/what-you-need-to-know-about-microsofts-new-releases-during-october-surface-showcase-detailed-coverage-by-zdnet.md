@@ -1,7 +1,7 @@
 ---
 title: What You Need to Know About Microsoft's New Releases During October Surface Showcase | Detailed Coverage by ZDNet
-date: 2024-09-16T16:42:53.157Z
-updated: 2024-09-20T04:04:15.596Z
+date: 2024-09-24T20:52:11.232Z
+updated: 2024-09-25T21:07:31.421Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -116,16 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -139,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -185,3 +193,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-green-walls-in-grey-buildings-a-step-towards-eco-cities-for-2024/"><u>[New] Green Walls in Grey Buildings A Step Towards Eco-Cities for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-youtube-mastery-starts-here-building-and-monetizing-your-channel/"><u>2024 Approved YouTube Mastery Starts Here Building and Monetizing Your Channel</u></a></li>
+<li><a href="https://win-guides.techidaily.com/advanced-application-development-with-nuxt-and-laravel-master-the-craft-using-json-api-and-argon-dashboard-pro/"><u>Advanced Application Development with Nuxt & Laravel - Master the Craft Using JSON API and Argon Dashboard PRO</u></a></li>
+<li><a href="https://win-guides.techidaily.com/complimentary-administrator-interface-using-nextjs-plus-material-design-by-creative-tim/"><u>Complimentary Administrator Interface Using Next.js + Material Design by Creative Tim</u></a></li>
+<li><a href="https://win-guides.techidaily.com/creative-tims-premium-angular-bootstrap-admin-control-panel-with-over-11-advanced-features/"><u>Creative Tim's Premium Angular-Bootstrap Admin Control Panel with Over 11 Advanced Features</u></a></li>
+<li><a href="https://win-guides.techidaily.com/discover-a-wide-selection-of-top-rated-html5-boilerplate-layouts-by-creative-tim-for-your-web-project/"><u>Discover a Wide Selection of Top-Rated HTML5 Boilerplate Layouts by Creative Tim for Your Web Project!</u></a></li>
+<li><a href="https://win-guides.techidaily.com/explore-top-nodejs-frameworks-and-starter-kits-from-creative-tim-available-for-immediate-download/"><u>Explore Top Node.js Frameworks and Starter Kits From Creative Tim, Available for Immediate Download</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-samsung-galaxy-s23-tactical-edition-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Samsung Galaxy S23 Tactical Edition FRP Bypass Instantly</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/maximize-iphone-visual-capture-selective-photo-and-video-tools-for-2024/"><u>Maximize iPhone Visual Capture Selective Photo & Video Tools for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/step-by-step-guide-ps4-gaming-streams-using-obs/"><u>Step-by-Step Guide PS4 Gaming Streams Using OBS</u></a></li>
+</ul></div>
+

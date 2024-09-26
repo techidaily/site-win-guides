@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Subtle Feature Update Sparks Major Backlash - Insights From ZDNet
-date: 2024-09-17T21:51:15.538Z
-updated: 2024-09-19T20:48:06.191Z
+date: 2024-09-21T19:21:11.437Z
+updated: 2024-09-25T16:55:59.997Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -116,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -128,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -179,3 +193,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-finding-the-best-fit-essential-tips-to-choose-your-ideal-4k-monitor/"><u>[New] In 2024, Finding the Best Fit Essential Tips to Choose Your Ideal 4K Monitor</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1-how-to-save-brightcove-tutorials-as-mp4-or-avi-files-step-by-step-guide/"><u>1. How to Save Brightcove Tutorials as MP4 or AVI Files – Step-by-Step Guide</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1-step-by-step-guide-capturing-tv-shows-and-movies-as-mp4-files-on-macwindows/"><u>1. Step-by-Step Guide: Capturing TV Shows & Movies as MP4 Files on Mac/Windows</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-no-money-no-problem-heres-your-list-of-vfx-pages/"><u>2024 Approved No Money, No Problem! Here's Your List of VFX Pages</u></a></li>
+<li><a href="https://win-guides.techidaily.com/access-and-save-professional-development-how-to-easily-download-envatos-tutsplus-video-resources-and-courses/"><u>Access & Save Professional Development: How to Easily Download Envato's Tuts+ Video Resources and Courses</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-economical-cams-for-everyone/"><u>Best Economical Cams for Everyone</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-driver-verification-on-windows-enforcement-off-unsigned-loaded/"><u>Bypass Driver Verification on Windows: Enforcement Off, Unsigned Loaded</u></a></li>
+<li><a href="https://win-guides.techidaily.com/complete-guide-converting-damasio-video-files-avimkv-into-high-quality-mp4-or-mov-format-for-pc-and-mac/"><u>Complete Guide: Converting Damasio Video Files (AVI/MKV) Into High-Quality MP4 or MOV Format for PC & Mac</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dissecting-the-legal-implications-can-you-be-fired-for-chatgpt-use/"><u>Dissecting the Legal Implications: Can You Be Fired for ChatGPT Use?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-from-conversation-to-text-mastering-googles-document-feature/"><u>In 2024, From Conversation to Text Mastering Google's Document Feature</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-unleash-creativity-a-comprehensive-guide-to-instagram-video-upload-via-desktop/"><u>In 2024, Unleash Creativity A Comprehensive Guide to Instagram Video Upload via Desktop</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-gaming-screens-at-the-peak-of-performance/"><u>Top Gaming Screens at the Peak of Performance</u></a></li>
+</ul></div>
+

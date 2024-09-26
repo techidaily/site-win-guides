@@ -1,7 +1,7 @@
 ---
 title: "Discover How to Activate Bing's Newly Launched Dark Mode Feature: A Step-by-Step Guide"
-date: 2024-09-14T02:45:42.809Z
-updated: 2024-09-19T18:10:19.137Z
+date: 2024-09-19T20:00:03.457Z
+updated: 2024-09-25T20:45:16.511Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +75,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,13 +102,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -134,6 +147,13 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -179,3 +199,23 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-efficiently-storing-instagram-reels-two-simplified-techniques/"><u>[New] 2024 Approved Efficiently Storing Instagram Reels Two Simplified Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-advanced-tools-for-efficiently-converting-xmlssattml-to-srt/"><u>[New] Advanced Tools for Efficiently Converting XML/SSA/TTML to SRT</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unravel-the-best-web-resources-for-perfecting-your-video-subtitles/"><u>[Updated] Unravel the Best Web Resources for Perfecting Your Video Subtitles</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beating-the-silence-overcoming-voice-chat-failures-in-phasmophobia-gaming/"><u>Beating the Silence: Overcoming Voice Chat Failures in Phasmophobia Gaming</u></a></li>
+<li><a href="https://win-guides.techidaily.com/create-mobile-readable-ebooks-on-your-iphone-using-flipped-pages-interactive-and-html5-based-flipbuildercom/"><u>Create Mobile Readable eBooks on Your iPhone Using Flipped Pages - Interactive and HTML5 Based [FlipBuilder.com]</u></a></li>
+<li><a href="https://win-guides.techidaily.com/effortless-multilingual-and-feature-rich-templates-for-enhanced-readability-discover-at-flipbuildercom/"><u>Effortless Multilingual & Feature-Rich Templates for Enhanced Readability - Discover at FlipBuilder.com</u></a></li>
+<li><a href="https://win-guides.techidaily.com/enhance-reader-engagement-by-auto-playing-videos-on-arrival-discover-how-with-flipbuilder/"><u>Enhance Reader Engagement by Auto-Playing Videos on Arrival - Discover How with FlipBuilder</u></a></li>
+<li><a href="https://win-guides.techidaily.com/ensure-error-free-content-with-pre-conversion-text-editing-services-by-flipbuildercom/"><u>Ensure Error-Free Content with Pre-Conversion Text Editing Services by FlipBuilder.com</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-to-add-special-characters-during-text-input-in-flipbuilder/"><u>How to Add Special Characters During Text Input in FlipBuilder</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-selecting-premium-backgrounds-for-zoomgoogle-calls/"><u>In 2024, Selecting Premium Backgrounds for Zoom/Google Calls</u></a></li>
+<li><a href="https://win-guides.techidaily.com/incorporating-a-table-of-contents-in-your-e-books-with-flipbuilder/"><u>Incorporating a Table of Contents in Your E-Books with FlipBuilder</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-updated-graphics-card-fan-drivers-for-corsair-h8e-v2-liquid-cooler/"><u>Install Updated Graphics Card Fan Drivers for Corsair H8e V2 Liquid Cooler</u></a></li>
+<li><a href="https://win-guides.techidaily.com/integrating-your-site-with-flipbook-using-flipbuilder-a-step-by-step-guide/"><u>Integrating Your Site with FlipBook Using FlipBuilder: A Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/scambia-file-aac-con-mp3-senza-costi-servizio-online-gratuito-di-movavi/"><u>Scambia File AAC Con MP3 Senza Costi - Servizio Online Gratuito Di Movavi</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-syncopation-spotlight-the-top-video-editing-software-for-pairing-sound-and-visuals/"><u>Updated 2024 Approved Syncopation Spotlight The Top Video Editing Software for Pairing Sound and Visuals</u></a></li>
+</ul></div>
+

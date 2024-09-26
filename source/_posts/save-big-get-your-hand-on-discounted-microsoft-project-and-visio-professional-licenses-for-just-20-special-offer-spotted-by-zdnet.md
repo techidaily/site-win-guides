@@ -1,7 +1,7 @@
 ---
 title: "Save Big: Get Your Hand on Discounted Microsoft Project & Visio Professional Licenses For Just $20 – Special Offer Spotted by ZDNet!"
-date: 2024-09-18T21:09:29.097Z
-updated: 2024-09-20T02:12:26.347Z
+date: 2024-09-21T22:35:54.165Z
+updated: 2024-09-25T22:19:07.782Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -115,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -122,10 +136,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -133,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -179,3 +199,25 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-seo-sensation-a-comprehensive-guide-for-podcast-ranking-upliftment/"><u>[New] 2024 Approved SEO Sensation A Comprehensive Guide for Podcast Ranking Upliftment</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-the-beat-bringers-guide-integrating-melody-into-vimeo-videos/"><u>[New] The Beat Bringers' Guide Integrating Melody Into Vimeo Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-streamline-your-sessions-the-discord-recorders-handbook/"><u>[Updated] Streamline Your Sessions The Discord Recorder’s Handbook</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/dvdm2tsdvd/"><u>DVD化手帳:M2TSファイルを安全にDVDに保存する方法</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-honor-100-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-xiaomi-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Xiaomi using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-vivo-y28-5g-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Vivo Y28 5G?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-motorola-moto-g04-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Motorola Moto G04 Phone Pattern Lock</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-youcamessentials-webcamrecorderbasics/"><u>In 2024, YouCamEssentials WebCamRecorderBasics</u></a></li>
+<li><a href="https://win-guides.techidaily.com/seamlessly-connect-windows-to-android-mastering-the-art-of-file-sharing-with-googlen-quick-share-top-tips-and-tricks/"><u>Seamlessly Connect Windows to Android: Mastering the Art of File Sharing with Google'n Quick Share - Top Tips and Tricks</u></a></li>
+<li><a href="https://win-guides.techidaily.com/simplify-cross-platform-file-sharing-seamlessly-transfer-data-from-pc-to-phone-using-google-quick-share-insights-and-tips/"><u>Simplify Cross-Platform File Sharing: Seamlessly Transfer Data From PC to Phone Using Google Quick Share - Insights & Tips</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-guide-modifying-dns-configurations-on-a-windows-machine-essential-reasons-explained-zdnet/"><u>Step-by-Step Guide: Modifying DNS Configurations on a Windows Machine – Essential Reasons Explained (ZDNet)</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-tutorial-how-to-use-microsofts-integrated-functionality-for-screen-recording-in-windows-10-or-11/"><u>Step-by-Step Tutorial: How to Use Microsoft's Integrated Functionality for Screen Recording in Windows 10 or 11</u></a></li>
+<li><a href="https://win-guides.techidaily.com/the-pinnacle-of-portability-expert-review-of-the-acer-swift-edge-the-worlds-lightest-4k-oled-laptop-zdnet-insights/"><u>The Pinnacle of Portability: Expert Review of the Acer Swift Edge, The World's Lightest 4K OLED Laptop | ZDNet Insights</u></a></li>
+<li><a href="https://win-guides.techidaily.com/thinking-of-skipping-windows-11-upgrade-heres-a-smarter-alternative-zdnet-insight/"><u>Thinking of Skipping Windows 11 Upgrade? Here's a Smarter Alternative - ZDNet Insight</u></a></li>
+<li><a href="https://win-guides.techidaily.com/turn-back-time-for-your-legacy-computer-top-5-tricks-to-resurrect-and-save-money-using-windows/"><u>Turn Back Time for Your Legacy Computer: Top 5 Tricks to Resurrect and Save Money Using Windows</u></a></li>
+<li><a href="https://win-guides.techidaily.com/unleashing-customization-how-to-set-up-your-own-version-of-windows-11-without-limits/"><u>Unleashing Customization: How to Set Up Your Own Version of Windows 11 Without Limits</u></a></li>
+</ul></div>
+

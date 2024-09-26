@@ -1,7 +1,7 @@
 ---
 title: "Don't Risk It: Protect Your PC by Upgrading From Windows 11 21H2 and 22H2 Before End of Support Deadline Approaches | ZDNet Insights"
-date: 2024-09-19T06:53:51.552Z
-updated: 2024-09-19T22:52:34.491Z
+date: 2024-09-24T17:58:05.129Z
+updated: 2024-09-25T22:20:38.164Z
 tags:
   - windows
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -92,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -164,3 +178,23 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-guides.techidaily.com/1726792603655-y-plus-3-0/"><u> [Y + 3 = 0 </u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-enhancing-zoom-video-clarity-user-guide/"><u>[New] Enhancing Zoom Video Clarity User Guide</u></a></li>
+<li><a href="https://win-guides.techidaily.com/advanced-bootstrap-5-admin-design-with-argon-high-quality-framework-by-creative-tim/"><u>Advanced Bootstrap 5 Admin Design with Argon: High-Quality Framework by Creative Tim</u></a></li>
+<li><a href="https://win-guides.techidaily.com/advanced-materialdashboard-pro-with-react-and-aspnet-core-top-tier-admin-ui-design-by-creative-tim/"><u>Advanced MaterialDashboard Pro with React & ASP.NET Core | Top-Tier Admin UI Design by Creative Tim</u></a></li>
+<li><a href="https://win-guides.techidaily.com/advanced-pro-dashboard-with-bootstrap-4-exclusive-admin-design-by-creative-tim/"><u>Advanced Pro Dashboard with Bootstrap 4: Exclusive Admin Design by Creative Tim</u></a></li>
+<li><a href="https://win-guides.techidaily.com/build-your-own-professional-author-portfolio-using-the-premium-nextjs-and-tailwind-integration-free-template-from-creative-tim/"><u>Build Your Own Professional Author Portfolio Using the Premium NextJS and Tailwind Integration - Free Template From Creative Tim</u></a></li>
+<li><a href="https://win-guides.techidaily.com/creative-tims-ultimate-horizon-ai-pro-template-pack-with-pre-configured-nextjs-includes-advanced-integration-with-stripe-and-supabase-featuring-oauth-suppor10/"><u>Creative Tim's Ultimate Horizon AI Pro Template Pack with Pre-Configured NextJS: Includes Advanced Integration with Stripe and Supabase Featuring OAuth Support</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dive-into-diverse-languages-with-googles-editor-selection-mondly/"><u>Dive Into Diverse Languages With Google's Editor Selection - Mondly</u></a></li>
+<li><a href="https://win-guides.techidaily.com/download-our-complimentary-bootstrap-based-material-design-ui-framework-from-creative-tim/"><u>Download Our Complimentary Bootstrap-Based Material Design UI Framework From Creative Tim</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-savvy-saving-conversations-for-later-use/"><u>GPT-Savvy: Saving Conversations for Later Use</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/hulu-vs-hulu-plus-understanding-the-distinct-features/"><u>Hulu Vs. Hulu + - Understanding the Distinct Features</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/regional-contrasts-in-portuguese-keyboard-usage-europe-and-south-america/"><u>Regional Contrasts in Portuguese Keyboard Usage, Europe & South America</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-fps-settings-for-enhanced-4k-video-playback-quality/"><u>Top FPS Settings for Enhanced 4K Video Playback Quality</u></a></li>
+<li><a href="https://fox-http.techidaily.com/yearly-top-unpacking-channel-guide-the-best-of-2024/"><u>Yearly Top-Unpacking Channel Guide - The Best of 2024</u></a></li>
+</ul></div>
+

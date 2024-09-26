@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: How to Use Microsoft's Integrated Functionality for Screen Recording in Windows 10 or 11"
-date: 2024-09-14T20:00:28.411Z
-updated: 2024-09-19T18:42:15.524Z
+date: 2024-09-18T21:23:55.595Z
+updated: 2024-09-25T16:59:26.505Z
 tags:
   - windows
 categories:
@@ -39,6 +39,13 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Rename the new folder
 
 Right-click on the new folder and rename it to the following string:  
@@ -47,6 +54,13 @@ Right-click on the new folder and rename it to the following string:
 When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Launch the icon
 
@@ -60,18 +74,24 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -85,10 +105,10 @@ When done, click Next.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Name the shortcut
@@ -102,13 +122,6 @@ Screenshot by Lance Whitney/ZDNET
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -146,3 +159,17 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-capturing-pc-gaming-moments-6-innovative-techniques-for-2024/"><u>[New] Capturing PC Gaming Moments 6 Innovative Techniques for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/convert-multiple-powerpoint-presentations-into-interactive-ebooks-with-flipbuilder/"><u>Convert Multiple PowerPoint Presentations Into Interactive eBooks with FlipBuilder</u></a></li>
+<li><a href="https://win-guides.techidaily.com/convert-your-pdf-files-for-nothing-swift-transformation-to-word-powerpoint-flash-and-images-without-cost/"><u>Convert Your PDF Files for Nothing – Swift Transformation to Word, PowerPoint, Flash & Images without Cost!</u></a></li>
+<li><a href="https://win-guides.techidaily.com/create-mobile-readable-ebooks-on-your-iphone-using-flipped-pages-interactive-and-html5-based-flipbuildercom/"><u>Create Mobile Readable eBooks on Your iPhone Using Flipped Pages - Interactive and HTML5 Based [FlipBuilder.com]</u></a></li>
+<li><a href="https://win-guides.techidaily.com/effortless-multilingual-and-feature-rich-templates-for-enhanced-readability-discover-at-flipbuildercom/"><u>Effortless Multilingual & Feature-Rich Templates for Enhanced Readability - Discover at FlipBuilder.com</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-a-step-by-step-approach-to-yt-channel-descriptors/"><u>In 2024, A Step-by-Step Approach to YT Channel Descriptors</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-tecno-pova-5-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Tecno Pova 5 Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/prolific-producers-of-profits-online/"><u>Prolific Producers of Profits Online</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-mastery-comprehensive-editing-for-lifelong-learners-for-2024/"><u>YouTube Mastery Comprehensive Editing for Lifelong Learners for 2024</u></a></li>
+</ul></div>
+

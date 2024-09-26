@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Non-Touchscreen MacBook Into One with Detachable Screen: A Portable Monitor Review on ZDNet"
-date: 2024-09-13T20:39:32.466Z
-updated: 2024-09-19T21:34:08.318Z
+date: 2024-09-24T20:19:00.606Z
+updated: 2024-09-26T00:17:38.862Z
 tags:
   - office-furniture
 categories:
@@ -41,6 +41,13 @@ That mostly holds true with the Espresso Display V2, save for the cheaper price 
 
 The 15-inch touchscreen model that I've been testing [costs $499](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fespresso-Display-Touchscreen-Portable-External%2Fdp%2FB09WMX6442%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1bc3d3b8-b3a2-40ce-8922-9ea265e1f3ec%7Cdtp&dtb=1), which isn't the most expensive portable monitor out there, but it's a marginal step up from the sub-$200 offerings that you'd typically find on [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fs%3Fk%3Dportable%2Bmonitor%26i%3Delectronics%26crid%3D24ZP2PE8N0I59%26sprefix%3Dportable%2Bmonitor%2Celectronics%2C82%26ref%3Dnb%5Fsb%5Fnoss%5F1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1bc3d3b8-b3a2-40ce-8922-9ea265e1f3ec%7Cdtp&dtb=1). Here's my review of it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | Size           | 359x256x5.3mm                                                                                                                                                                                                                                                                      |
@@ -73,6 +80,13 @@ The monitor has two USB-C ports for display connection and nothing more. Gone is
 
 **More: [Best portable monitors to get work done](https://www.zdnet.com/article/best-portable-monitor/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How it works
 
 At this point, I should mention that the Display V2, by default, is sold as a monitor only. The magnetic stand that turns it into a mini iMac display costs extra ($69), as do all the other practical accessories that Espresso suggests you use. From my week of using the monitor, I think the magnetic stand plays too significant of a role to be sold separately. Not only does it allow you to easily rotate the Display V2 from landscape to portrait mode, but it offers two tilt points for flexible viewing. I'd happily pay for the accessory, but I wish I didn't have to.
@@ -95,6 +109,13 @@ June Wan/ZDNET
 
 There are bottom-firing speakers on the monitor, but you're better off using the native one(s) of your connected device. It's certainly astounding how Espresso managed to cram a functioning speaker into the chassis, but in its pursuit of slimness, the actual audio performance takes a major hit. 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Finally, a touchscreen for Mac
 
 Industrial achievements aside, the Display V2 impressed me the most by doing something that even Apple cannot: giving touchscreen support for my MacBook. As many [ZDNET contributors and readers have opined](https://www.zdnet.com/article/the-results-are-in-zdnets-linkedin-fans-want-a-touchscreen-macbook-too/), a MacBook with a touchscreen would make one of the best productivity machines even better. While the Display V2 doesn't turn your actual MacBook display into a touchscreen, it does replicate the content, allowing you to interact with taps, presses, and swipes. 
@@ -109,19 +130,6 @@ June Wan/ZDNET
 
 [Buy the Espresso Display V2 $683.07 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09WMX6442%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1bc3d3b8-b3a2-40ce-8922-9ea265e1f3ec%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Should you buy it?
 
 The [Espresso Display V2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fespresso-Display-Touchscreen-Portable-External%2Fdp%2FB09WMX6442%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1bc3d3b8-b3a2-40ce-8922-9ea265e1f3ec%7Cdtp&dtb=1) is the thinnest portable monitor in the world, which means, by design, there are benefits and drawbacks. For traveling business people, hybrid workers, and digital nomads, the enhanced portability and simple set-up will be greatly appreciated. For remote and stationary workers, the ability to flex between display orientations and interact via touch comes in handy. 
@@ -129,10 +137,10 @@ The [Espresso Display V2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=ht
 The things I'd watch out for are the subpar speakers, additional upcharges for accessories, and the glossy display panel, especially if you work near windows. If you can shoulder these limitations, then the Espresso Display V2 is as good as portable monitors get.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -178,3 +186,22 @@ For a no-frills portable monitor, we'd recommend this 15.6-inch, touchscreen off
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-perfecting-distance-remote-podcast-capture-techniques/"><u>[New] 2024 Approved Perfecting Distance Remote Podcast Capture Techniques</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-ultimate-guide-to-audio-integration-on-reels-for-2024/"><u>[New] The Ultimate Guide to Audio Integration on Reels for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-premium-film-experiences-yts-best-of-lists/"><u>[Updated] In 2024, Premium Film Experiences YT's Best Of Lists</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/xmedia-recode-and/"><u>「XMedia Recodeの日本語ファイルエクスプレッション強化 - セットアップ & 利用方法を学ぶ」</u></a></li>
+<li><a href="https://win-guides.techidaily.com/action-now-comprehensive-tips-for-effective-exporting-and-uploading-strategies/"><u>Action Now: Comprehensive Tips for Effective Exporting & Uploading Strategies</u></a></li>
+<li><a href="https://win-guides.techidaily.com/actionable-steps-crafting-engaging-video-walkthroughs/"><u>Actionable Steps: Crafting Engaging Video Walkthroughs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-pioneer-dj-ddjsx2-driver-easily-and-quickly/"><u>Download Pioneer DJ DDJ‑SX2 Driver | Easily & Quickly</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-to-integrate-a-webcam-stream-into-your-windows-recording-sessions/"><u>How to Integrate a Webcam Stream Into Your Windows Recording Sessions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-prime-creators-of-screenplay-world/"><u>In 2024, Prime Creators of Screenplay World</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/summit-series-of-ultimate-4k-touch-screens/"><u>Summit Series of Ultimate 4K Touch Screens</u></a></li>
+<li><a href="https://win-guides.techidaily.com/superior-substitutes-to-dxtory-find-your-perfect-match-with-allavsoft-on-both-mac-and-windows-systems/"><u>Superior Substitutes to Dxtory: Find Your Perfect Match with Allavsoft on Both Mac & Windows Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-vivo-t2-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Vivo T2 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/transferring-your-favorite-vimeo-videos-to-itunes-a-step-by-step-guide/"><u>Transferring Your Favorite Vimeo Videos to iTunes - A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-techniques-for-unlocking-stuck-screens-on-desktops-and-laptops/"><u>Troubleshooting Techniques for Unlocking Stuck Screens on Desktops & Laptops</u></a></li>
+</ul></div>
+

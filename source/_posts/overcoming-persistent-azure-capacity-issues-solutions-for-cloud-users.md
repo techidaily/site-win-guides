@@ -1,7 +1,7 @@
 ---
 title: Overcoming Persistent Azure Capacity Issues - Solutions for Cloud Users
-date: 2024-09-16T04:51:37.818Z
-updated: 2024-09-19T22:50:52.346Z
+date: 2024-09-24T23:00:34.548Z
+updated: 2024-09-25T20:33:34.701Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -116,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -129,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -179,3 +193,25 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-chromebook-pitch-and-timbre-control-guide-the-leading-online-speech-modifiers/"><u>2024 Approved Chromebook Pitch and Timbre Control Guide The Leading Online Speech Modifiers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-designing-your-musical-journey-youtube-playlist-construction-tips-webapp/"><u>2024 Approved Designing Your Musical Journey YouTube Playlist Construction Tips Web/App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-cutting-edge-replacements-for-the-gpt-mobile-experience/"><u>8 Cutting-Edge Replacements for the GPT Mobile Experience</u></a></li>
+<li><a href="https://win-guides.techidaily.com/ces-showdown-apple-watching-as-peers-escalate-innovation-race-the-latest-from-zdnet/"><u>CES Showdown: Apple Watching as Peers Escalate Innovation Race – The Latest From ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cost-free-webm-playback-the-top-10-players-reviewed-for-2024/"><u>Cost-Free WebM Playback The Top 10 Players Reviewed for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/dont-risk-it-protect-your-pc-by-upgrading-from-windows-11-21h2-and-22h2-before-end-of-support-deadline-approaches-zdnet-insights/"><u>Don't Risk It: Protect Your PC by Upgrading From Windows 11 21H2 and 22H2 Before End of Support Deadline Approaches | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-picks-for-top-performing-motherboards-in-2024-detailed-analysis-based-on-socket-and-chipset-options/"><u>Expert Picks for Top-Performing Motherboards in 202^4 - Detailed Analysis Based on Socket & Chipset Options</u></a></li>
+<li><a href="https://win-guides.techidaily.com/free-windows-11-upgrade-where-did-it-disappear-to/"><u>Free Windows 11 Upgrade: Where Did It Disappear To?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-photography-pro-key-positions-and-perspectives-on-your-iphone/"><u>In 2024, Photography Pro Key Positions and Perspectives on Your iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-future-of-interaction-with-microsofts-hololens-review/"><u>In 2024, The Future of Interaction with Microsoft's HoloLens Review</u></a></li>
+<li><a href="https://win-guides.techidaily.com/latest-windows-11-update-brings-improved-android-integration-quick-voice-transcription-zdnet-news/"><u>Latest Windows 11 Update Brings Improved Android Integration, Quick Voice Transcription | ZDNET News</u></a></li>
+<li><a href="https://win-guides.techidaily.com/microsoft-reveals-pricing-plan-for-future-windows-10-updates-understanding-the-new-changes-and-potential-impacts/"><u>Microsoft Reveals Pricing Plan for Future Windows 10 Updates - Understanding the New Changes and Potential Impacts</u></a></li>
+<li><a href="https://win-guides.techidaily.com/pc-gaming-preferences-tilt-towards-windows-11-leaves-windows-10-behind-insights-from-zdnet/"><u>PC Gaming Preferences Tilt Towards Windows 11, Leaves Windows 10 Behind: Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/streamline-your-workflow-with-the-fujitsu-scansnap-ix1400-the-ultimate-scanner-review-for-smbs-and-home-office-professionals/"><u>Streamline Your Workflow with the Fujitsu ScanSnap iX1400: The Ultimate Scanner Review for SMBs & Home Office Professionals</u></a></li>
+<li><a href="https://win-guides.techidaily.com/top-ranked-ergonomic-office-seats-comprehensive-guide-by-zdnet/"><u>Top-Ranked Ergonomic Office Seats : Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://win-guides.techidaily.com/transform-your-non-touchscreen-macbook-into-one-with-detachable-screen-a-portable-monitor-review-on-zdnet/"><u>Transform Your Non-Touchscreen MacBook Into One with Detachable Screen: A Portable Monitor Review on ZDNet</u></a></li>
+</ul></div>
+

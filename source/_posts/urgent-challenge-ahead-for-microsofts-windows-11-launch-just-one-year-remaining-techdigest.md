@@ -1,7 +1,7 @@
 ---
 title: Urgent Challenge Ahead for Microsoft's Windows 11 Launch - Just One Year Remaining | TechDigest
-date: 2024-09-13T16:35:24.219Z
-updated: 2024-09-19T20:07:49.765Z
+date: 2024-09-22T18:37:49.937Z
+updated: 2024-09-25T18:12:18.382Z
 tags:
   - microsoft
 categories:
@@ -83,6 +83,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4\. Pay for Windows 10 Extended Support**
 
 Of course, you could buy support for your Windows 10 machine. Microsoft recently [announced](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/when-to-use-windows-10-extended-security-updates/ba-p/4102628) pricing for its [Extended Security Updates (ESUs) for Windows 10](https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Extended%20Security%20Updates%20%28ESUs%29%20for%20Windows%2010%22%7D), particularly for businesses and educational institutions. Consumer pricing remains unclear.
@@ -115,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -122,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -185,3 +199,27 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-ensuring-your-pictures-endure-top-rated-cloud-storage-services-for-2024/"><u>[New] Ensuring Your Pictures Endure Top-Rated Cloud Storage Services for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-the-ins-and-outs-of-earning-from-youtube/"><u>[New] In 2024, The Ins and Outs of Earning From YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-navigating-the-world-of-instagram-and-podcast-sharing/"><u>[Updated] Navigating the World of Instagram & Podcast Sharing</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1-ultimate-record-and-capture-app-best-freecorder-substitutes-available-on-macwindows/"><u>1. Ultimate Record & Capture App: Best Freecorder Substitutes Available on Mac/Windows</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-intense-action-iphone-tips-for-artistic-motion-blur-photos/"><u>2024 Approved Intense Action IPhone Tips for Artistic Motion-Blur Photos</u></a></li>
+<li><a href="https://win-guides.techidaily.com/action-now-comprehensive-tips-for-effective-exporting-and-uploading-strategies/"><u>Action Now: Comprehensive Tips for Effective Exporting & Uploading Strategies</u></a></li>
+<li><a href="https://win-guides.techidaily.com/actionable-steps-crafting-engaging-video-walkthroughs/"><u>Actionable Steps: Crafting Engaging Video Walkthroughs</u></a></li>
+<li><a href="https://win-guides.techidaily.com/easy-guide-to-save-and-convert-playvids-content-as-mp4-wmv-mov-or-avi-files/"><u>Easy Guide to Save and Convert PlayVids Content as MP4, WMV, MOV, or AVI Files</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oppo-a1x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Oppo A1x 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-to-integrate-a-webcam-stream-into-your-windows-recording-sessions/"><u>How to Integrate a Webcam Stream Into Your Windows Recording Sessions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-s23-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel S23 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-xiaomi-redmi-note-13-proplus-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Xiaomi Redmi Note 13 Pro+ 5G?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/make-a-splash-on-social-media-adding-animated-text-to-instagram-stories-for-2024/"><u>Make a Splash on Social Media Adding Animated Text to Instagram Stories for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-guide-convert-and-save-hotstar-content-as-mp4-or-avi-files/"><u>Step-by-Step Guide: Convert and Save Hotstar Content as MP4 or AVI Files</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-installing-the-latest-amd-driver-in-windows-os/"><u>Step-by-Step Tutorial: Installing the Latest AMD Driver in Windows OS</u></a></li>
+<li><a href="https://win-guides.techidaily.com/superior-substitutes-to-dxtory-find-your-perfect-match-with-allavsoft-on-both-mac-and-windows-systems/"><u>Superior Substitutes to Dxtory: Find Your Perfect Match with Allavsoft on Both Mac & Windows Systems</u></a></li>
+<li><a href="https://win-guides.techidaily.com/transferring-your-favorite-vimeo-videos-to-itunes-a-step-by-step-guide/"><u>Transferring Your Favorite Vimeo Videos to iTunes - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-guides.techidaily.com/ultimate-guide-converting-online-audio-streams-into-high-quality-mp3-files/"><u>Ultimate Guide: Converting Online Audio Streams Into High-Quality MP3 Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726228274213-mpeg-asf-movavi/"><u>제공자가 아닌 웹사이트에서 무료 MPEG ASF 영상 데이터 교체 - Movavi</u></a></li>
+</ul></div>
+

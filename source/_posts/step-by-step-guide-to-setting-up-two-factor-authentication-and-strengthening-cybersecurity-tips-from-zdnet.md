@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Setting Up Two-Factor Authentication & Strengthening Cybersecurity - Tips From ZDNet
-date: 2024-09-16T00:18:48.801Z
-updated: 2024-09-19T23:07:16.448Z
+date: 2024-09-18T23:57:17.751Z
+updated: 2024-09-25T16:12:10.247Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,19 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -135,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -185,3 +193,27 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-elevate-your-drone-game-with-top-tier-lipo-tech/"><u>[New] In 2024, Elevate Your Drone Game with Top-Tier LiPo Tech</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-step-by-step-guide-to-joining-and-initiating-zoom-meetings-on-android/"><u>[Updated] In 2024, Step-By-Step Guide to Joining & Initiating Zoom Meetings on Android</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-fix-fixed-no-more-obs-camera-issues/"><u>2024 Approved Fix Fixed No More OBS Camera Issues</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-samsung-galaxy-a23-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Samsung Galaxy A23 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/applying-local-group-policies-to-individual-users-windows-11-guide/"><u>Applying Local Group Policies to Individual Users: Windows 11 Guide</u></a></li>
+<li><a href="https://win-guides.techidaily.com/create-spacious-flipbooks-for-improved-readability-tips-and-tricks-at-flipbuildercom/"><u>Create Spacious Flipbooks for Improved Readability - Tips and Tricks at FlipBuilder.com</u></a></li>
+<li><a href="https://win-guides.techidaily.com/customize-your-own-product-guides-with-ease-using-advanced-template-options-at-flipbuildercom/"><u>Customize Your Own Product Guides with Ease Using Advanced Template Options at FlipBuilder.com</u></a></li>
+<li><a href="https://win-guides.techidaily.com/customizing-your-slideshow-layout-with-background-images-on-flipbook-platform/"><u>Customizing Your Slideshow Layout with Background Images on FlipBook Platform</u></a></li>
+<li><a href="https://win-guides.techidaily.com/does-flipbuilder-impose-size-limits-on-importing-pdfs-and-converting-them-into-e-books/"><u>Does FlipBuilder Impose Size Limits on Importing PDFs and Converting Them Into E-Books?</u></a></li>
+<li><a href="https://win-guides.techidaily.com/effortless-integration-of-hyperlinks-in-ebook-content-with-flipbuilder-a-step-by-step-guide/"><u>Effortless Integration of Hyperlinks in eBook Content with FlipBuilder: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-guides.techidaily.com/enhancing-flipbooks-with-audio-learn-the-steps-for-embedding-songs-using-flipbuilders-features/"><u>Enhancing Flipbooks with Audio - Learn the Steps for Embedding Songs Using FlipBuilder's Features</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhancing-your-interview-impact-and-credibility/"><u>Enhancing Your Interview Impact and Credibility</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-does-flipbuilder-handle-product-returns-and-refunds-unveiling-the-process/"><u>How Does FlipBuilder Handle Product Returns and Refunds? Unveiling the Process</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-to-design-your-own-interactive-french-flipbook-with-flipbuilder/"><u>How To Design Your Own Interactive French Flipbook with FlipBuilder</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-to-implement-image-security-adding-watermarks-for-your-digital-publications-on-flipbuilder/"><u>How to Implement Image Security: Adding Watermarks for Your Digital Publications on FlipBuilder</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-bootloader-easily-by-drfone-android/"><u>How to Unlock Infinix Bootloader Easily</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-honor-magic-vs-2-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Honor Magic Vs 2 Phones? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-hurdles-in-accessing-network-router/"><u>Overcoming Hurdles in Accessing Network Router</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-tips-to-mastering-the-art-of-hashtag-creation-on-youtube-for-2024/"><u>Top Tips to Mastering the Art of Hashtag Creation on YouTube for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Inside the Microsoft 365 Downtime Impacting Countless Clients, Insights From ZDNet's Analysis
-date: 2024-09-13T06:36:52.933Z
-updated: 2024-09-19T20:56:12.403Z
+date: 2024-09-24T16:51:46.549Z
+updated: 2024-09-25T20:29:41.628Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,9 +135,23 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -179,3 +193,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-seamless-instagram-story-layering-techniques/"><u>[Updated] 2024 Approved Seamless Instagram Story Layering Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-best-online-voice-recorders/"><u>[Updated] Best Online Voice Recorders</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-film-creation-guide-and-other-options/"><u>2024 Approved YouTube Film Creation Guide & Other Options</u></a></li>
+<li><a href="https://video-capture.techidaily.com/buy-the-ultimate-wonderfox-collection-compatible-with-your-ipad/"><u>Buy the Ultimate WonderFox Collection: Compatible with Your iPad!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-mastery-advanced-strategies-for-highly-effective-professional-notes/"><u>ChatGPT Mastery: Advanced Strategies for Highly Effective Professional Notes</u></a></li>
+<li><a href="https://win-guides.techidaily.com/discover-how-to-activate-bings-newly-launched-dark-mode-feature-a-step-by-step-guide/"><u>Discover How to Activate Bing's Newly Launched Dark Mode Feature: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-guides.techidaily.com/expertly-evaluated-2024s-finest-tablets-your-ultimate-buying-guide-zdnet/"><u>Expertly Evaluated 2024'S Finest Tablets - Your Ultimate Buying Guide | ZDNet</u></a></li>
+<li><a href="https://win-guides.techidaily.com/former-microsoft-boss-steve-ballmer-confesses-lacking-bravery-insights-from-zdnet/"><u>Former Microsoft Boss Steve Ballmer Confesses Lacking Bravery: Insights From ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-treasure-trove-guide-to-public-domain-images/"><u>In 2024, A Treasure Trove Guide to Public Domain Images</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Different Ways to Find Pokemon Go Trainer Codes to Add to Your Account On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-honor-x8b-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Honor X8b Phone?</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/preserving-literary-heritage-digitizing-tolstoys-works-with-abbyy-technology/"><u>Preserving Literary Heritage: Digitizing Tolstoy's Works with ABBYY Technology</u></a></li>
+<li><a href="https://win-guides.techidaily.com/upgrading-from-windows-home-to-pro-benefits-and-how-to-guide/"><u>Upgrading From Windows Home to Pro: Benefits & How-To Guide</u></a></li>
+</ul></div>
+
