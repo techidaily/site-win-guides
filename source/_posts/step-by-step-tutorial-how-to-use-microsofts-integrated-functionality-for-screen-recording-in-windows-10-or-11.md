@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: How to Use Microsoft's Integrated Functionality for Screen Recording in Windows 10 or 11"
-date: 2024-09-18T21:23:55.595Z
-updated: 2024-09-25T16:59:26.505Z
+date: 2024-09-28T02:41:51.647Z
+updated: 2024-09-30T00:59:58.437Z
 tags:
   - windows
 categories:
@@ -40,10 +40,16 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
@@ -54,13 +60,6 @@ Right-click on the new folder and rename it to the following string:
 When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Launch the icon
 
@@ -74,6 +73,13 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
@@ -81,16 +87,10 @@ When you see the setting or command you want, simply double-click it to launch i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
@@ -104,13 +104,6 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
@@ -122,6 +115,19 @@ Screenshot by Lance Whitney/ZDNET
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -162,14 +168,14 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-capturing-pc-gaming-moments-6-innovative-techniques-for-2024/"><u>[New] Capturing PC Gaming Moments 6 Innovative Techniques for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/convert-multiple-powerpoint-presentations-into-interactive-ebooks-with-flipbuilder/"><u>Convert Multiple PowerPoint Presentations Into Interactive eBooks with FlipBuilder</u></a></li>
-<li><a href="https://win-guides.techidaily.com/convert-your-pdf-files-for-nothing-swift-transformation-to-word-powerpoint-flash-and-images-without-cost/"><u>Convert Your PDF Files for Nothing – Swift Transformation to Word, PowerPoint, Flash & Images without Cost!</u></a></li>
-<li><a href="https://win-guides.techidaily.com/create-mobile-readable-ebooks-on-your-iphone-using-flipped-pages-interactive-and-html5-based-flipbuildercom/"><u>Create Mobile Readable eBooks on Your iPhone Using Flipped Pages - Interactive and HTML5 Based [FlipBuilder.com]</u></a></li>
-<li><a href="https://win-guides.techidaily.com/effortless-multilingual-and-feature-rich-templates-for-enhanced-readability-discover-at-flipbuildercom/"><u>Effortless Multilingual & Feature-Rich Templates for Enhanced Readability - Discover at FlipBuilder.com</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-a-step-by-step-approach-to-yt-channel-descriptors/"><u>In 2024, A Step-by-Step Approach to YT Channel Descriptors</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-tecno-pova-5-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Tecno Pova 5 Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/prolific-producers-of-profits-online/"><u>Prolific Producers of Profits Online</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/youtube-mastery-comprehensive-editing-for-lifelong-learners-for-2024/"><u>YouTube Mastery Comprehensive Editing for Lifelong Learners for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-comprehensive-techniques-recording-movies-with-windowsmacosios-for-2024/"><u>[Updated] Comprehensive Techniques Recording Movies with Windows/macOS/iOS for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1-transform-your-pc-the-essential-guide-on-upgrading-from-windows-home-to-professional-get-the-ultimate-features/"><u>1. Transform Your PC: The Essential Guide on Upgrading From Windows Home to Professional - Get the Ultimate Features!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/adjust-installation-to-processor/"><u>Adjust Installation to Processor</u></a></li>
+<li><a href="https://win-guides.techidaily.com/enhance-account-safety-with-2fa-a-step-by-step-guide-on-activating-multi-factor-protection-zdnet/"><u>Enhance Account Safety with 2FA: A Step-by-Step Guide on Activating Multi-Factor Protection | ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-hevc-h265-codec-boost-your-videos-to-ultra-hd-quality-without-cost/"><u>Free HEVC H.265 Codec: Boost Your Videos to Ultra HD Quality without Cost</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-gen-alpha-ai-enhances-programmer-efficiency-insights-from-new-research-techworld/"><u>How Gen Alpha AI Enhances Programmer Efficiency: Insights From New Research | TechWorld</u></a></li>
+<li><a href="https://win-able.techidaily.com/nba-2k20-gameplay-hacked-eliminate-crashes-with-these-simple-fixes/"><u>NBA 2K20 Gameplay Hacked: Eliminate Crashes with These Simple Fixes!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/retrieve-stored-password-secrets-on-your-mac-step-by-step-tutorial/"><u>Retrieve Stored Password Secrets on Your Mac - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-guides.techidaily.com/ultimate-guide-to-the-finest-windows-computers-thoroughly-tested-and-critiqued-zdnet/"><u>Ultimate Guide to the Finest Windows Computers - Thoroughly Tested & Critiqued | ZDNET</u></a></li>
 </ul></div>
 

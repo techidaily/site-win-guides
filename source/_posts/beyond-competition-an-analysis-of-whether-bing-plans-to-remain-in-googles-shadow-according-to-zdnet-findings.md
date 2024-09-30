@@ -1,7 +1,7 @@
 ---
 title: "Beyond Competition: An Analysis of Whether Bing Plans to Remain in Google's Shadow, According to ZDNet Findings"
-date: 2024-09-20T21:33:24.912Z
-updated: 2024-09-25T20:31:33.544Z
+date: 2024-09-26T23:30:12.392Z
+updated: 2024-09-30T09:23:03.515Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,13 +102,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -137,10 +136,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,6 +153,13 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -196,17 +208,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-conquer-kinemaster-efficient-use-plus-top-online-gaming-platforms-reviewed/"><u>[Updated] 2024 Approved Conquer KineMaster Efficient Use + Top Online Gaming Platforms Reviewed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-music-infused-videos-perfecting-sound-with-inshot/"><u>2024 Approved Music-Infused Videos Perfecting Sound with InShot</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-step-further-in-animation-innovative-techniques-using-movie-maker-for-2024/"><u>A Step Further in Animation Innovative Techniques Using Movie Maker for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/former-microsoft-boss-steve-ballmer-confesses-lacking-bravery-insights-from-zdnet/"><u>Former Microsoft Boss Steve Ballmer Confesses Lacking Bravery: Insights From ZDNet</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/hands-on-msi-pro-mp161-e2-portable-monitor/"><u>Hands-On: MSI PRO MP161 E2 Portable Monitor</u></a></li>
-<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-14-pro-max-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone 14 Pro Max Space | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-infinix-note-30-vip-racing-edition-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Infinix Note 30 VIP Racing Edition Phone Screen?</u></a></li>
-<li><a href="https://win-guides.techidaily.com/microsofts-subtle-feature-update-sparks-major-backlash-insights-from-zdnet/"><u>Microsoft's Subtle Feature Update Sparks Major Backlash - Insights From ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/transfer-your-world-top-techniques-for-moving-data-flawlessly-from-old-iphone-to-new-iphone-x/"><u>Transfer Your World: Top Techniques for Moving Data Flawlessly From Old iPhone to New iPhone X</u></a></li>
-<li><a href="https://win-guides.techidaily.com/unveiling-microsofts-new-ai-feature-revolutionize-your-workflow-with-their-innovative-copy-and-paste-functionality-insider-tips-on-usage-techcrunch/"><u>Unveiling Microsoft's New AI Feature: Revolutionize Your Workflow with Their Innovative Copy-and-Paste Functionality - Insider Tips on Usage | TechCrunch</u></a></li>
-<li><a href="https://win-guides.techidaily.com/unveiling-the-plans-of-top-tech-firms-for-juneteenth-commemoration/"><u>Unveiling the Plans of Top Tech Firms for Juneteenth Commemoration</u></a></li>
-<li><a href="https://win-guides.techidaily.com/upgrade-your-microsoft-surface-pros-storage-cost-effectively-with-our-simple-guide/"><u>Upgrade Your Microsoft Surface Pro's Storage Cost-Effectively with Our Simple Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-optimal-voice-modification-software-for-video-makers/"><u>[New] 2024 Approved Optimal Voice Modification Software for Video Makers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-create-video-ads-for-free-in-youtube-video-builder/"><u>[Updated] In 2024, How to Create Video Ads for Free in YouTube Video Builder</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-how-to-record-a-gotomeeting-session-on-pcs-and-smartphones/"><u>[Updated] In 2024, How to Record a GoToMeeting Session on PCs and Smartphones?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-simplified-storytelling-methodology/"><u>[Updated] Simplified Storytelling Methodology</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/conquer-recording-challenges-using-ezvides-screencasting/"><u>Conquer Recording Challenges Using EZvide's Screencasting</u></a></li>
+<li><a href="https://win-guides.techidaily.com/create-spacious-flipbooks-for-improved-readability-tips-and-tricks-at-flipbuildercom/"><u>Create Spacious Flipbooks for Improved Readability - Tips and Tricks at FlipBuilder.com</u></a></li>
+<li><a href="https://win-guides.techidaily.com/customize-your-own-product-guides-with-ease-using-advanced-template-options-at-flipbuildercom/"><u>Customize Your Own Product Guides with Ease Using Advanced Template Options at FlipBuilder.com</u></a></li>
+<li><a href="https://win-guides.techidaily.com/customizing-your-slideshow-layout-with-background-images-on-flipbook-platform/"><u>Customizing Your Slideshow Layout with Background Images on FlipBook Platform</u></a></li>
+<li><a href="https://win-guides.techidaily.com/does-flipbuilder-impose-size-limits-on-importing-pdfs-and-converting-them-into-e-books/"><u>Does FlipBuilder Impose Size Limits on Importing PDFs and Converting Them Into E-Books?</u></a></li>
+<li><a href="https://win-guides.techidaily.com/effortless-integration-of-hyperlinks-in-ebook-content-with-flipbuilder-a-step-by-step-guide/"><u>Effortless Integration of Hyperlinks in eBook Content with FlipBuilder: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-guides.techidaily.com/enhancing-flipbooks-with-audio-learn-the-steps-for-embedding-songs-using-flipbuilders-features/"><u>Enhancing Flipbooks with Audio - Learn the Steps for Embedding Songs Using FlipBuilder's Features</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-ai-is-changing-your-search-game-discover-microsofts-newly-updated-bing/"><u>How AI Is Changing Your Search Game: Discover Microsoft's Newly Updated Bing</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-does-flipbuilder-handle-product-returns-and-refunds-unveiling-the-process/"><u>How Does FlipBuilder Handle Product Returns and Refunds? Unveiling the Process</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-v29e-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo V29e to PC? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
 

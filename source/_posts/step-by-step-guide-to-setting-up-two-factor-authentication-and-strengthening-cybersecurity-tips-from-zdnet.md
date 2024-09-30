@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Setting Up Two-Factor Authentication & Strengthening Cybersecurity - Tips From ZDNet
-date: 2024-09-18T23:57:17.751Z
-updated: 2024-09-25T16:12:10.247Z
+date: 2024-09-26T09:37:01.983Z
+updated: 2024-09-29T18:55:50.310Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,24 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-elevate-your-drone-game-with-top-tier-lipo-tech/"><u>[New] In 2024, Elevate Your Drone Game with Top-Tier LiPo Tech</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-step-by-step-guide-to-joining-and-initiating-zoom-meetings-on-android/"><u>[Updated] In 2024, Step-By-Step Guide to Joining & Initiating Zoom Meetings on Android</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-fix-fixed-no-more-obs-camera-issues/"><u>2024 Approved Fix Fixed No More OBS Camera Issues</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-samsung-galaxy-a23-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Samsung Galaxy A23 5G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/applying-local-group-policies-to-individual-users-windows-11-guide/"><u>Applying Local Group Policies to Individual Users: Windows 11 Guide</u></a></li>
-<li><a href="https://win-guides.techidaily.com/create-spacious-flipbooks-for-improved-readability-tips-and-tricks-at-flipbuildercom/"><u>Create Spacious Flipbooks for Improved Readability - Tips and Tricks at FlipBuilder.com</u></a></li>
-<li><a href="https://win-guides.techidaily.com/customize-your-own-product-guides-with-ease-using-advanced-template-options-at-flipbuildercom/"><u>Customize Your Own Product Guides with Ease Using Advanced Template Options at FlipBuilder.com</u></a></li>
-<li><a href="https://win-guides.techidaily.com/customizing-your-slideshow-layout-with-background-images-on-flipbook-platform/"><u>Customizing Your Slideshow Layout with Background Images on FlipBook Platform</u></a></li>
-<li><a href="https://win-guides.techidaily.com/does-flipbuilder-impose-size-limits-on-importing-pdfs-and-converting-them-into-e-books/"><u>Does FlipBuilder Impose Size Limits on Importing PDFs and Converting Them Into E-Books?</u></a></li>
-<li><a href="https://win-guides.techidaily.com/effortless-integration-of-hyperlinks-in-ebook-content-with-flipbuilder-a-step-by-step-guide/"><u>Effortless Integration of Hyperlinks in eBook Content with FlipBuilder: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-guides.techidaily.com/enhancing-flipbooks-with-audio-learn-the-steps-for-embedding-songs-using-flipbuilders-features/"><u>Enhancing Flipbooks with Audio - Learn the Steps for Embedding Songs Using FlipBuilder's Features</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/enhancing-your-interview-impact-and-credibility/"><u>Enhancing Your Interview Impact and Credibility</u></a></li>
-<li><a href="https://win-guides.techidaily.com/how-does-flipbuilder-handle-product-returns-and-refunds-unveiling-the-process/"><u>How Does FlipBuilder Handle Product Returns and Refunds? Unveiling the Process</u></a></li>
-<li><a href="https://win-guides.techidaily.com/how-to-design-your-own-interactive-french-flipbook-with-flipbuilder/"><u>How To Design Your Own Interactive French Flipbook with FlipBuilder</u></a></li>
-<li><a href="https://win-guides.techidaily.com/how-to-implement-image-security-adding-watermarks-for-your-digital-publications-on-flipbuilder/"><u>How to Implement Image Security: Adding Watermarks for Your Digital Publications on FlipBuilder</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-bootloader-easily-by-drfone-android/"><u>How to Unlock Infinix Bootloader Easily</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-honor-magic-vs-2-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Honor Magic Vs 2 Phones? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-hurdles-in-accessing-network-router/"><u>Overcoming Hurdles in Accessing Network Router</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/top-tips-to-mastering-the-art-of-hashtag-creation-on-youtube-for-2024/"><u>Top Tips to Mastering the Art of Hashtag Creation on YouTube for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-detailed-review-for-easy-hdr/"><u>[New] 2024 Approved Detailed Review for Easy HDR</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-transforming-views-into-brand-loyalty-for-2024/"><u>[New] Transforming Views Into Brand Loyalty for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-expert-pick-mics-for-youtube-entrepreneurs/"><u>[Updated] 2024 Approved Expert Pick Mics for YouTube Entrepreneurs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expertise-in-virtual-assessment-vll-of-apps/"><u>[Updated] Expertise in Virtual Assessment VLL of Apps</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1-ultimate-record-and-capture-app-best-freecorder-substitutes-available-on-macwindows/"><u>1. Ultimate Record & Capture App: Best Freecorder Substitutes Available on Mac/Windows</u></a></li>
+<li><a href="https://win-guides.techidaily.com/action-now-comprehensive-tips-for-effective-exporting-and-uploading-strategies/"><u>Action Now: Comprehensive Tips for Effective Exporting & Uploading Strategies</u></a></li>
+<li><a href="https://win-guides.techidaily.com/actionable-steps-crafting-engaging-video-walkthroughs/"><u>Actionable Steps: Crafting Engaging Video Walkthroughs</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-resetting-video-issue-for-smooth-windows-use/"><u>Addressing Resetting Video Issue for Smooth Windows Use</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-of-death-no-more-rtwlanesys-error-solution/"><u>Blue Screen of Death No More - 'rtwlane.sys' Error Solution</u></a></li>
+<li><a href="https://win-guides.techidaily.com/easy-guide-to-save-and-convert-playvids-content-as-mp4-wmv-mov-or-avi-files/"><u>Easy Guide to Save and Convert PlayVids Content as MP4, WMV, MOV, or AVI Files</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-tecno-spark-20-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Tecno Spark 20</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-xr-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone XR</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-guide-convert-and-save-hotstar-content-as-mp4-or-avi-files/"><u>Step-by-Step Guide: Convert and Save Hotstar Content as MP4 or AVI Files</u></a></li>
+<li><a href="https://win-guides.techidaily.com/superior-substitutes-to-dxtory-find-your-perfect-match-with-allavsoft-on-both-mac-and-windows-systems/"><u>Superior Substitutes to Dxtory: Find Your Perfect Match with Allavsoft on Both Mac & Windows Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-seamless-shift-an-introduction-to-crossfades-for-2024/"><u>The Seamless Shift An Introduction to Crossfades for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/transferring-your-favorite-vimeo-videos-to-itunes-a-step-by-step-guide/"><u>Transferring Your Favorite Vimeo Videos to iTunes - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-guides.techidaily.com/ultimate-guide-converting-online-audio-streams-into-high-quality-mp3-files/"><u>Ultimate Guide: Converting Online Audio Streams Into High-Quality MP3 Files</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Ultimate Trick for Using iMessages on Your Windows PC or Laptop: Send and Receive Seamlessly"
-date: 2024-09-20T16:21:34.879Z
-updated: 2024-09-25T23:24:22.904Z
+date: 2024-09-28T22:03:23.632Z
+updated: 2024-09-29T22:32:25.182Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,19 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-game-soundscapes-transformed-a-ps4ps5-journey-for-2024/"><u>[Updated] Game Soundscapes Transformed A PS4/PS5 Journey for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-top-ten-viewers-favorites-in-a-single-day-on-youtube/"><u>[Updated] Top Ten Viewers' Favorites in a Single Day on YouTube</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-top-ten-webcam-enhancers-master-stream-quality/"><u>2024 Approved The Top-Ten Webcam Enhancers Master Stream Quality</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/a-compreranly-curated-list-best-free-srt-translators-online/"><u>A Compreranly Curated List Best Free SRT Translators Online</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/amd-rx-6800-driver-installation-guide-for-windows-111087-operating-systems/"><u>AMD RX 6800 Driver Installation Guide for Windows 11/10/8/7 Operating Systems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/battlefield-npc-launch-problems-heres-the-fix-that-worked-for-me/"><u>Battlefield nPC Launch Problems? Here's the Fix That Worked for Me!</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/enhancing-readability-in-flipbooks-by-adding-help-files-the-ultimate-guide-using-flipbuilder-tools/"><u>Enhancing Readability in Flipbooks by Adding Help Files: The Ultimate Guide Using FlipBuilder Tools</u></a></li>
-<li><a href="https://win-guides.techidaily.com/improving-your-documents-details-resizing-and-enhancing-with-flip-pdf-pro/"><u>Improving Your Document's Details: Resizing & Enhancing with Flip PDF Pro</u></a></li>
-<li><a href="https://win-guides.techidaily.com/mastering-shadow-effects-in-your-digital-magazine-with-flipbuilder/"><u>Mastering Shadow Effects in Your Digital Magazine with FlipBuilder</u></a></li>
-<li><a href="https://win-guides.techidaily.com/quick-guide-to-adding-print-sections-for-booklet-layouts-using-createbookletpro/"><u>Quick Guide to Adding Print Sections for Booklet Layouts Using CreateBookletPro</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-poco-x6-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/retrieve-your-sales-receipt-from-flipbuilder-a-step-by-steps-guide/"><u>Retrieve Your Sales Receipt From FlipBuilder – A Step-by-Steps Guide</u></a></li>
-<li><a href="https://win-guides.techidaily.com/sharing-digital-books-easily-made-with-flipbuilder-comprehensive-tips/"><u>Sharing Digital Books Easily Made with FlipBuilder – Comprehensive Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-call-of-duty-warzone-when-your-pc-cant-find-games/"><u>Troubleshooting Call of Duty: Warzone - When Your PC Can’t Find Games</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unraveling-the-mystery-of-social-media-success-on-instagram-learn-how-in-less-than-a-page/"><u>[New] 2024 Approved Unraveling the Mystery of Social Media Success on Instagram Learn How in Less Than a Page</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-demystifying-photo-editing-a-snapseed-introduction/"><u>[New] Demystifying Photo Editing A Snapseed Introduction</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-finding-your-ideal-screen-recorder-obs-or-fraps/"><u>[New] Finding Your Ideal Screen Recorder OBS or Fraps?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leveraging-keywords-for-peak-marketing-results/"><u>[New] Leveraging Keywords for Peak Marketing Results</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-15-best-youtube-channels-for-stock-market-to-follow-for-2024/"><u>[Updated] 15 Best YouTube Channels for Stock Market to Follow for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-choosing-reliable-partners-for-legitimate-tiktok-following/"><u>[Updated] 2024 Approved Choosing Reliable Partners for Legitimate TikTok Following</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tivomp4-movavi/"><u>如何高效轉檔TiVo文件為MP4 | 實用解決方案 Movavi提供</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/avoiding-pitfalls-in-low-light-portrait-photography-for-2024/"><u>Avoiding Pitfalls in Low-Light Portrait Photography for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-to-integrate-a-webcam-stream-into-your-windows-recording-sessions/"><u>How to Integrate a Webcam Stream Into Your Windows Recording Sessions</u></a></li>
+<li><a href="https://win-guides.techidaily.com/optimize-your-hybrid-graphics-for-speed-configuring-intel-quick-sync-with-nvidias-optimus-technology-how-to-video-tutorial/"><u>Optimize Your Hybrid Graphics for Speed: Configuring Intel Quick Sync with NVIDIA's Optimus Technology - How-To Video Tutorial</u></a></li>
+<li><a href="https://win-guides.techidaily.com/outage-alert-microsoft-365-disruption-affecting-millions-explained-by-zdnet/"><u>Outage Alert: Microsoft 365 Disruption Affecting Millions Explained by ZDNet</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-guide-to-setting-up-two-factor-authentication-and-strengthening-cybersecurity-tips-from-zdnet/"><u>Step-by-Step Guide to Setting Up Two-Factor Authentication & Strengthening Cybersecurity - Tips From ZDNet</u></a></li>
+<li><a href="https://win-guides.techidaily.com/the-next-leap-in-coding-efficiency-unveiling-generative-ais-role-from-low-to-no-code-with-insights-from-zdnet-experts/"><u>The Next Leap in Coding Efficiency: Unveiling Generative AI's Role From Low to No Code, With Insights From ZDNET Experts</u></a></li>
+<li><a href="https://win-guides.techidaily.com/troubleshoot-and-overcome-vpn-issues-following-the-april-windows-update-expert-advice-from-zdnet/"><u>Troubleshoot and Overcome VPN Issues Following the April Windows Update - Expert Advice From ZDNet</u></a></li>
+<li><a href="https://win-guides.techidaily.com/unveiling-of-microsofts-windows-11-se-new-computing-solutions-by-pc-manufacturers-tailored-for-learning-environments-insights-from-zdnet/"><u>Unveiling of Microsoft's Windows 11 SE: New Computing Solutions by PC Manufacturers Tailored for Learning Environments - Insights From ZDNet</u></a></li>
 </ul></div>
 

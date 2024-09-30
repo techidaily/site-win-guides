@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Plans of Top Tech Firms for Juneteenth Commemoration
-date: 2024-09-22T22:47:31.585Z
-updated: 2024-09-25T22:16:47.699Z
+date: 2024-09-23T07:38:34.569Z
+updated: 2024-09-29T20:21:17.976Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -75,6 +75,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -95,6 +102,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -128,35 +142,21 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,24 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-swirl-and-swing-the-essential-guide-to-mac-based-tiktok-dancing/"><u>[New] 2024 Approved Swirl & Swing The Essential Guide to Mac-Based TikTok Dancing</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-television-archive-advanced-techniques-for-online-streams/"><u>[New] Television Archive Advanced Techniques for Online Streams</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-from-seedling-to-sunset-the-best-farming-titles-for-togetherness-for-2024/"><u>[Updated] From Seedling to Sunset The Best Farming Titles for Togetherness for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-journey-into-joke-making-mastering-the-art-of-gif-memes/"><u>2024 Approved Journey Into Joke-Making Mastering the Art of GIF Memes</u></a></li>
-<li><a href="https://win-guides.techidaily.com/download-high-quality-audio-convert-4k-youtube-videos-into-mp3-files-easily/"><u>Download High-Quality Audio: Convert 4K YouTube Videos Into MP3 Files Easily</u></a></li>
-<li><a href="https://win-guides.techidaily.com/easy-to-use-software-for-downloading-and-converting-tamil-tracks-into-desired-audio-files-mp3wavflac/"><u>Easy-to-Use Software for Downloading and Converting Tamil Tracks Into Desired Audio Files (MP3/WAV/FLAC)</u></a></li>
-<li><a href="https://win-guides.techidaily.com/free-high-definition-science-animal-and-funny-video-downloads-your-ultimate-discovery-library/"><u>Free High-Definition Science, Animal and Funny Video Downloads - Your Ultimate Discovery Library!</u></a></li>
-<li><a href="https://win-guides.techidaily.com/free-xvideo-downloader-app-quick-guide-to-transforming-xvideos-into-mp4-format-on-your-computer/"><u>Free XVideo Downloader App: Quick Guide to Transforming XVideos Into MP4 Format on Your Computer</u></a></li>
-<li><a href="https://win-guides.techidaily.com/guide-to-downloading-ndr-streams-tips-and-tricks-for-macos-and-windows-users/"><u>Guide to Downloading NDR Streams: Tips and Tricks for macOS & Windows Users</u></a></li>
-<li><a href="https://win-guides.techidaily.com/guide-downloading-high-definition-films-and-videos-in-mp4movavi-format-for-pcs-windows-and-macbooks/"><u>Guide: Downloading High-Definition Films & Videos in MP4/MOV/AVI Format for PCs (Windows) & MacBooks</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xr-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XR To Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/mastering-video-extraction-save-your-favorite-vkontakte-clips-for-windowsmac-users/"><u>Mastering Video Extraction: Save Your Favorite VKontakte Clips for Windows/Mac Users</u></a></li>
-<li><a href="https://win-guides.techidaily.com/mastering-video-format-transformation-how-to-download-vrv-series-as-mp4avimov-files/"><u>Mastering Video Format Transformation: How to Download VRV Series as MP4/AVI/MOV Files</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/microsoft-ergo-keyboard-4000-quick-drivers-downloading-tips-for-seamless-functionality/"><u>Microsoft Ergo Keyboard 4000: Quick Drivers Downloading Tips for Seamless Functionality</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-s-top-rated-video-editing-software-for-high-definition-videos/"><u>New S Top-Rated Video Editing Software for High-Definition Videos</u></a></li>
-<li><a href="https://win-guides.techidaily.com/step-by-step-guide-converting-your-webpt-video-files-into-mp4-or-mov-format-on-pcmac/"><u>Step-by-Step Guide: Converting Your WebPT Video Files Into MP4 or MOV Format on PC/Mac</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/studio-vs-campers-arena/"><u>Studio vs Camper's Arena</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-list-of-7-cutting-edge-ai-solutions-to-help-you-with-math-problems/"><u>The Ultimate List of 7 Cutting-Edge AI Solutions to Help You With Math Problems</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1726792603655-y-plus-3-0/"><u> [Y + 3 = 0 </u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-from-in-the-moment-to-lasting-images-how-to-save-from-snapchat/"><u>[New] 2024 Approved From In-the-Moment to Lasting Images How to Save From Snapchat</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-live-recording-analyzer/"><u>[New] In 2024, Live Recording Analyzer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-boosting-gopro-power-endurance-tips-and-tricks/"><u>[Updated] Boosting GoPro Power Endurance Tips & Tricks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fast-track-to-1000-subscribers-in-youtube-landscape/"><u>[Updated] In 2024, Fast-Track To 1,000 Subscribers in Youtube Landscape</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-essentials-of-hosting-a-zoom-event-via-android-for-2024/"><u>[Updated] The Essentials of Hosting a Zoom Event via Android for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-best-of-the-best-compilation-of-top-10-4k-phone-cameras/"><u>2024 Approved Best of the Best Compilation of Top 10 4K Phone Cameras</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-vivo-s18e-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Vivo S18e to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/advanced-bootstrap-5-admin-design-with-argon-high-quality-framework-by-creative-tim/"><u>Advanced Bootstrap 5 Admin Design with Argon: High-Quality Framework by Creative Tim</u></a></li>
+<li><a href="https://win-guides.techidaily.com/advanced-materialdashboard-pro-with-react-and-aspnet-core-top-tier-admin-ui-design-by-creative-tim/"><u>Advanced MaterialDashboard Pro with React & ASP.NET Core | Top-Tier Admin UI Design by Creative Tim</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/from-live-to-recorded-using-obs-for-games/"><u>From Live to Recorded Using OBS for Games</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-some-outdated-your-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>Identify some outdated your drivers with Windows Device Manager on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-the-fix-of-bluetooth-driver-challenges-in-windows-10-step-by-step-troubleshooting/"><u>Mastering the Fix of Bluetooth Driver Challenges in Windows 10 – Step-by-Step Troubleshooting</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-tutorial-how-to-use-microsofts-integrated-functionality-for-screen-recording-in-windows-10-or-11/"><u>Step-by-Step Tutorial: How to Use Microsoft's Integrated Functionality for Screen Recording in Windows 10 or 11</u></a></li>
+<li><a href="https://win-guides.techidaily.com/the-pinnacle-of-portability-expert-review-of-the-acer-swift-edge-the-worlds-lightest-4k-oled-laptop-zdnet-insights/"><u>The Pinnacle of Portability: Expert Review of the Acer Swift Edge, The World's Lightest 4K OLED Laptop | ZDNet Insights</u></a></li>
+<li><a href="https://win-guides.techidaily.com/thinking-of-skipping-windows-11-upgrade-heres-a-smarter-alternative-zdnet-insight/"><u>Thinking of Skipping Windows 11 Upgrade? Here's a Smarter Alternative - ZDNet Insight</u></a></li>
+<li><a href="https://win-guides.techidaily.com/turn-back-time-for-your-legacy-computer-top-5-tricks-to-resurrect-and-save-money-using-windows/"><u>Turn Back Time for Your Legacy Computer: Top 5 Tricks to Resurrect and Save Money Using Windows</u></a></li>
+<li><a href="https://win-guides.techidaily.com/unleashing-customization-how-to-set-up-your-own-version-of-windows-11-without-limits/"><u>Unleashing Customization: How to Set Up Your Own Version of Windows 11 Without Limits</u></a></li>
+<li><a href="https://win-guides.techidaily.com/urgent-update-for-microsoft-just-1-year-remaining-to-overcome-critical-issues-in-windows-10-technewszdnet/"><u>Urgent Update for Microsoft: Just 1 Year Remaining to Overcome Critical Issues in Windows 10 | TechNewsZDNet</u></a></li>
 </ul></div>
 

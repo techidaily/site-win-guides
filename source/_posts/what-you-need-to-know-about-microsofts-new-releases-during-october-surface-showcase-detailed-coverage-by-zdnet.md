@@ -1,7 +1,7 @@
 ---
 title: What You Need to Know About Microsoft's New Releases During October Surface Showcase | Detailed Coverage by ZDNet
-date: 2024-09-24T20:52:11.232Z
-updated: 2024-09-25T21:07:31.421Z
+date: 2024-09-26T22:38:12.694Z
+updated: 2024-09-30T13:09:53.017Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -147,10 +147,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,16 +202,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-green-walls-in-grey-buildings-a-step-towards-eco-cities-for-2024/"><u>[New] Green Walls in Grey Buildings A Step Towards Eco-Cities for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-youtube-mastery-starts-here-building-and-monetizing-your-channel/"><u>2024 Approved YouTube Mastery Starts Here Building and Monetizing Your Channel</u></a></li>
-<li><a href="https://win-guides.techidaily.com/advanced-application-development-with-nuxt-and-laravel-master-the-craft-using-json-api-and-argon-dashboard-pro/"><u>Advanced Application Development with Nuxt & Laravel - Master the Craft Using JSON API and Argon Dashboard PRO</u></a></li>
-<li><a href="https://win-guides.techidaily.com/complimentary-administrator-interface-using-nextjs-plus-material-design-by-creative-tim/"><u>Complimentary Administrator Interface Using Next.js + Material Design by Creative Tim</u></a></li>
-<li><a href="https://win-guides.techidaily.com/creative-tims-premium-angular-bootstrap-admin-control-panel-with-over-11-advanced-features/"><u>Creative Tim's Premium Angular-Bootstrap Admin Control Panel with Over 11 Advanced Features</u></a></li>
-<li><a href="https://win-guides.techidaily.com/discover-a-wide-selection-of-top-rated-html5-boilerplate-layouts-by-creative-tim-for-your-web-project/"><u>Discover a Wide Selection of Top-Rated HTML5 Boilerplate Layouts by Creative Tim for Your Web Project!</u></a></li>
-<li><a href="https://win-guides.techidaily.com/explore-top-nodejs-frameworks-and-starter-kits-from-creative-tim-available-for-immediate-download/"><u>Explore Top Node.js Frameworks and Starter Kits From Creative Tim, Available for Immediate Download</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-samsung-galaxy-s23-tactical-edition-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Samsung Galaxy S23 Tactical Edition FRP Bypass Instantly</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/maximize-iphone-visual-capture-selective-photo-and-video-tools-for-2024/"><u>Maximize iPhone Visual Capture Selective Photo & Video Tools for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/step-by-step-guide-ps4-gaming-streams-using-obs/"><u>Step-by-Step Guide PS4 Gaming Streams Using OBS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-ps4-to-video-complete-obs-broadcasting-guide/"><u>[New] 2024 Approved PS4 to Video Complete OBS Broadcasting Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-streamline-marketing-with-top-rated-video-tags-generators/"><u>[New] In 2024, Streamline Marketing with Top-Rated Video Tags Generators</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-airdate-selection-podcast-release-tactics/"><u>[Updated] Mastering Airdate Selection Podcast Release Tactics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/av1-datei-codierung-mit-handbrake-ist-das-machbar/"><u>AV1 Datei Codierung Mit HandBrake, Ist Das Machbar?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/belgian-multilingualism-which-tongues-prevail/"><u>Belgian Multilingualism: Which Tongues Prevail?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/expert-mac-animation-saver/"><u>Expert Mac Animation Saver</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-realme-c67-4g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Realme C67 4G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-emoji-use-in-android-a-step-by-step-tutorial/"><u>Mastering Emoji Use in Android - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-guides.techidaily.com/mastering-video-extraction-save-your-favorite-vkontakte-clips-for-windowsmac-users/"><u>Mastering Video Extraction: Save Your Favorite VKontakte Clips for Windows/Mac Users</u></a></li>
+<li><a href="https://win-guides.techidaily.com/mastering-video-format-transformation-how-to-download-vrv-series-as-mp4avimov-files/"><u>Mastering Video Format Transformation: How to Download VRV Series as MP4/AVI/MOV Files</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-guide-converting-your-webpt-video-files-into-mp4-or-mov-format-on-pcmac/"><u>Step-by-Step Guide: Converting Your WebPT Video Files Into MP4 or MOV Format on PC/Mac</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-guide-downloading-botiss-academys-mac-and-windows-webinars/"><u>Step-by-Step Guide: Downloading Botiss Academy's Mac and Windows Webinars</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-troubleshooting-tips-for-restoring-compromised-pc-gaming-files/"><u>Step-by-Step Troubleshooting Tips for Restoring Compromised PC Gaming Files</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-tutorial-on-saving-instagram-tv-shows-for-later-enjoyment-without-internet-access/"><u>Step-by-Step Tutorial on Saving Instagram TV Shows for Later Enjoyment Without Internet Access</u></a></li>
 </ul></div>
 

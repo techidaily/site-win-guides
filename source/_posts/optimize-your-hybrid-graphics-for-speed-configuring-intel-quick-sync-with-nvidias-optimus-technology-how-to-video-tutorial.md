@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Hybrid Graphics for Speed: Configuring Intel Quick Sync with NVIDIA's Optimus Technology - How-To Video Tutorial"
-date: 2024-09-23T21:54:33.183Z
-updated: 2024-09-25T20:02:56.820Z
+date: 2024-09-24T10:15:06.255Z
+updated: 2024-09-29T23:38:32.508Z
 tags:
   - product
 categories:
@@ -46,24 +46,31 @@ Action Tutorials
   
  Share this tutorial:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Introduction 
 
  This tutorial is designed for notebook or netbook computers with NVIDIA Optimus technology. 
 
  Intel Quick Sync Video technology may be not avialable in Action! when high performance NVIDIA processor is selected in global settings in NVIDIA Control Panel. If you have a computer with NVIDIA Optimus technology and Intel Quick Sync Video technology is not avialable in Action! please follow instructions below to enable it and enjoy ultra performance of recording and exporting videos.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Open NVIDIA Control Panel 
 
  Click right mouse button on desktop to show menu and open NVIDIA Control Panel. 
 
 ![Mirillis Action! - Open NVIDIA Control Panel](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_nvidia_optimus_enter_control_panel.jpg "Open NVIDIA Control Panel") 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Select Program Settings tab in Manage 3D Settings 
 
@@ -78,10 +85,10 @@ Action Tutorials
 ![Mirillis Action! - Activate tab](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_nvidia_optimus_setup_add_action.jpg "Select activate tab") 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you clicked **Add** button then browse to Action! installation directory and select **Action.exe** file.  
@@ -93,13 +100,6 @@ Action Tutorials
 
 ![Mirillis Action! - Activate tab](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_nvidia_optimus_setup_select_action.jpg "Select activate tab") 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Set Action! to use integrated graphics (Intel) 
 
  Select **Integrated graphics** from **"Select the preferred graphics processor for this program" dropdown.** Apply settings and close NVIDIA Control Panel.
@@ -107,10 +107,10 @@ Action Tutorials
 ![Mirillis Action! - Activation window](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_nvidia_optimus_setup_integrated_graphics.jpg "Activation window with all fields filled in") 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Open Action! and select Intel Quick Sync acceleration 
@@ -134,22 +134,22 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-visual-storytelling-live-broadcasts-of-360-videos-on-facebook-for-2024/"><u>[Updated] Mastering Visual Storytelling Live Broadcasts of 360 Videos on Facebook for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1-easily-save-your-favorite-wwe-matches-as-mp4movavi-files-with-our-top-video-downloader/"><u>1. Easily Save Your Favorite WWE Matches as MP4/MOV/AVI Files with Our Top Video Downloader</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1-easy-steps-convert-and-save-your-favorite-varzesh-3-episodes-in-popular-formats-like-mp4-or-avi/"><u>1. Easy Steps: Convert and Save Your Favorite Varzesh #3 Episodes in Popular Formats Like MP4 or AVI</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1-how-to-save-brightcove-tutorials-as-mp4-or-avi-files-step-by-step-guide/"><u>1. How to Save Brightcove Tutorials as MP4 or AVI Files – Step-by-Step Guide</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1-step-by-step-guide-capturing-tv-shows-and-movies-as-mp4-files-on-macwindows/"><u>1. Step-by-Step Guide: Capturing TV Shows & Movies as MP4 Files on Mac/Windows</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-leading-list-10-budget-friendly-sbd-solutions/"><u>2024 Approved Leading List 10 Budget-Friendly SBD Solutions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/aac-to-mp3pc/"><u>最新無償AAC to MP3コンバータアプリ・サイトレビュー：PCおよびモバイルデバイスでの変換機能を見直します。</u></a></li>
-<li><a href="https://win-guides.techidaily.com/access-and-save-professional-development-how-to-easily-download-envatos-tutsplus-video-resources-and-courses/"><u>Access & Save Professional Development: How to Easily Download Envato's Tuts+ Video Resources and Courses</u></a></li>
-<li><a href="https://win-guides.techidaily.com/complete-guide-converting-damasio-video-files-avimkv-into-high-quality-mp4-or-mov-format-for-pc-and-mac/"><u>Complete Guide: Converting Damasio Video Files (AVI/MKV) Into High-Quality MP4 or MOV Format for PC & Mac</u></a></li>
-<li><a href="https://win-guides.techidaily.com/complete-tutorial-on-downloading-and-transforming-training-content-to-common-videoaudio-files/"><u>Complete Tutorial on Downloading and Transforming Training Content to Common Video/Audio Files</u></a></li>
-<li><a href="https://win-guides.techidaily.com/convert-and-download-top-rated-films-in-hd-as-mp4-mov-or-avi-compatible-with-both-macos-and-windows/"><u>Convert & Download Top-Rated Films in HD as MP4, MOV or AVI - Compatible with Both macOS and Windows</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-pro-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro Without Passcode?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi Note 13 5G?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-japanese-aesthetics-on-the-go-applying-anime-filters-to-snaps/"><u>In 2024, Japanese Aesthetics on the Go Applying Anime Filters to Snaps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-world-of-digital-gifs/"><u>In 2024, Navigating the World of Digital GIFs</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-complete-process-for-selecting-top-online-photo-edits/"><u>In 2024, The Complete Process for Selecting Top Online Photo Edits</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/wallet-friendly-4k-camera-and-camcorder-deals/"><u>Wallet-Friendly 4K Camera and Camcorder Deals</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-elite-corporate-space-for-data-safety/"><u>[New] In 2024, Elite Corporate Space for Data Safety</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-cartooncast-comprehensive-24-guidebook/"><u>[Updated] CartoonCast Comprehensive '24 Guidebook</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1-transform-your-pc-the-essential-guide-on-upgrading-from-windows-home-to-professional-get-the-ultimate-features/"><u>1. Transform Your PC: The Essential Guide on Upgrading From Windows Home to Professional - Get the Ultimate Features!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-strategies-for-discovering-personal-style-identity/"><u>2024 Approved Strategies for Discovering Personal Style Identity</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-unveiling-the-art-of-podcast-rss-mastery/"><u>2024 Approved Unveiling the Art of Podcast RSS Mastery</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-motorola-edge-40-pro-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/beyond-competition-an-analysis-of-whether-bing-plans-to-remain-in-googles-shadow-according-to-zdnet-findings/"><u>Beyond Competition: An Analysis of Whether Bing Plans to Remain in Google's Shadow, According to ZDNet Findings</u></a></li>
+<li><a href="https://win-guides.techidaily.com/bing-and-google-is-there-a-truce-on-the-horizon-uncovered-analysis-infoworld/"><u>Bing and Google: Is There a Truce on the Horizon? Uncovered Analysis | InfoWorld</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/boost-your-sites-traffic-using-cutting-edge-cookiebot-solutions/"><u>Boost Your Site's Traffic Using Cutting-Edge Cookiebot Solutions</u></a></li>
+<li><a href="https://win-guides.techidaily.com/controversial-silent-release-by-microsoft-stirs-up-heated-debate-inside-the-buzzing-community-response/"><u>Controversial Silent Release by Microsoft Stirs Up Heated Debate - Inside the Buzzing Community Response</u></a></li>
+<li><a href="https://win-guides.techidaily.com/enhance-account-safety-with-2fa-a-step-by-step-guide-on-activating-multi-factor-protection-zdnet/"><u>Enhance Account Safety with 2FA: A Step-by-Step Guide on Activating Multi-Factor Protection | ZDNet</u></a></li>
+<li><a href="https://win-guides.techidaily.com/free-windows-11-upgrade-where-did-it-disappear-to/"><u>Free Windows 11 Upgrade: Where Did It Disappear To?</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-gen-alpha-ai-enhances-programmer-efficiency-insights-from-new-research-techworld/"><u>How Gen Alpha AI Enhances Programmer Efficiency: Insights From New Research | TechWorld</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-making-every-sound-count-mac-audio-mastery-in-audacity/"><u>In 2024, Making Every Sound Count Mac Audio Mastery in Audacity</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/pioneering-art-for-crypto-the-finest-7-generators-at-hand-for-2024/"><u>Pioneering Art for Crypto The Finest 7 Generators at Hand for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/ultimate-guide-to-the-finest-windows-computers-thoroughly-tested-and-critiqued-zdnet/"><u>Ultimate Guide to the Finest Windows Computers - Thoroughly Tested & Critiqued | ZDNET</u></a></li>
 </ul></div>
 
