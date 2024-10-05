@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Subtle Feature Update Sparks Major Backlash - Insights From ZDNet
-date: 2024-09-29T00:07:46.793Z
-updated: 2024-09-30T06:50:04.947Z
+date: 2024-10-01T16:52:40.976Z
+updated: 2024-10-05T18:53:45.492Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,6 +89,19 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +136,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,22 +154,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +208,14 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-metaverse-vs-multiverse-a-comprehensive-breakdown/"><u>[New] 2024 Approved Metaverse vs Multiverse A Comprehensive Breakdown</u></a></li>
-<li><a href="https://win-guides.techidaily.com/ces-showdown-apple-watching-as-peers-escalate-innovation-race-the-latest-from-zdnet/"><u>CES Showdown: Apple Watching as Peers Escalate Innovation Race – The Latest From ZDNet</u></a></li>
-<li><a href="https://win-guides.techidaily.com/dont-risk-it-protect-your-pc-by-upgrading-from-windows-11-21h2-and-22h2-before-end-of-support-deadline-approaches-zdnet-insights/"><u>Don't Risk It: Protect Your PC by Upgrading From Windows 11 21H2 and 22H2 Before End of Support Deadline Approaches | ZDNet Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/efficiently-unfriending-several-contacts-in-snapchat-at-once/"><u>Efficiently Unfriending Several Contacts in Snapchat at Once</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-how-fast-access-memory-influences-your-systems-speed/"><u>Exploring How Fast-Access Memory Influences Your System's Speed</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Realme Narzo 60 5G? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/latest-windows-11-update-brings-improved-android-integration-quick-voice-transcription-zdnet-news/"><u>Latest Windows 11 Update Brings Improved Android Integration, Quick Voice Transcription | ZDNET News</u></a></li>
-<li><a href="https://win-guides.techidaily.com/microsoft-reveals-pricing-plan-for-future-windows-10-updates-understanding-the-new-changes-and-potential-impacts/"><u>Microsoft Reveals Pricing Plan for Future Windows 10 Updates - Understanding the New Changes and Potential Impacts</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/no-cost-audio-archives-for-professional-youtube-makers/"><u>No-Cost Audio Archives for Professional YouTube Makers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-iphones-stuck-standby-issue-with-these-4-expert-tips/"><u>Solve iPhone's Stuck 'Standby' Issue with These 4 Expert Tips</u></a></li>
-<li><a href="https://win-guides.techidaily.com/top-ranked-ergonomic-office-seats-comprehensive-guide-by-zdnet/"><u>Top-Ranked Ergonomic Office Seats : Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://win-guides.techidaily.com/transform-your-non-touchscreen-macbook-into-one-with-detachable-screen-a-portable-monitor-review-on-zdnet/"><u>Transform Your Non-Touchscreen MacBook Into One with Detachable Screen: A Portable Monitor Review on ZDNet</u></a></li>
-<li><a href="https://win-guides.techidaily.com/troubleshooting-search-issues-on-your-windows-pc-expert-tips-from-zdnet/"><u>Troubleshooting Search Issues on Your Windows PC: Expert Tips From ZDNet</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/unveiling-10-cost-effective-virtual-communication-tools/"><u>Unveiling 10 Cost-Effective Virtual Communication Tools</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-amazon-prime-viewers-who-to-follow-on-twitter-now/"><u>[New] In 2024, Amazon Prime Viewers - Who to Follow on Twitter, Now</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-radiance-and-refine-essential-editing-secrets-revealed/"><u>[New] In 2024, Radiance and Refine Essential Editing Secrets Revealed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-top-5-capture-tools-dethroning-bandicam-on-apple-devices/"><u>[Updated] In 2024, Top 5 Capture Tools Dethroning Bandicam on Apple Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-architectural-marvels-for-vr-display/"><u>2024 Approved Architectural Marvels for VR Display</u></a></li>
+<li><a href="https://win-guides.techidaily.com/convert-your-documents-with-flipdocs-for-macos-seamless-pdf-word-and-more-file-transformation/"><u>Convert Your Documents with FlipDOCS for macOS: Seamless PDF, Word & More File Transformation.</u></a></li>
+<li><a href="https://win-guides.techidaily.com/convert-your-pdfs-to-web-ready-html-pages-for-free-with-flipbuilder/"><u>Convert Your PDFs to Web-Ready HTML Pages for Free with FlipBuilder</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-time-management-with-windows-11-alarm-features-a-simple-guide/"><u>Mastering Time Management with Windows 11 Alarm Features - A Simple Guide</u></a></li>
+<li><a href="https://win-guides.techidaily.com/top-5-free-django-designs-and-template-packages-from-creativetim/"><u>Top 5 Free Django Designs and Template Packages From CreativeTim</u></a></li>
+<li><a href="https://win-guides.techidaily.com/vue-argon-pro-admin-suite-with-bootstrap-integration-premium-template-package-from-creative-tim/"><u>Vue Argon Pro Admin Suite with Bootstrap Integration | Premium Template Package From Creative Tim</u></a></li>
 </ul></div>
 

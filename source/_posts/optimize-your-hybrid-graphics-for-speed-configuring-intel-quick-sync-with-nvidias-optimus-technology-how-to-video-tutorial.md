@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Hybrid Graphics for Speed: Configuring Intel Quick Sync with NVIDIA's Optimus Technology - How-To Video Tutorial"
-date: 2024-09-24T10:15:06.255Z
-updated: 2024-09-29T23:38:32.508Z
+date: 2024-10-02T16:21:51.071Z
+updated: 2024-10-05T18:41:32.790Z
 tags:
   - product
 categories:
@@ -47,10 +47,10 @@ Action Tutorials
  Share this tutorial:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Introduction 
@@ -66,10 +66,10 @@ Action Tutorials
 ![Mirillis Action! - Open NVIDIA Control Panel](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_nvidia_optimus_enter_control_panel.jpg "Open NVIDIA Control Panel") 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Select Program Settings tab in Manage 3D Settings 
@@ -85,10 +85,10 @@ Action Tutorials
 ![Mirillis Action! - Activate tab](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_nvidia_optimus_setup_add_action.jpg "Select activate tab") 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you clicked **Add** button then browse to Action! installation directory and select **Action.exe** file.  
@@ -100,18 +100,18 @@ Action Tutorials
 
 ![Mirillis Action! - Activate tab](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_nvidia_optimus_setup_select_action.jpg "Select activate tab") 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Set Action! to use integrated graphics (Intel) 
 
  Select **Integrated graphics** from **"Select the preferred graphics processor for this program" dropdown.** Apply settings and close NVIDIA Control Panel.
 
 ![Mirillis Action! - Activation window](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_nvidia_optimus_setup_integrated_graphics.jpg "Activation window with all fields filled in") 
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Open Action! and select Intel Quick Sync acceleration 
 
@@ -134,22 +134,22 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-elite-corporate-space-for-data-safety/"><u>[New] In 2024, Elite Corporate Space for Data Safety</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-cartooncast-comprehensive-24-guidebook/"><u>[Updated] CartoonCast Comprehensive '24 Guidebook</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1-transform-your-pc-the-essential-guide-on-upgrading-from-windows-home-to-professional-get-the-ultimate-features/"><u>1. Transform Your PC: The Essential Guide on Upgrading From Windows Home to Professional - Get the Ultimate Features!</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-strategies-for-discovering-personal-style-identity/"><u>2024 Approved Strategies for Discovering Personal Style Identity</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-unveiling-the-art-of-podcast-rss-mastery/"><u>2024 Approved Unveiling the Art of Podcast RSS Mastery</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-motorola-edge-40-pro-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/beyond-competition-an-analysis-of-whether-bing-plans-to-remain-in-googles-shadow-according-to-zdnet-findings/"><u>Beyond Competition: An Analysis of Whether Bing Plans to Remain in Google's Shadow, According to ZDNet Findings</u></a></li>
-<li><a href="https://win-guides.techidaily.com/bing-and-google-is-there-a-truce-on-the-horizon-uncovered-analysis-infoworld/"><u>Bing and Google: Is There a Truce on the Horizon? Uncovered Analysis | InfoWorld</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/boost-your-sites-traffic-using-cutting-edge-cookiebot-solutions/"><u>Boost Your Site's Traffic Using Cutting-Edge Cookiebot Solutions</u></a></li>
-<li><a href="https://win-guides.techidaily.com/controversial-silent-release-by-microsoft-stirs-up-heated-debate-inside-the-buzzing-community-response/"><u>Controversial Silent Release by Microsoft Stirs Up Heated Debate - Inside the Buzzing Community Response</u></a></li>
-<li><a href="https://win-guides.techidaily.com/enhance-account-safety-with-2fa-a-step-by-step-guide-on-activating-multi-factor-protection-zdnet/"><u>Enhance Account Safety with 2FA: A Step-by-Step Guide on Activating Multi-Factor Protection | ZDNet</u></a></li>
-<li><a href="https://win-guides.techidaily.com/free-windows-11-upgrade-where-did-it-disappear-to/"><u>Free Windows 11 Upgrade: Where Did It Disappear To?</u></a></li>
-<li><a href="https://win-guides.techidaily.com/how-gen-alpha-ai-enhances-programmer-efficiency-insights-from-new-research-techworld/"><u>How Gen Alpha AI Enhances Programmer Efficiency: Insights From New Research | TechWorld</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-making-every-sound-count-mac-audio-mastery-in-audacity/"><u>In 2024, Making Every Sound Count Mac Audio Mastery in Audacity</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/pioneering-art-for-crypto-the-finest-7-generators-at-hand-for-2024/"><u>Pioneering Art for Crypto The Finest 7 Generators at Hand for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/ultimate-guide-to-the-finest-windows-computers-thoroughly-tested-and-critiqued-zdnet/"><u>Ultimate Guide to the Finest Windows Computers - Thoroughly Tested & Critiqued | ZDNET</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-pioneer-your-personal-brand-in-tiktok-with-dynamic-backgrounds/"><u>[New] 2024 Approved Pioneer Your Personal Brand in TikTok with Dynamic Backgrounds</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-stumble-upon-substantial-comment-sections/"><u>[New] Stumble upon Substantial Comment Sections</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-best-screen-capture-apps-a-guide-for-educators/"><u>2024 Approved The Best Screen Capture Apps A Guide for Educators</u></a></li>
+<li><a href="https://win-guides.techidaily.com/chill-downloads-festive-tunes-for-your-holiday-playlist/"><u>Chill Downloads: Festive Tunes for Your Holiday Playlist</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/embrace-the-synergy-streaming-fb-videos-through-your-apple-device/"><u>Embrace the Synergy Streaming FB Videos Through Your Apple Device</u></a></li>
+<li><a href="https://win-guides.techidaily.com/essential-methods-for-free-speech-to-text-conversion/"><u>Essential Methods for Free Speech-to-Text Conversion</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-to-create-official-ids-with-these-7-amazing-mobile-photography-apps-on-your-iphone-or-android-device-save-big/"><u>How to Create Official IDs with These 7 Amazing Mobile Photography Apps on Your iPhone or Android Device (Save Big!)</u></a></li>
+<li><a href="https://win-guides.techidaily.com/improve-ebay-sales-with-these-3-best-free-photo-editing-software-picks/"><u>Improve eBay Sales with These 3 Best FREE Photo Editing Software Picks</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a05s-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Itel A05s Phone without Google Account?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/quick-guide-adding-personalized-ringtones-to-your-iphone-x-with-ease/"><u>Quick Guide: Adding Personalized Ringtones to Your iPhone X with Ease</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-instructions-how-to-create-a-mirrored-photo-effect-on-iphone/"><u>Step-by-Step Instructions: How to Create a Mirrored Photo Effect on iPhone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-tutorial-on-crafting-custom-christmas-movies-at-home/"><u>Step-by-Step Tutorial on Crafting Custom Christmas Movies at Home</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/top-techniques-for-professional-looking-ig-video-content/"><u>Top Techniques for Professional-Looking IG Video Content</u></a></li>
+<li><a href="https://win-guides.techidaily.com/ultimate-guide-capturing-rusty-lake-paradise-gameplay-on-your-smartphone/"><u>Ultimate Guide: Capturing Rusty Lake Paradise Gameplay on Your Smartphone</u></a></li>
 </ul></div>
 

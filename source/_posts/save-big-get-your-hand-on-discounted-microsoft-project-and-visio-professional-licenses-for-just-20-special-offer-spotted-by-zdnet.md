@@ -1,7 +1,7 @@
 ---
 title: "Save Big: Get Your Hand on Discounted Microsoft Project & Visio Professional Licenses For Just $20 – Special Offer Spotted by ZDNet!"
-date: 2024-09-28T03:57:07.645Z
-updated: 2024-09-30T08:35:37.747Z
+date: 2024-09-29T17:37:31.811Z
+updated: 2024-10-05T18:00:06.698Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +91,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,6 +135,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,22 +149,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,20 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-close-encounters-experiencing-roblox-at-greater-detail-for-2024/"><u>[New] Close Encounters Experiencing Roblox At Greater Detail for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhancing-comments-with-emojis-on-youtube/"><u>[New] In 2024, Enhancing Comments with Emojis on YouTube</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-simplified-approach-to-overhauling-facebook-photo-background-for-2024/"><u>[Updated] Simplified Approach to Overhauling Facebook Photo Background for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bard-emergence-google-redefines-artificial-intelligence-landscape/"><u>Bard Emergence: Google Redefines Artificial Intelligence Landscape</u></a></li>
-<li><a href="https://games-able.techidaily.com/command-center-using-buttons-to-play-any-android-game/"><u>Command Center: Using Buttons to Play Any Android Game</u></a></li>
-<li><a href="https://win-guides.techidaily.com/convert-and-download-top-rated-films-in-hd-as-mp4-mov-or-avi-compatible-with-both-macos-and-windows/"><u>Convert & Download Top-Rated Films in HD as MP4, MOV or AVI - Compatible with Both macOS and Windows</u></a></li>
-<li><a href="https://win-guides.techidaily.com/convert-free-educational-it-courses-into-downloadsable-video-formats/"><u>Convert Free Educational IT Courses Into Downloadsable Video Formats</u></a></li>
-<li><a href="https://win-guides.techidaily.com/convert-your-alison-learning-into-videos-mp4movavi-the-ultimate-guide/"><u>Convert Your Alison Learning Into Videos: MP4/MOV/AVI - The Ultimate Guide</u></a></li>
-<li><a href="https://win-guides.techidaily.com/download-high-quality-audio-convert-4k-youtube-videos-into-mp3-files-easily/"><u>Download High-Quality Audio: Convert 4K YouTube Videos Into MP3 Files Easily</u></a></li>
-<li><a href="https://win-guides.techidaily.com/easy-to-use-software-for-downloading-and-converting-tamil-tracks-into-desired-audio-files-mp3wavflac/"><u>Easy-to-Use Software for Downloading and Converting Tamil Tracks Into Desired Audio Files (MP3/WAV/FLAC)</u></a></li>
-<li><a href="https://win-guides.techidaily.com/free-high-definition-science-animal-and-funny-video-downloads-your-ultimate-discovery-library/"><u>Free High-Definition Science, Animal and Funny Video Downloads - Your Ultimate Discovery Library!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/how-marvels-spider-man-miles-morales-delivers-a-powerful-punch-in-a-concisely-crafted-world-review/"><u>How 'Marvel's Spider-Man: Miles Morales' Delivers a Powerful Punch in a Concisely Crafted World – Review</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-zte-axon-40-lite-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 ZTE Axon 40 Lite Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ps-vita-explained-in-simplicity/"><u>The PS Vita Explained in Simplicity</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/tune-tracker-top-picks-for-android-6-free-music-downloader-apps-from-youtube-for-2024/"><u>Tune Tracker Top Picks for Android - 6 Free Music Downloader Apps From YouTube for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-mac-studio-with-state-of-the-art-screen-and-voice-logging/"><u>[Updated] Top Mac Studio with State-of-the-Art Screen and Voice Logging</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/convert-files-to-mp3-at-no-cost-discover-the-ultimate-free-online-audio-to-mp3-converter-tool/"><u>Convert Files to MP3 at No Cost: Discover the Ultimate Free Online Audio-to-MP3 Converter Tool!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-wi-fi-calling-meanings-and-implications/"><u>Decoding Wi-Fi Calling: Meanings & Implications</u></a></li>
+<li><a href="https://win-guides.techidaily.com/free-guide-convert-your-favorite-songs-from-pandora-to-mp3-format/"><u>Free Guide: Convert Your Favorite Songs From Pandora to MP3 Format</u></a></li>
+<li><a href="https://win-guides.techidaily.com/hp-screenshot-mastery-techniques-for-all-your-pcs-and-tablets/"><u>HP Screenshot Mastery: Techniques for All Your PCs and Tablets</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-copyright-free-audio-treasury-for-gamers-online/"><u>In 2024, Copyright-Free Audio Treasury for Gamers Online</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-gamers-delight-switchs-best-fighters-top-10-edition/"><u>In 2024, Gamer's Delight Switch's Best Fighters - Top 10 Edition</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-xiaomi-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Xiaomi Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://win-guides.techidaily.com/leading-free-video-editors-for-boosting-your-youtube-content/"><u>Leading Free Video Editors for Boosting Your YouTube Content</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-how-to-add-music-and-background-music-to-video-on-desktoponlinemobile-phone/"><u>New In 2024, How to Add Music & Background Music to Video on Desktop/Online/Mobile Phone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/simple-guide-deleting-texts-and-mms-on-your-android-device/"><u>Simple Guide: Deleting Texts and MMS on Your Android Device</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-guide-finding-and-downloading-premium-hd-soundtracks/"><u>Step-by-Step Guide: Finding & Downloading Premium HD Soundtracks</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-tutorial-on-transferring-iphone-footage-to-mac-top-seo-strategies/"><u>Step-by-Step Tutorial on Transferring iPhone Footage to Mac - Top SEO Strategies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-to-using-manycam-advanced-multi-camera-editing-for-streamers/"><u>Ultimate Guide to Using ManyCam | Advanced Multi-Camera Editing for Streamers</u></a></li>
+<li><a href="https://win-guides.techidaily.com/ultimate-selection-of-free-downloadable-android-wallpapers/"><u>Ultimate Selection of Free Downloadable Android Wallpapers</u></a></li>
 </ul></div>
 

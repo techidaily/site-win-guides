@@ -1,7 +1,7 @@
 ---
 title: Urgent Challenge Ahead for Microsoft's Windows 11 Launch - Just One Year Remaining | TechDigest
-date: 2024-09-29T04:03:23.386Z
-updated: 2024-09-30T12:46:06.089Z
+date: 2024-10-03T20:24:07.199Z
+updated: 2024-10-05T17:19:12.069Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,34 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,22 +196,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tailoring-retrospective-analysis-with-twitter-archives/"><u>[New] In 2024, Tailoring Retrospective Analysis with Twitter Archives</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-easy-video-calls-with-googles-hangouts-on-your-android/"><u>[Updated] Easy Video Calls with Google's Hangouts on Your Android</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-fiscal-picture-for-content-makers-on-youtube-shorts-platform-for-2024/"><u>[Updated] The Fiscal Picture for Content Makers on YouTube Shorts Platform for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/5-rapid-methods-to-upgrade-your-indoor-film-project/"><u>5 Rapid Methods to Upgrade Your Indoor Film Project</u></a></li>
-<li><a href="https://win-guides.techidaily.com/advanced-application-development-with-nuxt-and-laravel-master-the-craft-using-json-api-and-argon-dashboard-pro/"><u>Advanced Application Development with Nuxt & Laravel - Master the Craft Using JSON API and Argon Dashboard PRO</u></a></li>
-<li><a href="https://win-guides.techidaily.com/complimentary-administrator-interface-using-nextjs-plus-material-design-by-creative-tim/"><u>Complimentary Administrator Interface Using Next.js + Material Design by Creative Tim</u></a></li>
-<li><a href="https://win-guides.techidaily.com/creative-tims-premium-angular-bootstrap-admin-control-panel-with-over-11-advanced-features/"><u>Creative Tim's Premium Angular-Bootstrap Admin Control Panel with Over 11 Advanced Features</u></a></li>
-<li><a href="https://win-guides.techidaily.com/free-angular-bootstrap-admin-dashboard-by-creative-tim-lightweight-and-efficient/"><u>Free Angular Bootstrap Admin Dashboard by Creative Tim - Lightweight & Efficient</u></a></li>
-<li><a href="https://win-guides.techidaily.com/free-nextjs-plus-tailwindcss-event-registration-site-template-by-creativetim/"><u>Free NextJS + TailwindCSS Event Registration Site Template by CreativeTim</u></a></li>
-<li><a href="https://win-guides.techidaily.com/free-nuxt-bootstrap-4-admin-dashboard-the-ultimate-nuxt-black-interface-by-creative-tim/"><u>Free Nuxt Bootstrap 4 Admin Dashboard: The Ultimate Nuxt Black Interface by Creative Tim</u></a></li>
-<li><a href="https://win-guides.techidaily.com/professional-argon-dashboard-for-react-and-material-ui-combo-upgraded-management-interface-from-creative-tim/"><u>Professional Argon Dashboard for React & Material UI Combo – Upgraded Management Interface From Creative Tim</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/proven-techniques-securely-archive-your-instagram-story/"><u>Proven Techniques Securely Archive Your Instagram Story</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726029325455-sd/"><u>SDカードへの音楽ファイル録音手順ガイド</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/tailoring-the-last-push-how-to-edit-a-vimeo-video-for-2024/"><u>Tailoring the Last Push How to Edit a Vimeo Video for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/understanding-the-scope-of-article-2-is-essential-for-determining-the-rules-governing-a-contract-involving-goods/"><u>Understanding the Scope of Article 2 Is Essential for Determining the Rules Governing a Contract Involving Goods.</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-quicktime-mov-editor-roundup-top-10-free-options/"><u>Updated In 2024, QuickTime MOV Editor Roundup Top 10 Free Options</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-nubia-z50s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-discover-and-set-up-vrecorder-in-minutes-148-characters/"><u>[New] Discover & Set Up VRecorder in Minutes (148 Characters)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-2023s-top-rated-vr-game-engines-exposed/"><u>[Updated] 2023'S Top-Rated VR Game Engines Exposed</u></a></li>
+<li><a href="https://win-guides.techidaily.com/can-you-add-a-custom-logo-atop-your-websites-homepage-using-flipbuilder/"><u>Can You Add a Custom Logo Atop Your Website's Homepage Using FlipBuilder?</u></a></li>
+<li><a href="https://win-guides.techidaily.com/common-issues-when-switching-to-interactive-pageturner-ebooks-fixes-for-non-functional-hyperlinks-pageturntellercom/"><u>Common Issues When Switching to Interactive PageTurner Ebooks - Fixes for Non-Functional Hyperlinks [PageTurnteller.com]</u></a></li>
+<li><a href="https://win-guides.techidaily.com/convert-multiple-powerpoint-presentations-into-interactive-ebooks-with-flipbuilder/"><u>Convert Multiple PowerPoint Presentations Into Interactive eBooks with FlipBuilder</u></a></li>
+<li><a href="https://win-guides.techidaily.com/convert-your-pdf-files-for-nothing-swift-transformation-to-word-powerpoint-flash-and-images-without-cost/"><u>Convert Your PDF Files for Nothing – Swift Transformation to Word, PowerPoint, Flash & Images without Cost!</u></a></li>
+<li><a href="https://win-guides.techidaily.com/create-mobile-readable-ebooks-on-your-iphone-using-flipped-pages-interactive-and-html5-based-flipbuildercom/"><u>Create Mobile Readable eBooks on Your iPhone Using Flipped Pages - Interactive and HTML5 Based [FlipBuilder.com]</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/embracing-digital-learning-a-teachers-resource/"><u>Embracing Digital Learning A Teacher's Resource</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhancing-audio-performance-on-windows-10-for-optimal-sound-levels/"><u>Enhancing Audio Performance on Windows 10 for Optimal Sound Levels</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transform-images-into-movies-xp-software-guide/"><u>In 2024, Transform Images Into Movies XP Software Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/protocols-to-enter-windows-administrative-hub/"><u>Protocols to Enter Windows' Administrative Hub</u></a></li>
 </ul></div>
 

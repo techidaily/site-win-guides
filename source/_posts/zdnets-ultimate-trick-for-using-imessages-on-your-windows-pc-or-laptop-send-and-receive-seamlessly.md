@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Ultimate Trick for Using iMessages on Your Windows PC or Laptop: Send and Receive Seamlessly"
-date: 2024-09-28T22:03:23.632Z
-updated: 2024-09-29T22:32:25.182Z
+date: 2024-09-30T18:59:29.676Z
+updated: 2024-10-05T20:01:30.015Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,15 +136,28 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,20 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unraveling-the-mystery-of-social-media-success-on-instagram-learn-how-in-less-than-a-page/"><u>[New] 2024 Approved Unraveling the Mystery of Social Media Success on Instagram Learn How in Less Than a Page</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-demystifying-photo-editing-a-snapseed-introduction/"><u>[New] Demystifying Photo Editing A Snapseed Introduction</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-finding-your-ideal-screen-recorder-obs-or-fraps/"><u>[New] Finding Your Ideal Screen Recorder OBS or Fraps?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-leveraging-keywords-for-peak-marketing-results/"><u>[New] Leveraging Keywords for Peak Marketing Results</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-15-best-youtube-channels-for-stock-market-to-follow-for-2024/"><u>[Updated] 15 Best YouTube Channels for Stock Market to Follow for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-choosing-reliable-partners-for-legitimate-tiktok-following/"><u>[Updated] 2024 Approved Choosing Reliable Partners for Legitimate TikTok Following</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tivomp4-movavi/"><u>如何高效轉檔TiVo文件為MP4 | 實用解決方案 Movavi提供</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/avoiding-pitfalls-in-low-light-portrait-photography-for-2024/"><u>Avoiding Pitfalls in Low-Light Portrait Photography for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/how-to-integrate-a-webcam-stream-into-your-windows-recording-sessions/"><u>How to Integrate a Webcam Stream Into Your Windows Recording Sessions</u></a></li>
-<li><a href="https://win-guides.techidaily.com/optimize-your-hybrid-graphics-for-speed-configuring-intel-quick-sync-with-nvidias-optimus-technology-how-to-video-tutorial/"><u>Optimize Your Hybrid Graphics for Speed: Configuring Intel Quick Sync with NVIDIA's Optimus Technology - How-To Video Tutorial</u></a></li>
-<li><a href="https://win-guides.techidaily.com/outage-alert-microsoft-365-disruption-affecting-millions-explained-by-zdnet/"><u>Outage Alert: Microsoft 365 Disruption Affecting Millions Explained by ZDNet</u></a></li>
-<li><a href="https://win-guides.techidaily.com/step-by-step-guide-to-setting-up-two-factor-authentication-and-strengthening-cybersecurity-tips-from-zdnet/"><u>Step-by-Step Guide to Setting Up Two-Factor Authentication & Strengthening Cybersecurity - Tips From ZDNet</u></a></li>
-<li><a href="https://win-guides.techidaily.com/the-next-leap-in-coding-efficiency-unveiling-generative-ais-role-from-low-to-no-code-with-insights-from-zdnet-experts/"><u>The Next Leap in Coding Efficiency: Unveiling Generative AI's Role From Low to No Code, With Insights From ZDNET Experts</u></a></li>
-<li><a href="https://win-guides.techidaily.com/troubleshoot-and-overcome-vpn-issues-following-the-april-windows-update-expert-advice-from-zdnet/"><u>Troubleshoot and Overcome VPN Issues Following the April Windows Update - Expert Advice From ZDNet</u></a></li>
-<li><a href="https://win-guides.techidaily.com/unveiling-of-microsofts-windows-11-se-new-computing-solutions-by-pc-manufacturers-tailored-for-learning-environments-insights-from-zdnet/"><u>Unveiling of Microsoft's Windows 11 SE: New Computing Solutions by PC Manufacturers Tailored for Learning Environments - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-15-techniques-to-ensure-facebook-videos-are-spotlighted/"><u>[New] In 2024, 15 Techniques to Ensure Facebook Videos Are Spotlighted</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-capture-cumulative-chronicles/"><u>[New] In 2024, Capture Cumulative Chronicles</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-mastering-the-airwaves-dji-drones-and-social-media-live/"><u>[Updated] Mastering the Airwaves DJI Drones and Social Media Live</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-learn-free-online-methods-for-turning-facebook-videos-into-mp4-hd/"><u>2024 Approved Learn Free Online Methods for Turning Facebook Videos Into MP4 HD</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-slomo-visual-delight-thorough-assessment-release/"><u>2024 Approved SloMo Visual Delight Thorough Assessment Release</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-free-and-premium-4k-video-editors-of-2022-ultimate-guide-for-mac-and-pc-users/"><u>Best Free and Premium 4K Video Editors of 2022 - Ultimate Guide for Mac & PC Users</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-motorola-edge-40-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Motorola Edge 40 online without jailbreak</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-mastering-momentum-go-from-zero-to-viral-in-fb/"><u>In 2024, Mastering Momentum Go From Zero to Viral in FB</u></a></li>
+<li><a href="https://win-guides.techidaily.com/microsoft-reveals-pricing-plan-for-future-windows-10-updates-understanding-the-new-changes-and-potential-impacts/"><u>Microsoft Reveals Pricing Plan for Future Windows 10 Updates - Understanding the New Changes and Potential Impacts</u></a></li>
+<li><a href="https://win-guides.techidaily.com/pc-gaming-preferences-tilt-towards-windows-11-leaves-windows-10-behind-insights-from-zdnet/"><u>PC Gaming Preferences Tilt Towards Windows 11, Leaves Windows 10 Behind: Insights From ZDNet</u></a></li>
+<li><a href="https://win-guides.techidaily.com/seamlessly-connect-windows-to-android-mastering-the-art-of-file-sharing-with-googlen-quick-share-top-tips-and-tricks/"><u>Seamlessly Connect Windows to Android: Mastering the Art of File Sharing with Google'n Quick Share - Top Tips and Tricks</u></a></li>
+<li><a href="https://win-guides.techidaily.com/simplify-cross-platform-file-sharing-seamlessly-transfer-data-from-pc-to-phone-using-google-quick-share-insights-and-tips/"><u>Simplify Cross-Platform File Sharing: Seamlessly Transfer Data From PC to Phone Using Google Quick Share - Insights & Tips</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-guide-modifying-dns-configurations-on-a-windows-machine-essential-reasons-explained-zdnet/"><u>Step-by-Step Guide: Modifying DNS Configurations on a Windows Machine – Essential Reasons Explained (ZDNet)</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-tutorial-how-to-use-microsofts-integrated-functionality-for-screen-recording-in-windows-10-or-11/"><u>Step-by-Step Tutorial: How to Use Microsoft's Integrated Functionality for Screen Recording in Windows 10 or 11</u></a></li>
+<li><a href="https://win-guides.techidaily.com/the-pinnacle-of-portability-expert-review-of-the-acer-swift-edge-the-worlds-lightest-4k-oled-laptop-zdnet-insights/"><u>The Pinnacle of Portability: Expert Review of the Acer Swift Edge, The World's Lightest 4K OLED Laptop | ZDNet Insights</u></a></li>
+<li><a href="https://win-guides.techidaily.com/thinking-of-skipping-windows-11-upgrade-heres-a-smarter-alternative-zdnet-insight/"><u>Thinking of Skipping Windows 11 Upgrade? Here's a Smarter Alternative - ZDNet Insight</u></a></li>
+<li><a href="https://win-guides.techidaily.com/turn-back-time-for-your-legacy-computer-top-5-tricks-to-resurrect-and-save-money-using-windows/"><u>Turn Back Time for Your Legacy Computer: Top 5 Tricks to Resurrect and Save Money Using Windows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/ultimate-game-gathering-best-7-shooter-experiences-for-2024/"><u>Ultimate Game Gathering Best 7 Shooter Experiences for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-vivo-y100a-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo Y100A Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "CES Showdown: Apple Watching as Peers Escalate Innovation Race – The Latest From ZDNet"
-date: 2024-09-25T08:32:19.852Z
-updated: 2024-09-29T18:54:32.237Z
+date: 2024-10-03T20:35:31.717Z
+updated: 2024-10-05T18:11:04.175Z
 tags:
   - office-furniture
 categories:
@@ -30,10 +30,10 @@ Still, I couldn't help but draw comparisons between what companies were announci
 From [satellite communication](https://www.zdnet.com/article/android-phones-will-soon-get-iphone-like-sos-satellite-texting/) to [MagSafe-enabled charging](https://www.zdnet.com/article/iphone-magsafe-style-wireless-charging-could-soon-be-everywhere-including-your-android-phone/) to [5K displays](https://www.zdnet.com/article/samsungs-5k-viewfinity-s9-monitor-is-a-new-apple-studio-display-rival/), the barrage of new announcements is a testament to Apple's product dominance. It's also a battle cry for the market competition that's about to unfold. Here's a rundown of some of the biggest products and services that will go toe-to-toe with Apple in 2023.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Wireless Power Consortium - MagSafe
@@ -51,10 +51,10 @@ That ends with Qi2, [an upcoming wireless charging standard](https://www.zdnet.c
 A visit to WPC's CES booth even showed me how Qi2 will be used to power kitchen appliances, with users able to set their blenders, air fryers, and even coffee machines on top of wireless charging coils to power them. But that expansion won't happen until early 2024, a WPC representative told me.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. HTC - Apple's rumored VR/AR headset
@@ -70,10 +70,10 @@ Long have we waited for Apple's AR/VR headset, and it certainly seems like there
 Fortunately, HTC's latest [Vive XR Elite](https://www.zdnet.com/article/htcs-vive-xr-elite-aims-to-be-the-new-premium-headset-for-the-masses/) is a competent headset that, from our initial hands-on, impresses with a lightweight (625g) and portable build, diopters for glasses-free visibility (Something I'm hoping Apple will do as well. I mean, Tim Cook wears glasses!), and the ability to connect it to a phone or computer wired or wirelessly. Should Apple's upcoming headset be anything similar, HTC may have the leg up with its relatively cheaper [$1,099 price tag](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.vive.com/us/product/vive-xr-elite/overview/) and maturity within the VR space.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Qualcomm - Emergency SOS
@@ -89,16 +89,10 @@ Apple introduced satellite communications to the masses when it launched the [iP
 Snapdragon Satellite comes at a time when Apple has noticeably shifted its mobile focus onto more [protective features](https://www.zdnet.com/article/apple-announces-a-brand-new-life-saving-feature-crash-detection/), ones that may not be used every day but can very well [save you from life's most dangerous encounters](https://www.zdnet.com/article/the-iphone-14s-satellite-texting-feature-saves-stranded-snowmobiler-in-alaska/) when needed. However, Qualcomm is going beyond emergency phone calls with two-way messaging. This may mean future smartphones are much more functional even when they're taken outside of carrier coverage zones. 
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Samsung - Studio Display
@@ -151,20 +145,19 @@ From my hands-on look at the Samsung monitor, it's clear to me that the company 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-harness-the-power-of-youtube-studio-for-ultimate-edits-for-2024/"><u>[Updated] Harness the Power of YouTube Studio for Ultimate Edits for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/advanced-application-development-with-nuxt-and-laravel-master-the-craft-using-json-api-and-argon-dashboard-pro/"><u>Advanced Application Development with Nuxt & Laravel - Master the Craft Using JSON API and Argon Dashboard PRO</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/alternative-recreation-in-the-firstrow-rankings-for-2024/"><u>Alternative Recreation in the Firstrow Rankings for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/complimentary-administrator-interface-using-nextjs-plus-material-design-by-creative-tim/"><u>Complimentary Administrator Interface Using Next.js + Material Design by Creative Tim</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/constructing-coherent-cinematic-introductions/"><u>Constructing Coherent Cinematic Introductions</u></a></li>
-<li><a href="https://win-guides.techidaily.com/creative-tims-premium-angular-bootstrap-admin-control-panel-with-over-11-advanced-features/"><u>Creative Tim's Premium Angular-Bootstrap Admin Control Panel with Over 11 Advanced Features</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/darkest-dungeon-pc-stability-issues-resolved-no-more-frustrating-crashes/"><u>Darkest Dungeon Ⅱ PC Stability Issues Resolved: No More Frustrating Crashes!</u></a></li>
-<li><a href="https://win-guides.techidaily.com/discover-a-wide-selection-of-top-rated-html5-boilerplate-layouts-by-creative-tim-for-your-web-project/"><u>Discover a Wide Selection of Top-Rated HTML5 Boilerplate Layouts by Creative Tim for Your Web Project!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-guide-resolving-non-working-mic-problems-in-sea-of-thieves-for-windows-users/"><u>Expert Guide: Resolving Non-Working Mic Problems in Sea of Thieves for Windows Users</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/instant-iphone-success-proven-tips-for-making-professional-photo-collagues/"><u>Instant iPhone Success Proven Tips for Making Professional Photo Collagues</u></a></li>
-<li><a href="https://win-guides.techidaily.com/professional-argon-dashboard-for-react-and-material-ui-combo-upgraded-management-interface-from-creative-tim/"><u>Professional Argon Dashboard for React & Material UI Combo – Upgraded Management Interface From Creative Tim</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-guide-iphone-factory-reset-without-using-itunes/"><u>Step-by-Step Guide: IPhone Factory Reset without Using iTunes</u></a></li>
-<li><a href="https://win-guides.techidaily.com/understanding-the-scope-of-article-2-is-essential-for-determining-the-rules-governing-a-contract-involving-goods/"><u>Understanding the Scope of Article 2 Is Essential for Determining the Rules Governing a Contract Involving Goods.</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-explore-the-journey-creating-a-one-of-a-kind-tiktok-hash/"><u>[Updated] 2024 Approved Explore the Journey Creating a One-of-a-Kind TikTok Hash</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-beginner-friendly-steps-to-record-your-mac-display-for-2024/"><u>[Updated] Beginner-Friendly Steps to Record Your Mac Display for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-directing-viewers-gaze-in-iphone-compositions-through-leading-lines-for-2024/"><u>[Updated] Directing Viewers' Gaze in iPhone Compositions Through Leading Lines for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-download-and-install-your-ultimate-guide-to-using-obs-on-a-macpc-for-2024/"><u>[Updated] Download & Install Your Ultimate Guide to Using OBS on a MacPC for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/convert-files-to-mp3-at-no-cost-discover-the-ultimate-free-online-audio-to-mp3-converter-tool/"><u>Convert Files to MP3 at No Cost: Discover the Ultimate Free Online Audio-to-MP3 Converter Tool!</u></a></li>
+<li><a href="https://win-guides.techidaily.com/free-guide-convert-your-favorite-songs-from-pandora-to-mp3-format/"><u>Free Guide: Convert Your Favorite Songs From Pandora to MP3 Format</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-reno-11f-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-masterful-seo-approaches-for-soaring-in-youtube-video-popularity/"><u>In 2024, Masterful SEO Approaches for Soaring in YouTube Video Popularity</u></a></li>
+<li><a href="https://win-guides.techidaily.com/indispensable-a-comprehensive-list-of-the-best-10-must-have-apps-for-your-windows-10-experience/"><u>Indispensable: A Comprehensive List of the Best 10 Must-Have Apps for Your Windows 10 Experience</u></a></li>
+<li><a href="https://win-guides.techidaily.com/leading-free-video-editors-for-boosting-your-youtube-content/"><u>Leading Free Video Editors for Boosting Your YouTube Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/maximize-your-drones-visual-potential-essential-gimbal-selection-tips/"><u>Maximize Your Drones' Visual Potential Essential Gimbal Selection Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-converting-your-itunes-movie-files-to-drm-free-mp4/"><u>Step-by-Step Guide: Converting Your iTunes Movie Files to DRM-Free MP4</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-guide-finding-and-downloading-premium-hd-soundtracks/"><u>Step-by-Step Guide: Finding & Downloading Premium HD Soundtracks</u></a></li>
+<li><a href="https://win-guides.techidaily.com/ultimate-guide-to-best-picture-to-video-apps-with-integrated-soundtracks/"><u>Ultimate Guide to Best Picture-to-Video Apps with Integrated Soundtracks</u></a></li>
 </ul></div>
 

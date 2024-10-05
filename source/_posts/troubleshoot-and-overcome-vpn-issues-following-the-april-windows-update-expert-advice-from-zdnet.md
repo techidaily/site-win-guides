@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot and Overcome VPN Issues Following the April Windows Update - Expert Advice From ZDNet
-date: 2024-09-27T10:00:26.255Z
-updated: 2024-09-30T09:03:43.277Z
+date: 2024-10-01T23:08:24.962Z
+updated: 2024-10-05T17:20:18.239Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,22 +143,21 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-live-video-quest-evaluating-the-strengths-of-obs-and-twitch-studio/"><u>[New] In 2024, Live Video Quest Evaluating the Strengths of OBS and Twitch Studio</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-superior-audio-options-for-video-makers/"><u>[New] Superior Audio Options for Video Makers</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1-easily-save-your-favorite-wwe-matches-as-mp4movavi-files-with-our-top-video-downloader/"><u>1. Easily Save Your Favorite WWE Matches as MP4/MOV/AVI Files with Our Top Video Downloader</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1-easy-steps-convert-and-save-your-favorite-varzesh-3-episodes-in-popular-formats-like-mp4-or-avi/"><u>1. Easy Steps: Convert and Save Your Favorite Varzesh #3 Episodes in Popular Formats Like MP4 or AVI</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1-how-to-save-brightcove-tutorials-as-mp4-or-avi-files-step-by-step-guide/"><u>1. How to Save Brightcove Tutorials as MP4 or AVI Files – Step-by-Step Guide</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1-step-by-step-guide-capturing-tv-shows-and-movies-as-mp4-files-on-macwindows/"><u>1. Step-by-Step Guide: Capturing TV Shows & Movies as MP4 Files on Mac/Windows</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-spectrum-signatures-filmmakers-guide-to-adjustment/"><u>2024 Approved Spectrum Signatures Filmmaker's Guide to Adjustment</u></a></li>
-<li><a href="https://win-guides.techidaily.com/access-and-save-professional-development-how-to-easily-download-envatos-tutsplus-video-resources-and-courses/"><u>Access & Save Professional Development: How to Easily Download Envato's Tuts+ Video Resources and Courses</u></a></li>
-<li><a href="https://extra-information.techidaily.com/captivation-craftsman-for-posters/"><u>Captivation Craftsman for Posters</u></a></li>
-<li><a href="https://win-guides.techidaily.com/complete-guide-converting-damasio-video-files-avimkv-into-high-quality-mp4-or-mov-format-for-pc-and-mac/"><u>Complete Guide: Converting Damasio Video Files (AVI/MKV) Into High-Quality MP4 or MOV Format for PC & Mac</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correct-error-code-24-device-unavailable-in-your-window-os/"><u>How to Correct Error Code 24: Device Unavailable in Your Window OS</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-crafting-success-in-youtubes-creator-hub/"><u>In 2024, Crafting Success in YouTube's Creator Hub</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/navigating-through-gpu-failures-operational-pc-is-a-must/"><u>Navigating Through GPU Failures: Operational PC Is a Must</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/performance-insights-into-the-economical-logitech-c615-webcam-solution/"><u>Performance Insights Into the Economical Logitech C615 Webcam Solution</u></a></li>
-<li><a href="https://win-guides.techidaily.com/selective-navigation-for-online-flipbooks-directly-jumping-to-page-4-on-flipbuilder-platform/"><u>Selective Navigation for Online Flipbooks: Directly Jumping to Page 4 on FlipBuilder Platform</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/taking-your-virtual-meetings-to-new-heights-with-zoom-filters-for-2024/"><u>Taking Your Virtual Meetings to New Heights with Zoom Filters for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-sonic-journey-best-headphones-of-2024/"><u>The Ultimate Sonic Journey - Best Headphones of 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/ultimate-guide-installing-and-converting-themes-in-flipbook-with-flipbuilder/"><u>Ultimate Guide: Installing & Converting Themes in FlipBook with FlipBuilder</u></a></li>
-<li><a href="https://win-guides.techidaily.com/unlocking-efficiency-in-digital-content-creation-the-ultimate-guide-to-generating-multiple-flipbooks-on-flipbuilder/"><u>Unlocking Efficiency in Digital Content Creation: The Ultimate Guide to Generating Multiple Flipbooks on FlipBuilder</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-unintended-tiktok-rewind-what-now/"><u>[New] Unintended TikTok Rewind – What Now?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/solved-counter-strike-2-cs2-crashing-on-pc-2024-fixes/"><u>[Solved] Counter-Strike 2 (CS2) Crashing on PC - 2024 Fixes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-exit-wave-analysis-for-2024/"><u>[Updated] Instagram Exit Wave Analysis for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/apple-users-advocate-for-touchscreen-macbooks-inspired-by-the-success-of-microsofts-surface-laptop-studio-insights-on-zdnet/"><u>Apple Users Advocate for Touchscreen MacBooks Inspired by the Success of Microsoft's Surface Laptop Studio - Insights on ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/halo-infinites-solved-monochrome-visual-glitches-explained/"><u>Halo Infinite's Solved Monochrome Visual Glitches Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-pinpoint-your-pcs-ram-quickly-on-windows/"><u>How to Pinpoint Your PC's RAM Quickly on Windows</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-audience-connection-mastering-the-art-of-viewpoint-based-youtube-reaction-vids-2-pov-method/"><u>In 2024, Audience Connection – Mastering the Art of Viewpoint-Based YouTube Reaction Vids (2 POV Method)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-round-up-premium-vr-tools/"><u>In 2024, Exclusive Round-Up Premium VR Tools</u></a></li>
+<li><a href="https://win-guides.techidaily.com/outage-alert-microsoft-365-disruption-affecting-millions-explained-by-zdnet/"><u>Outage Alert: Microsoft 365 Disruption Affecting Millions Explained by ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/professional-streaming-top-6-webcams-for-zoom-users/"><u>Professional Streaming Top 6 Webcams for Zoom Users</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-guide-to-setting-up-two-factor-authentication-and-strengthening-cybersecurity-tips-from-zdnet/"><u>Step-by-Step Guide to Setting Up Two-Factor Authentication & Strengthening Cybersecurity - Tips From ZDNet</u></a></li>
+<li><a href="https://win-guides.techidaily.com/the-next-leap-in-coding-efficiency-unveiling-generative-ais-role-from-low-to-no-code-with-insights-from-zdnet-experts/"><u>The Next Leap in Coding Efficiency: Unveiling Generative AI's Role From Low to No Code, With Insights From ZDNET Experts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transforming-flat-text-into-3d-masterpieces-photo/"><u>Transforming Flat Text Into 3D Masterpieces PHOTO</u></a></li>
+<li><a href="https://win-guides.techidaily.com/unveiling-of-microsofts-windows-11-se-new-computing-solutions-by-pc-manufacturers-tailored-for-learning-environments-insights-from-zdnet/"><u>Unveiling of Microsoft's Windows 11 SE: New Computing Solutions by PC Manufacturers Tailored for Learning Environments - Insights From ZDNet</u></a></li>
+<li><a href="https://win-guides.techidaily.com/unveils-strategies-revolution-and-integration/"><u>Unveils, Strategies, Revolution, and Integration.</u></a></li>
+<li><a href="https://win-guides.techidaily.com/what-you-need-to-know-about-microsofts-new-releases-during-october-surface-showcase-detailed-coverage-by-zdnet/"><u>What You Need to Know About Microsoft's New Releases During October Surface Showcase | Detailed Coverage by ZDNet</u></a></li>
+<li><a href="https://win-guides.techidaily.com/zdnets-ultimate-trick-for-using-imessages-on-your-windows-pc-or-laptop-send-and-receive-seamlessly/"><u>ZDNet's Ultimate Trick for Using iMessages on Your Windows PC or Laptop: Send and Receive Seamlessly</u></a></li>
 </ul></div>
 

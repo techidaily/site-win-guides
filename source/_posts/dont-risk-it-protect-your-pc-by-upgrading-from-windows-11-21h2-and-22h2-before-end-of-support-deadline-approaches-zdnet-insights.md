@@ -1,7 +1,7 @@
 ---
 title: "Don't Risk It: Protect Your PC by Upgrading From Windows 11 21H2 and 22H2 Before End of Support Deadline Approaches | ZDNet Insights"
-date: 2024-09-28T14:21:00.219Z
-updated: 2024-09-30T10:29:19.458Z
+date: 2024-10-01T18:11:37.424Z
+updated: 2024-10-05T21:35:03.568Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,16 +181,17 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-digital-media-visionaries-comprehensive-top-5-directory/"><u>[New] 2024 Approved Digital Media Visionaries Comprehensive Top 5 Directory</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-ios-insiders-list-top-rated-downloading-apps-for-video-buffs/"><u>[Updated] IOS Insider's List Top-Rated Downloading Apps for Video Buffs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-silent-sounds-elegant-dimming-in-garageband-projects/"><u>[Updated] Silent Sounds Elegant Dimming in Garageband Projects</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-complete-cheat-sheet-for-negative-snap-playback-for-2024/"><u>[Updated] The Complete Cheat Sheet for Negative Snap Playback for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/easy-to-use-software-for-downloading-and-converting-tamil-tracks-into-desired-audio-files-mp3wavflac/"><u>Easy-to-Use Software for Downloading and Converting Tamil Tracks Into Desired Audio Files (MP3/WAV/FLAC)</u></a></li>
-<li><a href="https://win-guides.techidaily.com/free-high-definition-science-animal-and-funny-video-downloads-your-ultimate-discovery-library/"><u>Free High-Definition Science, Animal and Funny Video Downloads - Your Ultimate Discovery Library!</u></a></li>
-<li><a href="https://win-guides.techidaily.com/free-xvideo-downloader-app-quick-guide-to-transforming-xvideos-into-mp4-format-on-your-computer/"><u>Free XVideo Downloader App: Quick Guide to Transforming XVideos Into MP4 Format on Your Computer</u></a></li>
-<li><a href="https://win-guides.techidaily.com/guide-to-downloading-ndr-streams-tips-and-tricks-for-macos-and-windows-users/"><u>Guide to Downloading NDR Streams: Tips and Tricks for macOS & Windows Users</u></a></li>
-<li><a href="https://win-guides.techidaily.com/guide-downloading-high-definition-films-and-videos-in-mp4movavi-format-for-pcs-windows-and-macbooks/"><u>Guide: Downloading High-Definition Films & Videos in MP4/MOV/AVI Format for PCs (Windows) & MacBooks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-fast-shutdowns-in-windows-11-top-strategies-to-try-now/"><u>Mastering the Art of Fast Shutdowns in Windows 11: Top Strategies to Try Now!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-your-instagram-narrative-how-to-successfully-tackle-non-uploading-issues-with-stories/"><u>Mastering Your Instagram Narrative: How To Successfully Tackle Non-Uploading Issues with Stories</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-brand-battlegrounds-mastery-of-marketing-metrics-on-youtube-for-2024/"><u>[New] Brand Battlegrounds Mastery of Marketing Metrics on YouTube for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-sparkle-your-streams-top-5-tech-gems-for-videos/"><u>[New] Sparkle Your Streams Top 5 Tech Gems for Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-from-amateur-to-pro-excelling-at-instagram-editing/"><u>[Updated] 2024 Approved From Amateur to Pro Excelling at Instagram Editing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-elevate-your-design-skills-mastering-3d-text-effects/"><u>2024 Approved Elevate Your Design Skills Mastering 3D Text Effects</u></a></li>
+<li><a href="https://discover-best.techidaily.com/enhanced-through-innovative-cookiebot-solutions/"><u>Enhanced Through Innovative Cookiebot Solutions</u></a></li>
+<li><a href="https://win-guides.techidaily.com/guide-to-moving-your-images-from-iphone-to-a-samsung-s5-smartphone/"><u>Guide to Moving Your Images From iPhone to a Samsung S5 Smartphone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-6s-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 6s to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-the-shift-turning-srt-into-subc/"><u>Navigating the Shift Turning SRT Into SUBC</u></a></li>
+<li><a href="https://win-guides.techidaily.com/reviving-your-missing-iphone-calendar-step-by-step-guide/"><u>Reviving Your Missing iPhone Calendar: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-guide-adding-images-in-bulk-to-your-pdf-documents/"><u>Step-by-Step Guide: Adding Images in Bulk to Your PDF Documents</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-tutorial-how-to-erase-marked-sections-from-pdf-files-latest-methods/"><u>Step-by-Step Tutorial: How to Erase Marked Sections From PDF Files [Latest Methods]</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Google Pixel 8 Pro | Dr.fone</u></a></li>
 </ul></div>
 

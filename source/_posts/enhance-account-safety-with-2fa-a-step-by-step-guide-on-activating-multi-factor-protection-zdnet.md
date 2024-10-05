@@ -1,7 +1,7 @@
 ---
 title: "Enhance Account Safety with 2FA: A Step-by-Step Guide on Activating Multi-Factor Protection | ZDNet"
-date: 2024-09-28T02:20:41.529Z
-updated: 2024-09-30T12:12:24.988Z
+date: 2024-09-30T23:41:31.804Z
+updated: 2024-10-05T20:41:47.548Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +104,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +143,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -141,13 +154,6 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -196,21 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-an-elaborate-review-unveiling-lgs-ultrafine-4k-wonders/"><u>[New] 2024 Approved An Elaborate Review Unveiling LG's UltraFine 4K Wonders</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-transforming-media-captions-the-creme-de-la-creme-of-top-online-editors/"><u>[Updated] Transforming Media Captions The Crème De La Créme of Top Online Editors</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1-ultimate-record-and-capture-app-best-freecorder-substitutes-available-on-macwindows/"><u>1. Ultimate Record & Capture App: Best Freecorder Substitutes Available on Mac/Windows</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-google-docs-transcription-functionality/"><u>2024 Approved Mastering Google Docs Transcription Functionality</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/android-no-fee-communication-tools-ranked-best/"><u>Android No-Fee Communication Tools Ranked Best</u></a></li>
-<li><a href="https://win-guides.techidaily.com/easy-guide-to-save-and-convert-playvids-content-as-mp4-wmv-mov-or-avi-files/"><u>Easy Guide to Save and Convert PlayVids Content as MP4, WMV, MOV, or AVI Files</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On OnePlus Ace 2? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-iphone-15-pro-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from iPhone 15 Pro</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-essential-color-grading-techniques-a-beginners-guide/"><u>In 2024, Essential Color Grading Techniques A Beginner's Guide</u></a></li>
-<li><a href="https://win-guides.techidaily.com/step-by-step-guide-convert-and-save-hotstar-content-as-mp4-or-avi-files/"><u>Step-by-Step Guide: Convert and Save Hotstar Content as MP4 or AVI Files</u></a></li>
-<li><a href="https://win-guides.techidaily.com/superior-substitutes-to-dxtory-find-your-perfect-match-with-allavsoft-on-both-mac-and-windows-systems/"><u>Superior Substitutes to Dxtory: Find Your Perfect Match with Allavsoft on Both Mac & Windows Systems</u></a></li>
-<li><a href="https://win-guides.techidaily.com/transform-dailymotion-music-clips-into-crystal-clear-mp3-audio-using-this-powerful-downloader-tool/"><u>Transform DailyMotion Music Clips Into Crystal Clear MP3 Audio Using This Powerful Downloader Tool</u></a></li>
-<li><a href="https://win-guides.techidaily.com/troubleshooting-youtube-problems-easy-steps-to-restore-functionality-on-apple-tablets-and-phones/"><u>Troubleshooting YouTube Problems: Easy Steps to Restore Functionality on Apple Tablets and Phones</u></a></li>
-<li><a href="https://win-guides.techidaily.com/ultimate-guide-converting-online-audio-streams-into-high-quality-mp3-files/"><u>Ultimate Guide: Converting Online Audio Streams Into High-Quality MP3 Files</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-make-a-fake-face-online-for-free-top-rated-tools/"><u>Updated Make a Fake Face Online for Free Top Rated Tools</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>Which Pokémon can Evolve with a Moon Stone For Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-aerial-autonomy-groups/"><u>[New] In 2024, Aerial Autonomy Groups</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-realme-narzo-60x-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Realme Narzo 60x 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-infinix-hot-30i-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Infinix Hot 30i</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-to-restore-lost-text-messages-on-your-samsung-device-using-the-latest-sms-recovery-tool/"><u>How to Restore Lost Text Messages on Your Samsung Device Using the Latest SMS Recovery Tool</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-asus-rog-phone-8-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Asus ROG Phone 8 Pro via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-examination-of-the-lenovo-legion-pro-5i-gen-9-exceptional-gaming-laptop-bargain/"><u>In-Depth Examination of the Lenovo Legion Pro 5I (Gen 9) - Exceptional Gaming Laptop Bargain</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-code-0xc0000142-in-winos/"><u>Resolving Code 0XC0000142 in WINOS</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-guide-adding-images-in-bulk-to-your-pdf-documents/"><u>Step-by-Step Guide: Adding Images in Bulk to Your PDF Documents</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-tutorial-how-to-erase-marked-sections-from-pdf-files-latest-methods/"><u>Step-by-Step Tutorial: How to Erase Marked Sections From PDF Files [Latest Methods]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-acing-your-skype-interviews-with-these-tips/"><u>The Ultimate Guide to Acing Your Skype Interviews with These Tips</u></a></li>
+<li><a href="https://win-guides.techidaily.com/the-ultimate-guide-to-sharing-insta-stories-a-step-by-step-tutorial/"><u>The Ultimate Guide to Sharing Insta Stories - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-oppo-find-x6-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Oppo Find X6 to Other Android Devices | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: How to Use Microsoft's Integrated Functionality for Screen Recording in Windows 10 or 11"
-date: 2024-09-28T02:41:51.647Z
-updated: 2024-09-30T00:59:58.437Z
+date: 2024-10-03T18:39:31.075Z
+updated: 2024-10-05T16:19:54.235Z
 tags:
   - windows
 categories:
@@ -33,24 +33,18 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -60,6 +54,13 @@ Right-click on the new folder and rename it to the following string:
 When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Launch the icon
 
@@ -74,10 +75,16 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
@@ -85,13 +92,6 @@ Screenshot by Lance Whitney/ZDNET
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -117,16 +117,10 @@ To change the icon from the generic folder image, right-click on it and select P
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
@@ -168,14 +162,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-comprehensive-techniques-recording-movies-with-windowsmacosios-for-2024/"><u>[Updated] Comprehensive Techniques Recording Movies with Windows/macOS/iOS for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1-transform-your-pc-the-essential-guide-on-upgrading-from-windows-home-to-professional-get-the-ultimate-features/"><u>1. Transform Your PC: The Essential Guide on Upgrading From Windows Home to Professional - Get the Ultimate Features!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/adjust-installation-to-processor/"><u>Adjust Installation to Processor</u></a></li>
-<li><a href="https://win-guides.techidaily.com/enhance-account-safety-with-2fa-a-step-by-step-guide-on-activating-multi-factor-protection-zdnet/"><u>Enhance Account Safety with 2FA: A Step-by-Step Guide on Activating Multi-Factor Protection | ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-hevc-h265-codec-boost-your-videos-to-ultra-hd-quality-without-cost/"><u>Free HEVC H.265 Codec: Boost Your Videos to Ultra HD Quality without Cost</u></a></li>
-<li><a href="https://win-guides.techidaily.com/how-gen-alpha-ai-enhances-programmer-efficiency-insights-from-new-research-techworld/"><u>How Gen Alpha AI Enhances Programmer Efficiency: Insights From New Research | TechWorld</u></a></li>
-<li><a href="https://win-able.techidaily.com/nba-2k20-gameplay-hacked-eliminate-crashes-with-these-simple-fixes/"><u>NBA 2K20 Gameplay Hacked: Eliminate Crashes with These Simple Fixes!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/retrieve-stored-password-secrets-on-your-mac-step-by-step-tutorial/"><u>Retrieve Stored Password Secrets on Your Mac - Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-guides.techidaily.com/ultimate-guide-to-the-finest-windows-computers-thoroughly-tested-and-critiqued-zdnet/"><u>Ultimate Guide to the Finest Windows Computers - Thoroughly Tested & Critiqued | ZDNET</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-archive-gamers-best-runs-using-samsung-phones-for-2024/"><u>[New] Archive Gamer's Best Runs Using Samsung Phones for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-ideal-remote-recording-gear/"><u>[New] Ideal Remote Recording Gear</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-precise-voice-adjustments-for-pubg-success/"><u>[New] Precise Voice Adjustments for PUBG Success</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-truecapture-pro-for-windows-users/"><u>2024 Approved TrueCapture Pro for Windows Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/avimp4web/"><u>高品質に安全! AVIをMP4に自由に変換するWebサービス - お勧めガイド</u></a></li>
+<li><a href="https://win-guides.techidaily.com/activating-hibernation-mode-on-your-windows-xp-system-a-comprehensive-guide/"><u>Activating Hibernation Mode on Your Windows XP System: A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-top-rated-free-tools-for-reviving-and-enhancing-vintage-photographs/"><u>Best Top-Rated Free Tools for Reviving and Enhancing Vintage Photographs</u></a></li>
+<li><a href="https://win-guides.techidaily.com/convert-files-to-mp3-at-no-cost-discover-the-ultimate-free-online-audio-to-mp3-converter-tool/"><u>Convert Files to MP3 at No Cost: Discover the Ultimate Free Online Audio-to-MP3 Converter Tool!</u></a></li>
+<li><a href="https://win-guides.techidaily.com/discover-the-legitimate-best-mp3-music-downloading-sites-ranked/"><u>Discover the Legitimate Best MP3 Music Downloading Sites - Ranked!</u></a></li>
+<li><a href="https://win-guides.techidaily.com/free-guide-convert-your-favorite-songs-from-pandora-to-mp3-format/"><u>Free Guide: Convert Your Favorite Songs From Pandora to MP3 Format</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-tecno-spark-10-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Tecno Spark 10 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/indispensable-a-comprehensive-list-of-the-best-10-must-have-apps-for-your-windows-10-experience/"><u>Indispensable: A Comprehensive List of the Best 10 Must-Have Apps for Your Windows 10 Experience</u></a></li>
+<li><a href="https://win-guides.techidaily.com/leading-free-video-editors-for-boosting-your-youtube-content/"><u>Leading Free Video Editors for Boosting Your YouTube Content</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-guide-finding-and-downloading-premium-hd-soundtracks/"><u>Step-by-Step Guide: Finding & Downloading Premium HD Soundtracks</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-instructions-how-to-create-a-mirrored-photo-effect-on-iphone/"><u>Step-by-Step Instructions: How to Create a Mirrored Photo Effect on iPhone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-gaming-laptops-asus-unveils-a-customizable-zephyrus-g14-with-dynamic-colored-e-paper-screen-technology/"><u>The Future of Gaming Laptops: Asus Unveils a Customizable Zephyrus G14 with Dynamic Colored E-Paper Screen Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-gaming-rig-hytes-nexus-link-offers-seamless-assembly-wireless-components-and-high-performance-aio-technology/"><u>Transform Your Gaming Rig: Hyte's Nexus Link Offers Seamless Assembly, Wireless Components & High-Performance AIO Technology!</u></a></li>
+<li><a href="https://win-guides.techidaily.com/ultimate-guide-to-best-picture-to-video-apps-with-integrated-soundtracks/"><u>Ultimate Guide to Best Picture-to-Video Apps with Integrated Soundtracks</u></a></li>
 </ul></div>
 

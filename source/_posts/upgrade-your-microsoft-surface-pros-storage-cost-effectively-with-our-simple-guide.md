@@ -1,7 +1,7 @@
 ---
 title: Upgrade Your Microsoft Surface Pro's Storage Cost-Effectively with Our Simple Guide
-date: 2024-09-26T18:05:10.274Z
-updated: 2024-09-30T07:22:16.449Z
+date: 2024-10-04T21:53:19.905Z
+updated: 2024-10-05T17:25:25.644Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -84,16 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,10 +137,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -141,23 +149,9 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,18 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-obs-timeline-expertise-crafting-custom-countdown-features/"><u>[New] 2024 Approved Obs Timeline Expertise Crafting Custom Countdown Features</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/levate-your-video-profiles-using-smart-templates-for-2024/"><u>[New] Elevate Your Video Profiles Using Smart Templates for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovating-visual-identity-with-ae-titles/"><u>[New] Innovating Visual Identity with AE Titles</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-breakthrough-techniques-for-effective-macscreenscreencasting/"><u>[Updated] In 2024, Breakthrough Techniques for Effective MacScreenscreencasting</u></a></li>
-<li><a href="https://win-guides.techidaily.com/advanced-pro-dashboard-with-bootstrap-4-exclusive-admin-design-by-creative-tim/"><u>Advanced Pro Dashboard with Bootstrap 4: Exclusive Admin Design by Creative Tim</u></a></li>
-<li><a href="https://win-guides.techidaily.com/build-your-own-professional-author-portfolio-using-the-premium-nextjs-and-tailwind-integration-free-template-from-creative-tim/"><u>Build Your Own Professional Author Portfolio Using the Premium NextJS and Tailwind Integration - Free Template From Creative Tim</u></a></li>
-<li><a href="https://win-guides.techidaily.com/creative-tims-ultimate-horizon-ai-pro-template-pack-with-pre-configured-nextjs-includes-advanced-integration-with-stripe-and-supabase-featuring-oauth-suppor10/"><u>Creative Tim's Ultimate Horizon AI Pro Template Pack with Pre-Configured NextJS: Includes Advanced Integration with Stripe and Supabase Featuring OAuth Support</u></a></li>
-<li><a href="https://win-guides.techidaily.com/download-our-complimentary-bootstrap-based-material-design-ui-framework-from-creative-tim/"><u>Download Our Complimentary Bootstrap-Based Material Design UI Framework From Creative Tim</u></a></li>
-<li><a href="https://win-guides.techidaily.com/download-your-ace-landing-page-with-free-nextjstailwind-course-from-creative-tims-resource-hub/"><u>Download Your Ace Landing Page with Free NextJS/Tailwind Course From Creative Tim's Resource Hub!</u></a></li>
-<li><a href="https://win-guides.techidaily.com/experience-the-best-with-creative-tims-argon-a-no-cost-community-driven-bootstrap-dashboard/"><u>Experience the Best with Creative Tim’s Argon: A No-Cost, Community-Driven Bootstrap Dashboard</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-oneplus-12-by-drfone-android/"><u>How To Fix OEM Unlock Missing on OnePlus 12?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/movavi-transformar-seus-arquivos-wma-em-qualquer-formato-online-gratuitamente/"><u>Movavi - Transformar Seus Arquivos WMA Em Qualquer Formato Online, Gratuitamente!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-assessment-photo-editing-tool-for-creatives/"><u>[New] In-Depth Assessment Photo Editing Tool for Creatives</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-mastering-the-use-of-telegram-in-a-step-by-step-approach/"><u>2024 Approved Mastering the Use of Telegram in a Step-by-Step Approach</u></a></li>
+<li><a href="https://win-guides.techidaily.com/are-your-flipbuilder-e-books-ready-for-the-ipad-screen-find-out-here/"><u>Are Your FlipBuilder E-Books Ready for the iPad Screen? Find Out Here!</u></a></li>
+<li><a href="https://win-guides.techidaily.com/boost-your-site-traffic-with-easy-to-download-flipbooks-discover-how-at-flipbuildercom/"><u>Boost Your Site Traffic with Easy-to-Download Flipbooks: Discover How at FlipBuilder.com</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-print-quality-and-save-more-with-a-substantial-80-discount-on-the-elegoo-neptune-plus-printer/"><u>Elevate Your Print Quality & Save More with a Substantial $80 Discount on the Elegoo Neptune Plus Printer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Realme 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-nokia-g42-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Nokia G42 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/rumored-apple-watch-ultra-eb-2-info-revealed-estimated-price-launch-date-and-specs-inside/"><u>Rumored Apple Watch Ultra Eb 2 Info Revealed - Estimated Price, Launch Date and Specs Inside!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-xiaomi-13t-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Xiaomi 13T Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://win-guides.techidaily.com/simplify-your-website-updates-with-flipbuilder-replace-individual-pages-easily-without-overhauling-entire-site/"><u>Simplify Your Website Updates with FlipBuilder - Replace Individual Pages Easily without Overhauling Entire Site</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-premier-list-of-10-superior-spotify-recording-tools-for-2024/"><u>The Premier List of 10 Superior Spotify Recording Tools for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/transform-the-look-of-your-digital-flipbooks-by-changing-flash-window-hues-on-flipbuildercom/"><u>Transform the Look of Your Digital Flipbooks by Changing Flash Window Hues on FlipBuilder.com</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-to-windows-11-secure-your-intel-usb-devices-with-the-latest-drivers/"><u>Upgrade to Windows 11? Secure Your Intel USB Devices with the Latest Drivers!</u></a></li>
 </ul></div>
 

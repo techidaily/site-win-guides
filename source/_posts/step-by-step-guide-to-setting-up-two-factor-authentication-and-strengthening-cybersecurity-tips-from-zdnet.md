@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Setting Up Two-Factor Authentication & Strengthening Cybersecurity - Tips From ZDNet
-date: 2024-09-26T09:37:01.983Z
-updated: 2024-09-29T18:55:50.310Z
+date: 2024-09-30T20:34:08.972Z
+updated: 2024-10-05T23:28:51.993Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +196,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-detailed-review-for-easy-hdr/"><u>[New] 2024 Approved Detailed Review for Easy HDR</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-transforming-views-into-brand-loyalty-for-2024/"><u>[New] Transforming Views Into Brand Loyalty for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-expert-pick-mics-for-youtube-entrepreneurs/"><u>[Updated] 2024 Approved Expert Pick Mics for YouTube Entrepreneurs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expertise-in-virtual-assessment-vll-of-apps/"><u>[Updated] Expertise in Virtual Assessment VLL of Apps</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1-ultimate-record-and-capture-app-best-freecorder-substitutes-available-on-macwindows/"><u>1. Ultimate Record & Capture App: Best Freecorder Substitutes Available on Mac/Windows</u></a></li>
-<li><a href="https://win-guides.techidaily.com/action-now-comprehensive-tips-for-effective-exporting-and-uploading-strategies/"><u>Action Now: Comprehensive Tips for Effective Exporting & Uploading Strategies</u></a></li>
-<li><a href="https://win-guides.techidaily.com/actionable-steps-crafting-engaging-video-walkthroughs/"><u>Actionable Steps: Crafting Engaging Video Walkthroughs</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-resetting-video-issue-for-smooth-windows-use/"><u>Addressing Resetting Video Issue for Smooth Windows Use</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/blue-screen-of-death-no-more-rtwlanesys-error-solution/"><u>Blue Screen of Death No More - 'rtwlane.sys' Error Solution</u></a></li>
-<li><a href="https://win-guides.techidaily.com/easy-guide-to-save-and-convert-playvids-content-as-mp4-wmv-mov-or-avi-files/"><u>Easy Guide to Save and Convert PlayVids Content as MP4, WMV, MOV, or AVI Files</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-tecno-spark-20-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Tecno Spark 20</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-xr-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone XR</u></a></li>
-<li><a href="https://win-guides.techidaily.com/step-by-step-guide-convert-and-save-hotstar-content-as-mp4-or-avi-files/"><u>Step-by-Step Guide: Convert and Save Hotstar Content as MP4 or AVI Files</u></a></li>
-<li><a href="https://win-guides.techidaily.com/superior-substitutes-to-dxtory-find-your-perfect-match-with-allavsoft-on-both-mac-and-windows-systems/"><u>Superior Substitutes to Dxtory: Find Your Perfect Match with Allavsoft on Both Mac & Windows Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-seamless-shift-an-introduction-to-crossfades-for-2024/"><u>The Seamless Shift An Introduction to Crossfades for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/transferring-your-favorite-vimeo-videos-to-itunes-a-step-by-step-guide/"><u>Transferring Your Favorite Vimeo Videos to iTunes - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-guides.techidaily.com/ultimate-guide-converting-online-audio-streams-into-high-quality-mp3-files/"><u>Ultimate Guide: Converting Online Audio Streams Into High-Quality MP3 Files</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-add-radial-blur-effect-to-photos-in-photoshop/"><u>[New] How to Add Radial Blur Effect to Photos in Photoshop</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-brief-sequences-lasting-impressions-time-lapse-with-samsung/"><u>[New] In 2024, Brief Sequences, Lasting Impressions Time-Lapse with Samsung</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-visualizing-your-vision-incorporating-new-fonts-into-after-effects/"><u>[New] In 2024, Visualizing Your Vision Incorporating New Fonts Into After Effects</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-expert-picks-best-7-video-streaming-apps-to-take-your-youtube-game-upward-iosandroid/"><u>[Updated] Expert Picks Best 7 Video Streaming Apps to Take Your YouTube Game Upward (iOS/Android)</u></a></li>
+<li><a href="https://win-guides.techidaily.com/ces-showdown-apple-watching-as-peers-escalate-innovation-race-the-latest-from-zdnet/"><u>CES Showdown: Apple Watching as Peers Escalate Innovation Race – The Latest From ZDNet</u></a></li>
+<li><a href="https://win-guides.techidaily.com/dont-risk-it-protect-your-pc-by-upgrading-from-windows-11-21h2-and-22h2-before-end-of-support-deadline-approaches-zdnet-insights/"><u>Don't Risk It: Protect Your PC by Upgrading From Windows 11 21H2 and 22H2 Before End of Support Deadline Approaches | ZDNet Insights</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-easily-take-a-screenshot-during-a-facetime-call-a-step-by-step-guide/"><u>How to Easily Take a Screenshot During a FaceTime Call - A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-odt-file-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .odt file document electronically</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-what-is-youtube-tag-and-how-to-find-great-tags-for-your-videos/"><u>In 2024, What Is YouTube Tag and How to Find Great Tags For Your Videos?</u></a></li>
+<li><a href="https://win-guides.techidaily.com/latest-windows-11-update-brings-improved-android-integration-quick-voice-transcription-zdnet-news/"><u>Latest Windows 11 Update Brings Improved Android Integration, Quick Voice Transcription | ZDNET News</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-5-quandale-dingle-voice-generators/"><u>New Best 5 Quandale Dingle Voice Generators</u></a></li>
+<li><a href="https://win-guides.techidaily.com/selecting-the-ideal-user-account-for-windows-11-installation-a-guide-on-making-the-right-choice-tips-and-advice-from-zdnet/"><u>Selecting the Ideal User Account for Windows 11 Installation: A Guide on Making the Right Choice - Tips & Advice From ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-tutorial-exporting-microsoft-excel-worksheets-to-pdf-format/"><u>Step-by-Step Tutorial: Exporting Microsoft Excel Worksheets to PDF Format</u></a></li>
+<li><a href="https://win-guides.techidaily.com/top-ranked-ergonomic-office-seats-comprehensive-guide-by-zdnet/"><u>Top-Ranked Ergonomic Office Seats : Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://win-guides.techidaily.com/transform-your-non-touchscreen-macbook-into-one-with-detachable-screen-a-portable-monitor-review-on-zdnet/"><u>Transform Your Non-Touchscreen MacBook Into One with Detachable Screen: A Portable Monitor Review on ZDNet</u></a></li>
+<li><a href="https://win-guides.techidaily.com/troubleshooting-search-issues-on-your-windows-pc-expert-tips-from-zdnet/"><u>Troubleshooting Search Issues on Your Windows PC: Expert Tips From ZDNet</u></a></li>
 </ul></div>
 

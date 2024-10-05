@@ -1,7 +1,7 @@
 ---
 title: Inside the Microsoft 365 Downtime Impacting Countless Clients, Insights From ZDNet's Analysis
-date: 2024-09-22T16:52:17.944Z
-updated: 2024-09-30T06:26:25.589Z
+date: 2024-09-29T21:57:28.761Z
+updated: 2024-10-05T22:39:22.664Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,18 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/-complete-guide-to-registering-with-youtube-for-2024/"><u>[New] A Complete Guide to Registering with YouTube for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-dynamic-shade-corrector-for-2024/"><u>[New] Dynamic Shade Corrector for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/o-barriers-only-creativity-learn-cost-free-background-substitution-with-4-youtube-pros/"><u>[New] No Barriers, Only Creativity Learn Cost-Free Background Substitution with 4 YouTube Pros</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-best-8-apps-for-crafting-your-perfect-journey-plan/"><u>Discover the Best 8 Apps for Crafting Your Perfect Journey Plan</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-12-mini-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or iPhone 12 mini?</u></a></li>
-<li><a href="https://win-guides.techidaily.com/how-to-implement-image-security-adding-watermarks-for-your-digital-publications-on-flipbuilder/"><u>How to Implement Image Security: Adding Watermarks for Your Digital Publications on FlipBuilder</u></a></li>
-<li><a href="https://win-guides.techidaily.com/improving-your-documents-details-resizing-and-enhancing-with-flip-pdf-pro/"><u>Improving Your Document's Details: Resizing & Enhancing with Flip PDF Pro</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-realme-c51-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Realme C51 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-proven-film-edits-that-enhance-visual-storytelling/"><u>In 2024, Proven Film Edits That Enhance Visual Storytelling</u></a></li>
-<li><a href="https://win-guides.techidaily.com/mastering-shadow-effects-in-your-digital-magazine-with-flipbuilder/"><u>Mastering Shadow Effects in Your Digital Magazine with FlipBuilder</u></a></li>
-<li><a href="https://win-guides.techidaily.com/quick-guide-to-adding-print-sections-for-booklet-layouts-using-createbookletpro/"><u>Quick Guide to Adding Print Sections for Booklet Layouts Using CreateBookletPro</u></a></li>
-<li><a href="https://win-guides.techidaily.com/retrieve-your-sales-receipt-from-flipbuilder-a-step-by-steps-guide/"><u>Retrieve Your Sales Receipt From FlipBuilder – A Step-by-Steps Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-editors-guide-to-top-10-fcp-plug-ins/"><u>The Ultimate Editor's Guide to Top 10 FCP Plug-Ins</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-echopause-visual-record-advice/"><u>[New] 2024 Approved EchoPause Visual Record Advice</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-achieve-perfect-screen-captures-on-the-mi-11-lite/"><u>[Updated] Achieve Perfect Screen Captures on the Mi 11 Lite</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-add-cinematic-shake-to-images-using-ps/"><u>2024 Approved Add Cinematic Shake to Images Using PS</u></a></li>
+<li><a href="https://win-guides.techidaily.com/access-and-save-professional-development-how-to-easily-download-envatos-tutsplus-video-resources-and-courses/"><u>Access & Save Professional Development: How to Easily Download Envato's Tuts+ Video Resources and Courses</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-wi-fi-driver-download-tutorial-complete-walkthrough/"><u>ASUS Wi-Fi Driver Download Tutorial - Complete Walkthrough</u></a></li>
+<li><a href="https://win-guides.techidaily.com/complete-guide-converting-damasio-video-files-avimkv-into-high-quality-mp4-or-mov-format-for-pc-and-mac/"><u>Complete Guide: Converting Damasio Video Files (AVI/MKV) Into High-Quality MP4 or MOV Format for PC & Mac</u></a></li>
+<li><a href="https://win-guides.techidaily.com/complete-tutorial-on-downloading-and-transforming-training-content-to-common-videoaudio-files/"><u>Complete Tutorial on Downloading and Transforming Training Content to Common Video/Audio Files</u></a></li>
+<li><a href="https://win-guides.techidaily.com/convert-and-download-top-rated-films-in-hd-as-mp4-mov-or-avi-compatible-with-both-macos-and-windows/"><u>Convert & Download Top-Rated Films in HD as MP4, MOV or AVI - Compatible with Both macOS and Windows</u></a></li>
+<li><a href="https://win-guides.techidaily.com/convert-free-educational-it-courses-into-downloadsable-video-formats/"><u>Convert Free Educational IT Courses Into Downloadsable Video Formats</u></a></li>
+<li><a href="https://win-guides.techidaily.com/convert-your-alison-learning-into-videos-mp4movavi-the-ultimate-guide/"><u>Convert Your Alison Learning Into Videos: MP4/MOV/AVI - The Ultimate Guide</u></a></li>
+<li><a href="https://win-guides.techidaily.com/download-high-quality-audio-convert-4k-youtube-videos-into-mp3-files-easily/"><u>Download High-Quality Audio: Convert 4K YouTube Videos Into MP3 Files Easily</u></a></li>
+<li><a href="https://win-guides.techidaily.com/easy-to-use-software-for-downloading-and-converting-tamil-tracks-into-desired-audio-files-mp3wavflac/"><u>Easy-to-Use Software for Downloading and Converting Tamil Tracks Into Desired Audio Files (MP3/WAV/FLAC)</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-samsung-galaxy-f34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-lava-yuva-2-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Lava Yuva 2?</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviverush-swift-video-repair/"><u>ReviveRush: Swift Video Repair</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-v29e-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V29e Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
 
