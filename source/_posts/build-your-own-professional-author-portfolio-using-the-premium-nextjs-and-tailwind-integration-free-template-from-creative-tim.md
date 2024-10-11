@@ -1,7 +1,7 @@
 ---
 title: Build Your Own Professional Author Portfolio Using the Premium NextJS and Tailwind Integration - Free Template From Creative Tim
-date: 2024-10-01T18:04:19.162Z
-updated: 2024-10-05T17:51:46.791Z
+date: 2024-10-05T08:45:55.497Z
+updated: 2024-10-10T18:10:24.493Z
 tags:
   - product
 categories:
@@ -20,19 +20,19 @@ thumbnail: https://thmb.techidaily.com/44cba3f77a25fb10a15058a95ecd605b31dd154fe
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -54,22 +54,20 @@ thumbnail: https://thmb.techidaily.com/44cba3f77a25fb10a15058a95ecd605b31dd154fe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-cultivating-a-brighter-home-with-outdoor-help/"><u>[New] In 2024, Cultivating a Brighter Home with Outdoor Help</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-cutting-edge-video-recording-techniques-on-modern-win-11-devices/"><u>[New] In 2024, Cutting-Edge Video Recording Techniques on Modern Win 11 Devices</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-youtubes-time-warp-watch-lists-in-the-reverse-order/"><u>[New] In 2024, YouTube's Time Warp Watch Lists in the Reverse Order</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-maximize-your-workflow-with-efficient-use-of-macs-preview-tool/"><u>[New] Maximize Your Workflow with Efficient Use of Mac's Preview Tool</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-quickstart-guide-making-videography-easier-with-pixiz/"><u>[Updated] In 2024, Quickstart Guide Making Videography Easier with Pixiz</u></a></li>
-<li><a href="https://win-guides.techidaily.com/advanced-pro-dashboard-with-bootstrap-4-exclusive-admin-design-by-creative-tim/"><u>Advanced Pro Dashboard with Bootstrap 4: Exclusive Admin Design by Creative Tim</u></a></li>
-<li><a href="https://win-guides.techidaily.com/creative-tims-ultimate-horizon-ai-pro-template-pack-with-pre-configured-nextjs-includes-advanced-integration-with-stripe-and-supabase-featuring-oauth-suppor10/"><u>Creative Tim's Ultimate Horizon AI Pro Template Pack with Pre-Configured NextJS: Includes Advanced Integration with Stripe and Supabase Featuring OAuth Support</u></a></li>
-<li><a href="https://win-guides.techidaily.com/download-our-complimentary-bootstrap-based-material-design-ui-framework-from-creative-tim/"><u>Download Our Complimentary Bootstrap-Based Material Design UI Framework From Creative Tim</u></a></li>
-<li><a href="https://win-guides.techidaily.com/download-your-ace-landing-page-with-free-nextjstailwind-course-from-creative-tims-resource-hub/"><u>Download Your Ace Landing Page with Free NextJS/Tailwind Course From Creative Tim's Resource Hub!</u></a></li>
-<li><a href="https://win-guides.techidaily.com/experience-the-best-with-creative-tims-argon-a-no-cost-community-driven-bootstrap-dashboard/"><u>Experience the Best with Creative Tim’s Argon: A No-Cost, Community-Driven Bootstrap Dashboard</u></a></li>
-<li><a href="https://win-guides.techidaily.com/free-angular-bootstrap-admin-dashboard-by-creative-tim-lightweight-and-efficient/"><u>Free Angular Bootstrap Admin Dashboard by Creative Tim - Lightweight & Efficient</u></a></li>
-<li><a href="https://win-guides.techidaily.com/free-nextjs-plus-tailwindcss-event-registration-site-template-by-creativetim/"><u>Free NextJS + TailwindCSS Event Registration Site Template by CreativeTim</u></a></li>
-<li><a href="https://win-guides.techidaily.com/free-nuxt-bootstrap-4-admin-dashboard-the-ultimate-nuxt-black-interface-by-creative-tim/"><u>Free Nuxt Bootstrap 4 Admin Dashboard: The Ultimate Nuxt Black Interface by Creative Tim</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-samsung-galaxy-s24-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Samsung Galaxy S24 Unlock Without Password</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-creativity-essential-tips-for-lut-production/"><u>In 2024, Unleash Creativity Essential Tips for LUT Production</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-motorola-edge-40-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Motorola Edge 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/trasforma-i-tuoi-file-mov-in-mxf-senza-costi-su-movavi/"><u>Trasforma I Tuoi File MOV in MXF Senza Costi Su Movavi</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-advanced-tips-for-capturing-iphone-7-content/"><u>[New] Advanced Tips for Capturing iPhone 7 Content</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-ultimate-guide-to-professional-grade-mobile-screencasting-with-mobizen-for-2024/"><u>[New] Ultimate Guide to Professional-Grade Mobile Screencasting with Mobizen for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-webinar-video-archive-creation/"><u>[New] Webinar Video Archive Creation</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-frontline-designers-in-the-vr-landscape/"><u>[Updated] Frontline Designers in the VR Landscape</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-pioneers-of-possibilities-the-leading-6-in-artistic-realms/"><u>[Updated] In 2024, Pioneers of Possibilities The Leading 6 in Artistic Realms</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-and-enjoy-uninterrupted-gaming-hitman-3-stability-hacks-for-pc-users/"><u>Fix and Enjoy Uninterrupted Gaming: Hitman 3 Stability Hacks for PC Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-persistent-problems-r-type-final-2-game-now-running-smoothly-without-any-pc-crashing-concerns/"><u>Fix Persistent Problems: R-Type Final 2 Game Now Running Smoothly Without Any PC Crashing Concerns</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-guide-downloading-botiss-academys-mac-and-windows-webinars/"><u>Step-by-Step Guide: Downloading Botiss Academy's Mac and Windows Webinars</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-tutorial-on-saving-instagram-tv-shows-for-later-enjoyment-without-internet-access/"><u>Step-by-Step Tutorial on Saving Instagram TV Shows for Later Enjoyment Without Internet Access</u></a></li>
+<li><a href="https://win-guides.techidaily.com/the-ultimate-technique-how-can-you-securely-acquire-and-save-videos-from-tubechop/"><u>The Ultimate Technique: How Can You Securely Acquire and Save Videos From TubeChop?</u></a></li>
+<li><a href="https://win-guides.techidaily.com/title-battle-of-the-titans-how-apple-music-stacks-up-against-google-play-music/"><u>Title: Battle of the Titans: How Apple Music Stacks Up Against Google Play Music</u></a></li>
+<li><a href="https://win-guides.techidaily.com/top-downloads-accelerator-software-the-best-non-getgo-options-for-mac-and-windows-users/"><u>Top Downloads Accelerator Software: The Best Non-GetGo Options for Mac & Windows Users</u></a></li>
+<li><a href="https://win-guides.techidaily.com/top-site-movie-extractor-tutorials-for-quick-and-safe-downloads-on-windows-and-macos-systems/"><u>Top Site Movie Extractor Tutorials for Quick and Safe Downloads on Windows & macOS Systems</u></a></li>
+<li><a href="https://win-guides.techidaily.com/top-substitutes-for-saveclipbro-compatible-with-both-mac-and-pc-featuring-allavsoft/"><u>Top Substitutes for SaveClipBro: Compatible with Both Mac & PC, Featuring Allavsoft</u></a></li>
 </ul></div>
 

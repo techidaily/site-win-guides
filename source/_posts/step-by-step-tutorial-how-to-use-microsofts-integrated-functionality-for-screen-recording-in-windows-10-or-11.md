@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: How to Use Microsoft's Integrated Functionality for Screen Recording in Windows 10 or 11"
-date: 2024-10-03T18:39:31.075Z
-updated: 2024-10-05T16:19:54.235Z
+date: 2024-10-10T05:01:44.916Z
+updated: 2024-10-11T08:25:44.910Z
 tags:
   - windows
 categories:
@@ -27,6 +27,13 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
@@ -34,10 +41,10 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Create a new folder
@@ -55,18 +62,18 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Search for a command
 
@@ -75,16 +82,16 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
@@ -115,13 +122,6 @@ Screenshot by Lance Whitney/ZDNET
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -162,24 +162,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-archive-gamers-best-runs-using-samsung-phones-for-2024/"><u>[New] Archive Gamer's Best Runs Using Samsung Phones for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-ideal-remote-recording-gear/"><u>[New] Ideal Remote Recording Gear</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-precise-voice-adjustments-for-pubg-success/"><u>[New] Precise Voice Adjustments for PUBG Success</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-truecapture-pro-for-windows-users/"><u>2024 Approved TrueCapture Pro for Windows Users</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/avimp4web/"><u>高品質に安全! AVIをMP4に自由に変換するWebサービス - お勧めガイド</u></a></li>
-<li><a href="https://win-guides.techidaily.com/activating-hibernation-mode-on-your-windows-xp-system-a-comprehensive-guide/"><u>Activating Hibernation Mode on Your Windows XP System: A Comprehensive Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-top-rated-free-tools-for-reviving-and-enhancing-vintage-photographs/"><u>Best Top-Rated Free Tools for Reviving and Enhancing Vintage Photographs</u></a></li>
-<li><a href="https://win-guides.techidaily.com/convert-files-to-mp3-at-no-cost-discover-the-ultimate-free-online-audio-to-mp3-converter-tool/"><u>Convert Files to MP3 at No Cost: Discover the Ultimate Free Online Audio-to-MP3 Converter Tool!</u></a></li>
-<li><a href="https://win-guides.techidaily.com/discover-the-legitimate-best-mp3-music-downloading-sites-ranked/"><u>Discover the Legitimate Best MP3 Music Downloading Sites - Ranked!</u></a></li>
-<li><a href="https://win-guides.techidaily.com/free-guide-convert-your-favorite-songs-from-pandora-to-mp3-format/"><u>Free Guide: Convert Your Favorite Songs From Pandora to MP3 Format</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-tecno-spark-10-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Tecno Spark 10 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/indispensable-a-comprehensive-list-of-the-best-10-must-have-apps-for-your-windows-10-experience/"><u>Indispensable: A Comprehensive List of the Best 10 Must-Have Apps for Your Windows 10 Experience</u></a></li>
-<li><a href="https://win-guides.techidaily.com/leading-free-video-editors-for-boosting-your-youtube-content/"><u>Leading Free Video Editors for Boosting Your YouTube Content</u></a></li>
-<li><a href="https://win-guides.techidaily.com/step-by-step-guide-finding-and-downloading-premium-hd-soundtracks/"><u>Step-by-Step Guide: Finding & Downloading Premium HD Soundtracks</u></a></li>
-<li><a href="https://win-guides.techidaily.com/step-by-step-instructions-how-to-create-a-mirrored-photo-effect-on-iphone/"><u>Step-by-Step Instructions: How to Create a Mirrored Photo Effect on iPhone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-future-of-gaming-laptops-asus-unveils-a-customizable-zephyrus-g14-with-dynamic-colored-e-paper-screen-technology/"><u>The Future of Gaming Laptops: Asus Unveils a Customizable Zephyrus G14 with Dynamic Colored E-Paper Screen Technology</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-gaming-rig-hytes-nexus-link-offers-seamless-assembly-wireless-components-and-high-performance-aio-technology/"><u>Transform Your Gaming Rig: Hyte's Nexus Link Offers Seamless Assembly, Wireless Components & High-Performance AIO Technology!</u></a></li>
-<li><a href="https://win-guides.techidaily.com/ultimate-guide-to-best-picture-to-video-apps-with-integrated-soundtracks/"><u>Ultimate Guide to Best Picture-to-Video Apps with Integrated Soundtracks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/onfigure-youtubes-audience-options-with-ease/"><u>[New] Configure YouTube's Audience Options with Ease</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-expertise-in-speech-transcription-with-googles-tools-for-2024/"><u>[Updated] Expertise in Speech Transcription with Google's Tools for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-sharex-review-and-best-alternatives-for-2024/"><u>[Updated] ShareX Review and Best Alternatives for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-strategic-use-of-visual-media-in-classroom-teaching/"><u>[Updated] Strategic Use of Visual Media in Classroom Teaching</u></a></li>
+<li><a href="https://win-guides.techidaily.com/enhance-account-safety-with-2fa-a-step-by-step-guide-on-activating-multi-factor-protection-zdnet/"><u>Enhance Account Safety with 2FA: A Step-by-Step Guide on Activating Multi-Factor Protection | ZDNet</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-meizu-21-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Meizu 21 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-gen-alpha-ai-enhances-programmer-efficiency-insights-from-new-research-techworld/"><u>How Gen Alpha AI Enhances Programmer Efficiency: Insights From New Research | TechWorld</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Share Location in Messenger On Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/is-the-jump-to-iphone-14-pro-justified-over-iphone-n-13-pro-insights-from-a-comprehensive-smartphone-showdown-the-verge/"><u>Is the Jump to iPhone 14 Pro Justified Over iPhone N 13 Pro? Insights From a Comprehensive Smartphone Showdown | The Verge</u></a></li>
+<li><a href="https://win-guides.techidaily.com/new-windows-11-update-automatically-syncing-with-onedrive-what-you-need-to-know/"><u>New Windows 11 Update Automatically Syncing with OneDrive: What You Need to Know!</u></a></li>
+<li><a href="https://win-guides.techidaily.com/the-undo-button-on-upgrading-a-comprehensive-guide-for-downscaling-from-windows-11-to-windows/"><u>The Undo Button on Upgrading: A Comprehensive Guide for Downscaling From Windows 11 to Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transitioning-generations-of-ai-understanding-the-5-primary-distinctions-between-gpt-4-vs-gpt-35/"><u>Transitioning Generations of AI: Understanding the 5 Primary Distinctions Between GPT-4 vs GPT-3.5</u></a></li>
+<li><a href="https://win-guides.techidaily.com/upgrade-your-microsoft-surface-pros-storage-cost-effectively-with-our-simple-guide/"><u>Upgrade Your Microsoft Surface Pro's Storage Cost-Effectively with Our Simple Guide</u></a></li>
+<li><a href="https://win-guides.techidaily.com/urgent-challenge-ahead-for-microsofts-windows-11-launch-just-one-year-remaining-techdigest/"><u>Urgent Challenge Ahead for Microsoft's Windows 11 Launch - Just One Year Remaining | TechDigest</u></a></li>
 </ul></div>
 

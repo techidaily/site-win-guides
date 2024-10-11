@@ -1,7 +1,7 @@
 ---
 title: "Actionable Steps: Crafting Engaging Video Walkthroughs"
-date: 2024-09-28T20:46:11.943Z
-updated: 2024-10-05T22:45:28.497Z
+date: 2024-10-09T18:08:19.854Z
+updated: 2024-10-10T22:11:15.741Z
 tags:
   - product
 categories:
@@ -60,20 +60,40 @@ Action Tutorials
 
 ![Mirillis Action! - Video recording tab](https://mirillis.com/res/old/gfx/tutorials/howto/v1.png) 
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To record fullscreen select the Active Screen recording mode. 
 
 ![Mirillis Action! - Active screen recording mode](https://mirillis.com/res/old/gfx/tutorials/howto/v2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to record just a specific area of your desktop into your video guide, then select the Active desktop region/area recording mode. 
 
 ![Mirillis Action! - Active desktop region recording mode](https://mirillis.com/res/old/gfx/tutorials/howto/v3.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Video guide recording configurations
 
@@ -102,45 +122,31 @@ Please note that higher resolutions would result in better video quality but als
 
  The duration option allows you to set a predefned duration of your video recording. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Video Recording Settings
 
 ![Mirillis Action! - Settings](https://mirillis.com/res/old/gfx/tutorials/howto/v4.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  For more advanced video recording settings open Mirllis Action! Settings and select Video Recording Settings. Here you can set more advanced video recording related settings or enable visualize mouse clicks option. 
 
 ![Mirillis Action! - Video recording settings](https://mirillis.com/res/old/gfx/tutorials/howto/v5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Video Quality Settings
 
 ![Mirillis Action! - Video quality settings](https://mirillis.com/res/old/gfx/tutorials/howto/v6.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The video quality recording has three modes.
 
@@ -156,15 +162,22 @@ Please note that higher resolutions would result in better video quality but als
 
  With Bitrate option you can adjust the bitrate of your MP4 file format recordings. A higher bitrate means bigger output file size but also a better video quality. To set custom bitrate please use the slider.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Mouse click visualizations in video guide recordings
 
 ![Mirillis Action! - Mouse cursor recording settings](https://mirillis.com/res/old/gfx/tutorials/howto/v9.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In video guides one of the most important things is to demonstrate various features or actions using a mouse cursor. Recording your mouse cursor is a key feature for most of video guides.With Action! you can also add animated mouse click visualizations to make things even more clear for your audience.
@@ -187,19 +200,6 @@ Please note that higher resolutions would result in better video quality but als
 
 ![Mirillis Action! - Microphone recording settings](https://mirillis.com/res/old/gfx/tutorials/howto/v12.png) 
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The graphics overlay option allows you to place your logo, trademark or any other information on top of your video like a watermark. Open additional Overlay graphics settings window to select the position where overlay graphic image will be placed or simply switch Action! to Preview mode and use Draggable mode to adjust your graphics size and position!
 
 ## Adding Webcam to video guides recordings
@@ -219,10 +219,10 @@ Please note that higher resolutions would result in better video quality but als
 ![Mirillis Action! - Exporting video guide to YouTube](https://mirillis.com/res/old/gfx/tutorials/export/mirillis_action_export_youtube_uploading.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -240,18 +240,24 @@ Please note that higher resolutions would result in better video quality but als
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-essential-skills-for-youtube-success-8-free-online-courses/"><u>[Updated] Essential Skills for YouTube Success 8 Free Online Courses</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/effortless-tricks-for-capturing-instagram-stories/"><u>Effortless Tricks for Capturing Instagram Stories</u></a></li>
-<li><a href="https://facebook.techidaily.com/fostering-friendship-safe-social-media-etiquette/"><u>Fostering Friendship: Safe Social Media Etiquette</u></a></li>
-<li><a href="https://win-guides.techidaily.com/hp-screenshot-mastery-techniques-for-all-your-pcs-and-tablets/"><u>HP Screenshot Mastery: Techniques for All Your PCs and Tablets</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Motorola Moto G23? | Dr.fone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/quick-guide-on-how-to-transition-pictures-from-an-iphone/"><u>Quick Guide on How to Transition Pictures From an iPhone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/simple-guide-deleting-texts-and-mms-on-your-android-device/"><u>Simple Guide: Deleting Texts and MMS on Your Android Device</u></a></li>
-<li><a href="https://win-guides.techidaily.com/step-by-step-guide-finding-and-downloading-premium-hd-soundtracks/"><u>Step-by-Step Guide: Finding & Downloading Premium HD Soundtracks</u></a></li>
-<li><a href="https://win-guides.techidaily.com/step-by-step-tutorial-on-transferring-iphone-footage-to-mac-top-seo-strategies/"><u>Step-by-Step Tutorial on Transferring iPhone Footage to Mac - Top SEO Strategies</u></a></li>
-<li><a href="https://games-able.techidaily.com/superior-seated-partnership-titles-top-16-xbox-series-choices/"><u>Superior Seated Partnership Titles - Top 16 Xbox Series Choices</u></a></li>
-<li><a href="https://win-guides.techidaily.com/ultimate-selection-of-free-downloadable-android-wallpapers/"><u>Ultimate Selection of Free Downloadable Android Wallpapers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-your-creative-potential-how-to-use-free-dall-e-3-on-microsoft-bing/"><u>Unlock Your Creative Potential: How to Use Free DALL-E 3 on Microsoft Bing</u></a></li>
-<li><a href="https://driver-download.techidaily.com/up-to-date-geforce-rtx-3080-ti-graphics-card-drivers-for-windows-users-on-win-10-8-and-7/"><u>Up-to-Date GeForce RTX 3080 Ti Graphics Card Drivers for Windows Users on Win 10, 8, and 7</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-cutting-edge-techniques-for-captivating-readership-on-subreddits/"><u>2024 Approved Cutting-Edge Techniques for Captivating Readership on Subreddits</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-masterclass-in-capturing-conversations-for-later-review/"><u>2024 Approved Masterclass in Capturing Conversations for Later Review</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-poco-c55-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boost-your-iphones-visual-impact-with-diy-photo-collage-methods/"><u>Boost Your iPhone's Visual Impact with DIY Photo Collage Methods</u></a></li>
+<li><a href="https://win-guides.techidaily.com/convert-and-download-top-rated-films-in-hd-as-mp4-mov-or-avi-compatible-with-both-macos-and-windows/"><u>Convert & Download Top-Rated Films in HD as MP4, MOV or AVI - Compatible with Both macOS and Windows</u></a></li>
+<li><a href="https://win-guides.techidaily.com/convert-free-educational-it-courses-into-downloadsable-video-formats/"><u>Convert Free Educational IT Courses Into Downloadsable Video Formats</u></a></li>
+<li><a href="https://win-guides.techidaily.com/convert-your-alison-learning-into-videos-mp4movavi-the-ultimate-guide/"><u>Convert Your Alison Learning Into Videos: MP4/MOV/AVI - The Ultimate Guide</u></a></li>
+<li><a href="https://win-guides.techidaily.com/download-high-quality-audio-convert-4k-youtube-videos-into-mp3-files-easily/"><u>Download High-Quality Audio: Convert 4K YouTube Videos Into MP3 Files Easily</u></a></li>
+<li><a href="https://win-guides.techidaily.com/easy-to-use-software-for-downloading-and-converting-tamil-tracks-into-desired-audio-files-mp3wavflac/"><u>Easy-to-Use Software for Downloading and Converting Tamil Tracks Into Desired Audio Files (MP3/WAV/FLAC)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/efficient-zoom-functionality-for-chromebooks-for-2024/"><u>Efficient Zoom Functionality for ChromeBooks for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/free-high-definition-science-animal-and-funny-video-downloads-your-ultimate-discovery-library/"><u>Free High-Definition Science, Animal and Funny Video Downloads - Your Ultimate Discovery Library!</u></a></li>
+<li><a href="https://win-guides.techidaily.com/free-xvideo-downloader-app-quick-guide-to-transforming-xvideos-into-mp4-format-on-your-computer/"><u>Free XVideo Downloader App: Quick Guide to Transforming XVideos Into MP4 Format on Your Computer</u></a></li>
+<li><a href="https://win-guides.techidaily.com/guide-to-downloading-ndr-streams-tips-and-tricks-for-macos-and-windows-users/"><u>Guide to Downloading NDR Streams: Tips and Tricks for macOS & Windows Users</u></a></li>
+<li><a href="https://win-guides.techidaily.com/guide-downloading-high-definition-films-and-videos-in-mp4movavi-format-for-pcs-windows-and-macbooks/"><u>Guide: Downloading High-Definition Films & Videos in MP4/MOV/AVI Format for PCs (Windows) & MacBooks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-infinix-hot-40i-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Infinix Hot 40i to Another | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-infinix-note-30-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Infinix Note 30 Pro FRP?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-play-40c-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Honor Play 40C Bootloader Easily</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ps3-controller-compatibility-with-windows-bypassing-the-need-for-motioninjoy-solutions/"><u>PS3 Controller Compatibility with Windows: Bypassing the Need for MotionINJoy Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-fix-iphoneipad-keyboard-malfunctions/"><u>Troubleshooting Guide: Fix iPhone/iPad Keyboard Malfunctions</u></a></li>
 </ul></div>
 
