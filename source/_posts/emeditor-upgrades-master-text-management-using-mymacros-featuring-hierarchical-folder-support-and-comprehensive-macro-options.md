@@ -1,7 +1,7 @@
 ---
 title: "EmEditor Upgrades: Master Text Management Using MyMacros, Featuring Hierarchical Folder Support and Comprehensive Macro Options"
-date: 2024-10-05T20:47:38.311Z
-updated: 2024-10-10T18:12:15.059Z
+date: 2024-10-12T01:43:50.104Z
+updated: 2024-10-16T17:16:37.868Z
 tags:
   - product
 categories:
@@ -84,23 +84,29 @@ Viewing 2 posts - 1 through 2 (of 2 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unlocking-the-potential-of-audacitys-audio-features/"><u>[New] In 2024, Unlocking the Potential of Audacity's Audio Features</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/rotect-your-data-while-converting-youtube-videos-to-mp3-tracks/"><u>[New] Protect Your Data While Converting YouTube Videos to MP3 Tracks</u></a></li>
-<li><a href="https://win-guides.techidaily.com/advanced-application-development-with-nuxt-and-laravel-master-the-craft-using-json-api-and-argon-dashboard-pro/"><u>Advanced Application Development with Nuxt & Laravel - Master the Craft Using JSON API and Argon Dashboard PRO</u></a></li>
-<li><a href="https://win-guides.techidaily.com/complimentary-administrator-interface-using-nextjs-plus-material-design-by-creative-tim/"><u>Complimentary Administrator Interface Using Next.js + Material Design by Creative Tim</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-optimizing-video-production-in-windows-11-workflows/"><u>In 2024, Optimizing Video Production in Windows 11 Workflows</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-rhythm-reversal-top-10-audio-distortors-for-devices/"><u>In 2024, Rhythm Reversal Top 10 Audio Distortors for Devices</u></a></li>
-<li><a href="https://win-guides.techidaily.com/professional-argon-dashboard-for-react-and-material-ui-combo-upgraded-management-interface-from-creative-tim/"><u>Professional Argon Dashboard for React & Material UI Combo – Upgraded Management Interface From Creative Tim</u></a></li>
-<li><a href="https://fox-that.techidaily.com/seven-remedies-for-iphone-users-facing-vpn-connections-issues/"><u>Seven Remedies for iPhone Users Facing VPN Connections Issues!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-in-depth-insights-into-hardware-solutions/"><u>Tom's Tech Review: In-Depth Insights Into Hardware Solutions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-s23plus-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy S23+ Device</u></a></li>
-<li><a href="https://win-guides.techidaily.com/understanding-the-scope-of-article-2-is-essential-for-determining-the-rules-governing-a-contract-involving-goods/"><u>Understanding the Scope of Article 2 Is Essential for Determining the Rules Governing a Contract Involving Goods.</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-essential-tips-building-an-instagram-money-machine/"><u>[Updated] 2024 Approved Essential Tips Building an Instagram Money Machine</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-pioneering-unmicrophoned-audio-capturing-methods/"><u>[Updated] Pioneering Unmicrophoned Audio Capturing Methods</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1-effective-solutions-to-stop-recurring-file-appearances-in-windows-11/"><u>1. Effective Solutions to Stop Recurring File Appearances in Windows 11</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1-windows-11-vs-windows/"><u>1. Windows 11 vs Windows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-optimizing-your-voice-content-via-garageband/"><u>2024 Approved Optimizing Your Voice Content via GarageBand</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-sharex-review-and-alternatives/"><u>2024 Approved ShareX Review and Alternatives</u></a></li>
+<li><a href="https://win-guides.techidaily.com/fast-solutions-how-to-enable-windows-defender-when-it-wont-start-discover-7-methods/"><u>Fast Solutions: How to Enable Windows Defender When It Won't Start – Discover 7 Methods</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-poco-x6-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco X6 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-apple-iphone-se-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your Apple iPhone SE and iPad</u></a></li>
+<li><a href="https://win-guides.techidaily.com/restore-files-after-unintentionally-erasing-your-seagate-external-drive/"><u>Restore Files After Unintentionally Erasing Your Seagate External Drive</u></a></li>
+<li><a href="https://win-guides.techidaily.com/schnell-und-sicher-migrate-deine-itunes-musik-auf-externe-hdd-mit-fonebackup-eine-vollstandige-anleitung/"><u>Schnell Und Sicher: Migrate Deine iTunes Musik Auf Externe HDD Mit FoneBackup - Eine Vollständige Anleitung</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/secure-every-moment-on-fb-with-these-video-downloader-tools-for-2024/"><u>Secure Every Moment on FB with These Video Downloader Tools for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-streamline-your-workflow-best-4k-proxy-video-editing-software-for-2024/"><u>Updated Streamline Your Workflow Best 4K Proxy Video Editing Software for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/updating-your-iphone-without-itunes-comprehensive-techniques-and-tips-for-users/"><u>Updating Your iPhone Without iTunes: Comprehensive Techniques and Tips for Users</u></a></li>
+<li><a href="https://win-guides.techidaily.com/wiederherstellung-von-iphones-ohne-datenverlust-fur-ios-versionen-16-15-und-14/"><u>Wiederherstellung Von iPhones Ohne Datenverlust Für iOS-Versionen 16, 15 Und 14</u></a></li>
+<li><a href="https://win-guides.techidaily.com/windows-10-versionsverlauf-sicherung-schwierigkeiten-losungsansatz/"><u>Windows 10 Versionsverlauf Sicherung Schwierigkeiten - Lösungsansatz</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1728487057748-windows-1110-9/"><u>Windows 11/10でデバイスを強制的に自動再生する方法 - 解決策9つ</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
