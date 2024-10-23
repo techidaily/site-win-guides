@@ -1,7 +1,7 @@
 ---
 title: "EmEditor Upgrades: Master Text Management Using MyMacros, Featuring Hierarchical Folder Support and Comprehensive Macro Options"
-date: 2024-10-12T01:43:50.104Z
-updated: 2024-10-16T17:16:37.868Z
+date: 2024-10-18T03:13:49.687Z
+updated: 2024-10-22T16:07:11.184Z
 tags:
   - product
 categories:
@@ -84,29 +84,21 @@ Viewing 2 posts - 1 through 2 (of 2 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-essential-tips-building-an-instagram-money-machine/"><u>[Updated] 2024 Approved Essential Tips Building an Instagram Money Machine</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-pioneering-unmicrophoned-audio-capturing-methods/"><u>[Updated] Pioneering Unmicrophoned Audio Capturing Methods</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1-effective-solutions-to-stop-recurring-file-appearances-in-windows-11/"><u>1. Effective Solutions to Stop Recurring File Appearances in Windows 11</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1-windows-11-vs-windows/"><u>1. Windows 11 vs Windows</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-optimizing-your-voice-content-via-garageband/"><u>2024 Approved Optimizing Your Voice Content via GarageBand</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-sharex-review-and-alternatives/"><u>2024 Approved ShareX Review and Alternatives</u></a></li>
-<li><a href="https://win-guides.techidaily.com/fast-solutions-how-to-enable-windows-defender-when-it-wont-start-discover-7-methods/"><u>Fast Solutions: How to Enable Windows Defender When It Won't Start – Discover 7 Methods</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-poco-x6-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco X6 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-apple-iphone-se-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your Apple iPhone SE and iPad</u></a></li>
-<li><a href="https://win-guides.techidaily.com/restore-files-after-unintentionally-erasing-your-seagate-external-drive/"><u>Restore Files After Unintentionally Erasing Your Seagate External Drive</u></a></li>
-<li><a href="https://win-guides.techidaily.com/schnell-und-sicher-migrate-deine-itunes-musik-auf-externe-hdd-mit-fonebackup-eine-vollstandige-anleitung/"><u>Schnell Und Sicher: Migrate Deine iTunes Musik Auf Externe HDD Mit FoneBackup - Eine Vollständige Anleitung</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/secure-every-moment-on-fb-with-these-video-downloader-tools-for-2024/"><u>Secure Every Moment on FB with These Video Downloader Tools for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-streamline-your-workflow-best-4k-proxy-video-editing-software-for-2024/"><u>Updated Streamline Your Workflow Best 4K Proxy Video Editing Software for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/updating-your-iphone-without-itunes-comprehensive-techniques-and-tips-for-users/"><u>Updating Your iPhone Without iTunes: Comprehensive Techniques and Tips for Users</u></a></li>
-<li><a href="https://win-guides.techidaily.com/wiederherstellung-von-iphones-ohne-datenverlust-fur-ios-versionen-16-15-und-14/"><u>Wiederherstellung Von iPhones Ohne Datenverlust Für iOS-Versionen 16, 15 Und 14</u></a></li>
-<li><a href="https://win-guides.techidaily.com/windows-10-versionsverlauf-sicherung-schwierigkeiten-losungsansatz/"><u>Windows 10 Versionsverlauf Sicherung Schwierigkeiten - Lösungsansatz</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1728487057748-windows-1110-9/"><u>Windows 11/10でデバイスを強制的に自動再生する方法 - 解決策9つ</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-mastering-soundtrack-addition-to-social-media-videos-on-facebook/"><u>[New] 2024 Approved Mastering Soundtrack Addition to Social Media Videos on Facebook</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-shattering-synthetic-statistics-on-youtube/"><u>[Updated] 2024 Approved Shattering Synthetic Statistics on YouTube</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-vibrant-visions-a-guide-through-the-top-5-color-tvs/"><u>2024 Approved Vibrant Visions A Guide Through the Top 5 Color TVs</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-resolving-installation-and-update-complications-on-steam-gaming-services/"><u>Expert Tips for Resolving Installation and Update Complications on Steam Gaming Services</u></a></li>
+<li><a href="https://win-guides.techidaily.com/expertise-sur-la-mise-en-oeuvre-de-rsync-dans-le-systeme-dexploitation-windows-11-guides-pratiques-et-options-alternatives/"><u>Expertise Sur La Mise en Oeuvre De Rsync Dans Le Système D'Exploitation Windows 11 : Guides Pratiques Et Options Alternatives</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/launching-the-latest-exploring-new-features-of-the-apple-iphone/"><u>Launching the Latest: Exploring New Features of the Apple iPhone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/les-meilleurs-outils-pour-copier-des-photos-de-votre-iphone-vers-un-ordinateur-top-3/"><u>Les Meilleurs Outils Pour Copier Des Photos De Votre iPhone Vers Un Ordinateur - Top 3</u></a></li>
+<li><a href="https://win-guides.techidaily.com/solving-the-mystery-of-an-active-asus-pc-with-no-screen-output/"><u>Solving the Mystery of an Active ASUS PC with No Screen Output</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1728510112531-troubleshooting-steps-for-missing-winload-efi-issue-in-windows-11-solution/"><u>Troubleshooting Steps for Missing Winload Efi Issue in Windows 11 (Solution )</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
