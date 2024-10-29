@@ -1,7 +1,7 @@
 ---
 title: "Top 11 Evolving Strategies in Personal Branding on Social Media: Insights From 2011 Edition - Unveiling the First Half"
-date: 2024-10-20T20:36:55.069Z
-updated: 2024-10-22T16:37:38.075Z
+date: 2024-10-26T02:12:40.344Z
+updated: 2024-10-28T18:15:09.830Z
 tags:
   - product
 categories:
@@ -22,6 +22,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -32,15 +39,22 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -51,18 +65,18 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -76,27 +90,27 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -126,13 +140,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -140,13 +147,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -167,18 +167,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-iphone-7-perfect-methods-for-screen-recording-for-2024/"><u>[New] IPhone 7 Perfect Methods for Screen Recording for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-mastering-your-marketing-edge-establishing-a-biz-page-on-instagram-for-2024/"><u>[Updated] Mastering Your Marketing Edge Establishing a Biz Page on Instagram for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-the-ez-grabber-user-manual-in-a-nutshell/"><u>[Updated] The EZ Grabber User Manual in a Nutshell</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-changing-screen-aspects-digitally/"><u>2024 Approved Changing Screen Aspects Digitally</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-nubia-z50-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Nubia Z50 Ultra Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-xiaomi-redmi-note-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/best-seo-services-providers-in-doha-discover-the-top-ranking-experts-with-seo-powersuite/"><u>Best SEO Services Providers in Doha - Discover the Top Ranking Experts with SEO PowerSuite</u></a></li>
-<li><a href="https://win-guides.techidaily.com/evolving-seo-tactics-and-profitable-models-for-digital-marketing-leveraging-email-software-innovations-today/"><u>Evolving SEO Tactics and Profitable Models for Digital Marketing: Leveraging Email Software Innovations Today</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/mastering-outlook-optimization-una-guida-approfondita-alla-cancellazione-dei-messaggi-duplicati-in-posta-elettronica/"><u>Mastering Outlook Optimization: Una Guida Approfondita Alla Cancellazione Dei Messaggi Duplicati in Posta Elettronica</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-video-editing-essentials-for-mac-os-x-yosemite-tips-and-tricks-for-2024/"><u>New Video Editing Essentials for Mac OS X Yosemite Tips and Tricks for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/proven-techniques-for-effective-video-transfer-ios-to-mac/"><u>Proven Techniques for Effective Video Transfer IOS to MAC</u></a></li>
-<li><a href="https://win-guides.techidaily.com/synchronisation-von-smartphone-aufnahmen-mit-dem-computer-uber-itunes-erklart/"><u>Synchronisation Von Smartphone-Aufnahmen Mit Dem Computer Über iTunes Erklärt</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-sdk-upgrade-alert-enhancing-facebook-video-downloader-apps-for-android/"><u>[New] SDK Upgrade Alert Enhancing Facebook Video Downloader Apps for Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-step-into-hd-color-on-windows-watch-edit-relish-videos-for-2024/"><u>[Updated] Step Into HD Color on Windows Watch, Edit, Relish Videos for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1728483770250-3/"><u>作成不可能なリカバリーポイントにはどう対応する？：効果的な戦略3つ</u></a></li>
+<li><a href="https://win-guides.techidaily.com/dating-principles-for-successful-campaigns-in-email-marketing-learn-from-massmail-solutions/"><u>Dating Principles for Successful Campaigns in Email Marketing - Learn From MassMail Solutions</u></a></li>
+<li><a href="https://win-guides.techidaily.com/email-excellence-tactics-how-to-identify-and-remove-redundant-contacts-using-massmail-for-improved-campaign-engagement/"><u>Email Excellence Tactics: How to Identify and Remove Redundant Contacts Using Massmail for Improved Campaign Engagement</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/essentiele-gids-voor-hidden-files-op-usb-sticks-locatie-controlelement-and-uitemaken/"><u>Essentiële Gids Voor Hidden Files Op USB-Sticks: Locatie, Controlelement & Uitemaken</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/freepaid-luminar-the-ultimate-lightroom-substitute/"><u>Free/Paid Luminar The Ultimate Lightroom Substitute</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Identify missing or malfunctioning your drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-set-the-atmosphere-musical-statuses/"><u>In 2024, Set the Atmosphere Musical Statuses</u></a></li>
+<li><a href="https://win-guides.techidaily.com/life-choices-and-critical-moments-effective-decision-making-tools-for-2009-via-massmail-tech/"><u>Life, Choices, and Critical Moments: Effective Decision-Making Tools for 2009 via MassMail Tech</u></a></li>
+<li><a href="https://win-guides.techidaily.com/resmi-dan-efisien-cara-mengatur-folderyang-hilang-and-dihilangkan-pada-windows-11/"><u>Resmi Dan Efisien: Cara Mengatur Folderyang Hilang & Dihilangkan Pada Windows 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/sound-sleuths-unite-free-beats-tracking-tools-for-2024/"><u>Sound Sleuths Unite! Free Beats-Tracking Tools for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-guide-installing-an-ssd-on-your-acer-aspire-notebook-compatible-with-windows-11-8-7-and-xp/"><u>Step-by-Step Guide: Installing an SSD on Your Acer Aspire Notebook - Compatible with Windows 11, 8, 7 & XP</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-and-testing-the-clevetura-clvx-1-keyboard-a-look-at-its-haptic-feedback-quality/"><u>Unboxing & Testing the Clevetura CLVX 1 Keyboard - A Look at Its Haptic Feedback Quality</u></a></li>
 </ul></div>
 

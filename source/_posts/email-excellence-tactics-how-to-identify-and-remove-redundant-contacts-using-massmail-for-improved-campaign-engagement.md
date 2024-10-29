@@ -1,7 +1,7 @@
 ---
 title: "Email Excellence Tactics: How to Identify and Remove Redundant Contacts Using Massmail for Improved Campaign Engagement"
-date: 2024-10-20T18:17:33.473Z
-updated: 2024-10-22T23:18:32.443Z
+date: 2024-10-27T02:59:30.500Z
+updated: 2024-10-28T18:42:50.414Z
 tags:
   - product
 categories:
@@ -22,13 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -39,9 +32,29 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -50,6 +63,13 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -69,16 +89,16 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
@@ -87,6 +107,13 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -100,33 +127,19 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 8\. Partner
@@ -140,13 +153,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -167,18 +173,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-secrets-to-successful-hash-tag-application-for-improved-campaigns-on-facebook-for-2024/"><u>[New] Secrets to Successful Hash Tag Application for Improved Campaigns on Facebook for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-how-to-restrict-viewership-of-your-youtube-content/"><u>2024 Approved How to Restrict Viewership of Your YouTube Content</u></a></li>
-<li><a href="https://win-guides.techidaily.com/elite-dallas-seo-experts-elevating-online-exposure-with-seo-powersuite-strategies/"><u>Elite Dallas SEO Experts Elevating Online Exposure with SEO PowerSuite Strategies</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/go-above-and-beyond-in-search-engine-optimization-discover-superior-alternatives-to-surfer-and-revolutionize-your-seo-techniques-with-powersuite-expert-guid5/"><u>Go Above and Beyond in Search Engine Optimization: Discover Superior Alternatives to Surfer & Revolutionize Your SEO Techniques with PowerSuite | Expert Guide</u></a></li>
-<li><a href="https://win-guides.techidaily.com/guide-complet-pour-remettre-les-pieds-sur-terre-comment-reinitialiser-vos-touches-de-clavier-facilement/"><u>Guide Complet Pour Remettre Les Pieds Sur Terre : Comment Réinitialiser Vos Touches De Clavier Facilement</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-download-sandisk-ssd-drivers-solved/"><u>How to Download Sandisk SSD Drivers [SOLVED]</u></a></li>
-<li><a href="https://win-guides.techidaily.com/how-to-resolve-destination-folder-unreachable-issues-a-guide-with-9-effective-fixes-in-windows-ebox-11/"><u>How to Resolve 'Destination Folder Unreachable' Issues: A Guide with 9 Effective Fixes in Windows Ebox 11</u></a></li>
-<li><a href="https://win-guides.techidaily.com/leading-seo-agencies-of-mecca-saudi-arabia-2024-insights-and-reviews-featuring-seo-powersuite-tools/"><u>Leading SEO Agencies of Mecca, Saudi Arabia - 2024 Insights & Reviews Featuring SEO PowerSuite Tools</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-learn-to-make-an-emotional-video-with-photos-and-music/"><u>New In 2024, Learn to Make an Emotional Video with Photos and Music</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/post-weld-treatments-can-alleviate-residual-stresses-but-are-not-a-guaranteed-solution-to-prevent-all-forms-of-deformation/"><u>Post-Weld Treatments Can Alleviate Residual Stresses but Are Not a Guaranteed Solution to Prevent All Forms of Deformation.</u></a></li>
-<li><a href="https://win11.techidaily.com/tidy-up-files-adopt-the-minimalist-way-with-windows-explorer/"><u>Tidy Up Files: Adopt the Minimalist Way with Windows Explorer</u></a></li>
-<li><a href="https://win-guides.techidaily.com/understanding-url-slugs-in-seo-a-comprehensive-guide-with-optimization-strategies/"><u>Understanding URL Slugs in SEO: A Comprehensive Guide with Optimization Strategies</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-elevate-your-editing-with-blend-mode-innovations/"><u>[New] 2024 Approved Elevate Your Editing with Blend Mode Innovations</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-top-5-ios-platforms-for-experiencing-classic-psp-games/"><u>[New] 2024 Approved Top 5 iOS Platforms for Experiencing Classic PSP Games</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-utilizing-luts-for-professional-color-grading/"><u>[New] Utilizing LUTs for Professional Color Grading</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-androids-premier-choice-top-10-free-fb-video-extractor/"><u>[Updated] Android's Premier Choice Top 10 Free FB Video Extractor</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-top-10-to-11-screen-capturing-tools-for-every-mac-user/"><u>2024 Approved The Top 10 to 11 Screen Capturing Tools for Every Mac User</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726029401926-bgm/"><u>動画に添えるBGM・効果音作成ソフトウェアガイド</u></a></li>
+<li><a href="https://win-guides.techidaily.com/aomei-backupper-pro-ultimate-server-backup-solution/"><u>AOMEI Backupper Pro: Ultimate Server Backup Solution</u></a></li>
+<li><a href="https://win-guides.techidaily.com/backup-incremental-difference-con-aomei-freeware-il-miglior-strumento-per-la-protezione-dei-dati/"><u>Backup Incremental-Difference Con AOMEI Freeware: Il Miglior Strumento per La Protezione Dei Dati</u></a></li>
+<li><a href="https://win-guides.techidaily.com/hoe-snel-kan-je-een-vaste-web-site-heten-bestaat-door-quick-format-hard-disk-data-preparation-te-vergroten-bijgewerkt/"><u>Hoe Snel Kan Je Een Vaste Web-Site Heten Bestaat Door Quick Format Hard Disk Data Preparation Te Vergroten (Bijgewerkt)</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-to-transfer-windows-images-between-computers-a-guide-for-windows-11-10-8-and-7/"><u>How to Transfer Windows Images Between Computers: A Guide for Windows 11, 10, 8 and 7</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-tecno-pova-5-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Tecno Pova 5</u></a></li>
+<li><a href="https://win-guides.techidaily.com/mastering-the-art-of-iphone-contact-preservation-on-itunes-effective-methods/"><u>Mastering the Art of iPhone Contact Preservation on iTunes - Effective Methods</u></a></li>
+<li><a href="https://win-guides.techidaily.com/sichere-backups-schaffen-mit-externen-datentragern-das-optimale-mittel-zur-verfugungstellung-geschutzter-datenablage/"><u>Sichere Backups Schaffen Mit Externen Datenträgern: Das Optimale Mittel Zur Verfügungstellung Geschützter Datenablage.</u></a></li>
+<li><a href="https://driver-install.techidaily.com/system-recourse-and-resource-conflicts/"><u>System Recourse and Resource Conflicts</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/troubleshooting-windows-easy-transfer-solutions-when-unable-to-connect-to-users-domain/"><u>Troubleshooting Windows Easy Transfer: Solutions When Unable to Connect to User's Domain</u></a></li>
+<li><a href="https://win-guides.techidaily.com/unavailable-content-the-resource-cannot-be-found-http-error-n-404/"><u>Unavailable Content: The Resource Cannot Be Found (HTTP Error N° 404)</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-fcpx-freebie-list-10-plugins-you-cant-miss-for-2024/"><u>Updated The Ultimate FCPX Freebie List 10 Plugins You Cant Miss for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1728472323813-windows-11/"><u>Windows 11のシステムイメージからファイルを選択してバックアップするガイド</u></a></li>
+<li><a href="https://win-guides.techidaily.com/windows-server-2019-hidden-system-protection-tab-issue-resolved/"><u>Windows Server 2019 - Hidden 'System Protection' Tab Issue Resolved</u></a></li>
 </ul></div>
 
