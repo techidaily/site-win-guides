@@ -1,7 +1,7 @@
 ---
 title: "Top Free Alternatives to Microsoft Deployment Toolkit: Optimize Your Setup"
-date: 2024-10-28T01:12:25.038Z
-updated: 2024-10-28T21:53:30.076Z
+date: 2024-11-11T22:05:32.851Z
+updated: 2024-11-12T18:08:32.666Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/84dab43ab035d91cb56a4eae408b40758af9a9a2b096c95f61afee80ed15090c.jpg
@@ -35,19 +35,6 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
 NAS Buffalo est la solution idéale pour la protection des données et peut facilement éviter les défaillances informatiques causées par une attaque de virus, un plantage système, une corruption de disque, etc. Cependant, il peut également se bloquer et entraîner une perte de données dans ces situations. Vous ne souhaitez probablement pas perdre vos données, il est donc judicieux de sauvegarder votre NAS Buffalo sur un disque dur externe, une clé USB ou d'autres périphériques.
@@ -74,16 +61,16 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
@@ -109,15 +96,28 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
@@ -131,6 +131,26 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -148,29 +168,9 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -200,14 +200,14 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -224,16 +224,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-snappy-picture-assemblies-a-brisk-guide-to-google-collages/"><u>[New] 2024 Approved Snappy Picture Assemblies A Brisk Guide to Google Collages</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-selection-of-vr-for-drone-pilots/"><u>[Updated] Exclusive Selection of VR for Drone Pilots</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-perfecting-the-art-of-twitter-broadcasts-for-2024/"><u>[Updated] Perfecting the Art of Twitter Broadcasts for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/7-with-clonezilla-and-other-user-friendly-tools/"><u>7 with Clonezilla and Other User-Friendly Tools</u></a></li>
-<li><a href="https://win-guides.techidaily.com/boost-your-sales-with-top-10-ctas-effective-strategies-in-email-campaigns-using-massmail/"><u>Boost Your Sales with Top 10 CTAs: Effective Strategies in Email Campaigns Using Massmail</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-oneplus-ace-3-lock-screen-password-by-drfone-android/"><u>How To Change OnePlus Ace 3 Lock Screen Password?</u></a></li>
-<li><a href="https://win-guides.techidaily.com/how-to-migrate-data-from-western-digital-my-cloud-to-amazon-drive-and-alternative-cloud-services/"><u>How to Migrate Data From Western Digital My Cloud to Amazon Drive and Alternative Cloud Services</u></a></li>
-<li><a href="https://win-guides.techidaily.com/how-to-refresh-or-reset-windows-10-safely-preserving-all-your-programs-guide-with-3-strategies/"><u>How to Refresh or Reset Windows 10 Safely, Preserving All Your Programs (Guide with 3 Strategies)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-energy-efficiency-on-windows-10-exploring-the-battery-report-feature/"><u>Mastering Energy Efficiency on Windows 10: Exploring the Battery Report Feature</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-resolution-for-errsslprotocolerror-when-browsing-on-chrome/"><u>Step-by-Step Resolution for ERR_SSL_PROTOCOL_ERROR When Browsing on Chrome</u></a></li>
-<li><a href="https://win-guides.techidaily.com/transforming-troubles-to-triumph-effective-strategies-for-when-your-hp-laptop-powers-on-yet-remains-black-on-screen-windows-1011/"><u>Transforming Troubles to Triumph: Effective Strategies for When Your HP Laptop Powers On, Yet Remains Black on Screen (Windows 10/11)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-googles-enhanced-technique-for-flawless-speech-transcription/"><u>[Updated] In 2024, Google's Enhanced Technique for Flawless Speech Transcription</u></a></li>
+<li><a href="https://win-guides.techidaily.com/2010-social-media-insights-for-smbs-achievements-and-usage-statistics-powered-by-massmail-solutions/"><u>2010 Social Media Insights for SMBs: Achievements and Usage Statistics Powered by MassMail Solutions</u></a></li>
+<li><a href="https://win-guides.techidaily.com/avoid-missed-sales-master-the-no-sale-feature-in-massmailer-software/"><u>Avoid Missed Sales: Master the 'No Sale' Feature in MassMailer Software</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-of-brother-hl-l2340dw-driver-for-windows-pcs-download-now/"><u>Easy Installation of Brother HL-L2340DW Driver for Windows PCs: Download Now</u></a></li>
+<li><a href="https://win-guides.techidaily.com/effective-strategies-and-insights-for-acing-job-interviews-with-massmails-expert-solutions/"><u>Effective Strategies & Insights for Acing Job Interviews with MassMail's Expert Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-glimpse-into-future-tech-intels-next-gen-arrow-lake-chips-compatible-with-cutting-edge-z890-motherboard-platform/"><u>Exclusive Glimpse Into Future Tech: Intel's Next-Gen Arrow Lake Chips Compatible with Cutting-Edge Z890 Motherboard Platform</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-create-a-flash-flipping-book-with-flipbuilder-can-individual-pages-be-transformed/"><u>How to Create a Flash Flipping Book with FlipBuilder - Can Individual Pages Be Transformed?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-update-the-dynamic-theme-on-windows-regularly/"><u>How to Update the Dynamic Theme on Windows Regularly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://win-guides.techidaily.com/marketing-mastery-how-massmail-helps-grow-your-contact-database-tips-from-the-mmsw-blog/"><u>Marketing Mastery: How Massmail Helps Grow Your Contact Database - Tips From the MMSW Blog</u></a></li>
+<li><a href="https://win-guides.techidaily.com/massmail-pro-unleash-powerful-email-campaigns-and-supercharge-your-outreach-efforts/"><u>MassMail Pro: Unleash Powerful Email Campaigns and Supercharge Your Outreach Efforts!</u></a></li>
+<li><a href="https://win-guides.techidaily.com/revolutionizing-data-protection-with-dell-emcs-advanced-backup-solutions-for-enhanced-security-and-trustworthiness/"><u>Revolutionizing Data Protection with Dell EMC's Advanced Backup Solutions for Enhanced Security and Trustworthiness</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-address-missing-openal32dll-error/"><u>Steps to Address Missing openAL32.dll Error</u></a></li>
+<li><a href="https://win-guides.techidaily.com/the-impact-of-utilizing-gratis-lexicon-on-email-campaigns-insights-using-massmail/"><u>The Impact of Utilizing Gratis Lexicon on Email Campaigns - Insights Using Massmail</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ling-mr-beasts-cash-flow-for-2024/"><u>Unveiling Mr. Beast's Cash Flow for 2024</u></a></li>
 </ul></div>
 
