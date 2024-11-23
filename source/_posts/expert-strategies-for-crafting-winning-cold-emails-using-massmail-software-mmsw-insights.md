@@ -1,7 +1,7 @@
 ---
 title: Expert Strategies for Crafting Winning Cold Emails Using Massmail Software | MMSW Insights
-date: 2024-11-06T20:04:03.280Z
-updated: 2024-11-12T21:18:47.491Z
+date: 2024-11-21T21:17:53.001Z
+updated: 2024-11-23T01:23:43.031Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -37,10 +41,7 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -51,6 +52,10 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
@@ -58,10 +63,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -76,13 +78,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -96,10 +91,7 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
@@ -122,16 +114,13 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -140,13 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -167,24 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-orchestrate-online-albums-photos-pair-with-songs/"><u>[New] In 2024, Orchestrate Online Albums Photos Pair With Songs</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-cross-service-playlist-exchange-simplified/"><u>2024 Approved Cross-Service Playlist Exchange Simplified</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1728465202851-pdf/"><u>優秀PDF修復器測評結果：發現適合用家解決方法</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1728465580989-windows-1110/"><u>有効なセットアップが見つからないというWindows 11/10でのエラー修正ガイド</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/access-your-screen-star-downloadable-rights-for-2024/"><u>Access Your Screen Star Downloadable Rights for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/efficient-ways-to-categorize-and-store-your-images-into-folders-using-an-ipad/"><u>Efficient Ways to Categorize and Store Your Images Into Folders Using an iPad</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/enhance-livestreams-using-manycam-premium-virtual-webcam-technology/"><u>Enhance Livestreams Using ManyCam - Premium Virtual Webcam Technology</u></a></li>
-<li><a href="https://win-guides.techidaily.com/esegui-il-backup-delle-tue-informazioni-vitali-con-facilita-utilizzando-aomei-backupper-assistenza-tecnica-247/"><u>Esegui Il Backup Delle Tue Informazioni Vitali Con Facilità Utilizzando AOMEI Backupper: Assistenza Tecnica 24/7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-sticky-keyboard-keys-in-windows-a-complete-guide/"><u>Fixing Sticky Keyboard Keys in Windows: A Complete Guide</u></a></li>
-<li><a href="https://win-guides.techidaily.com/how-to-resolve-the-continuous-refresh-glitch-in-emeditor-text-editor/"><u>How to Resolve the Continuous Refresh Glitch in EmEditor Text Editor</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-15-pro-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 15 Pro</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-vivo-y36-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Vivo Y36 Phone Pattern Lock</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-samsung-galaxy-f34-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Samsung Galaxy F34 5G</u></a></li>
-<li><a href="https://win-guides.techidaily.com/jelaskan-kedua-cara-gratis-menghilangkan-tempayan-kotak-pemotong-file-microsoft-di-operating-system-windows/"><u>Jelaskan Kedua Cara Gratis Menghilangkan Tempayan Kotak Pemotong File Microsoft Di Operating System Windows</u></a></li>
-<li><a href="https://win-guides.techidaily.com/professionelle-tipps-zur-installation-und-inbetriebnahme-von-microsoft-hyper-v-server/"><u>Professionelle Tipps Zur Installation Und Inbetriebnahme Von Microsoft Hyper-V Server</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/protect-privacy-tips-for-deleting-your-chat-records-with-chatgpt/"><u>Protect Privacy: Tips for Deleting Your Chat Records with ChatGPT</u></a></li>
-<li><a href="https://win-guides.techidaily.com/unlocking-windows-11-three-strategies-for-disabling-the-lock-screen/"><u>Unlocking Windows 11: Three Strategies for Disabling the Lock Screen</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1728496361579-windows-11ssd/"><u>Windows 11のファーストパスでSSDへの起動駆動装置切り替えガイド</u></a></li>
-<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-12-pro-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From iPhone 12 Pro?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-transformative-visuals-the-pixiz-process-for-photo-video-fusion-for-2024/"><u>[New] Transformative Visuals The Pixiz Process for Photo-Video Fusion for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-a-step-by-step-guide-how-to-record-save-and-share-youtube-video-for-no-cost/"><u>[Updated] 2024 Approved A Step-by-Step Guide How To Record, Save & Share YouTube Video for No Cost</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/100plus-essential-italian-travel-phrases-for-your-trip/"><u>100+ Essential Italian Travel Phrases for Your Trip</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-12-best-sites-for-downloading-yt-template-videos/"><u>2024 Approved 12 Best Sites for Downloading YT Template Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-samsung-gear-360-top-alternative-cameras-2023-edition/"><u>2024 Approved Samsung Gear 360 Top Alternative Cameras 2023 Edition</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1728473418119-instagram/"><u>失われたInstagramの投稿、写真、ビデオを復元する手順</u></a></li>
+<li><a href="https://win-guides.techidaily.com/converting-your-desktop-to-a-virtual-environment-with-vmware-a-comprehensive-tutorial/"><u>Converting Your Desktop to a Virtual Environment with VMWare – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-guides.techidaily.com/ebay-success-secrets-insider-purchasing-guides-and-automated-email-tools-for-savvy-shoppers/"><u>EBay Success Secrets: Insider Purchasing Guides & Automated Email Tools for Savvy Shoppers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-revamp-chromebooks-soundscape-with-our-picks-for-web-extensions/"><u>In 2024, Revamp Chromebook's Soundscape with Our Picks for Web Extensions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-speed-in-snapshots-auditory-recorded/"><u>In 2024, Speed in Snapshots Auditory Recorded</u></a></li>
+<li><a href="https://win-guides.techidaily.com/mastering-email-verification-ensuring-accuracy-in-distinguishing-between-valid-and-invalid-emails-via-massmail-solutions/"><u>Mastering Email Verification: Ensuring Accuracy in Distinguishing Between Valid and Invalid Emails via MassMail Solutions</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/mastering-flipoffice-pro-customization-expert-tips-for-importing-and-applying-new-themes-flipbuildercom/"><u>Mastering FlipOffice Pro Customization: Expert Tips for Importing and Applying New Themes | flipbuilder.com</u></a></li>
+<li><a href="https://win-guides.techidaily.com/maximize-roi-on-solo-email-campaigns-with-smart-strategies-leveraging-massmail-tech/"><u>Maximize ROI on Solo Email Campaigns with Smart Strategies - Leveraging MassMail Tech</u></a></li>
+<li><a href="https://win-guides.techidaily.com/microsoft-excel-solutions-pour-lutter-contre-le-blocage-dexecution-de-macros/"><u>Microsoft Excel - Solutions Pour Lutter Contre Le Blocage D'exécution De Macros</u></a></li>
+<li><a href="https://win-guides.techidaily.com/top-fixes-when-your-sandisk-ssd-isnt-detected-a-comprehensive-guide/"><u>Top Fixes When Your Sandisk SSD Isn't Detected: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-guides.techidaily.com/tutti-i-segreti-per-ritrovare-e-ripristinare-i-dati-eliminati-in-windows-11-il-percorso-piu-efficace/"><u>Tutti I Segreti per Ritrovare E Ripristinare I Dati Eliminati in Windows 11 - Il Percorso Più Efficace</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-v30-pro-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V30 Pro Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
 

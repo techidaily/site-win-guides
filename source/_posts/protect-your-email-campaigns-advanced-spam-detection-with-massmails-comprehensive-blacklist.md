@@ -1,7 +1,7 @@
 ---
 title: "Protect Your Email Campaigns: Advanced Spam Detection with MassMail's Comprehensive Blacklist"
-date: 2024-11-11T19:56:34.841Z
-updated: 2024-11-12T20:26:06.751Z
+date: 2024-11-16T18:59:18.799Z
+updated: 2024-11-22T18:22:49.004Z
 tags:
   - product
 categories:
@@ -22,13 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -38,13 +31,6 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -57,6 +43,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -75,6 +65,10 @@ That is why in 2022, SMS will increasingly serve as the glue that cements multic
 One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware/products/), which helps local businesses and national chains to create and execute campaigns that feature shortcodes in direct mailers. After texting the shortcode, consumers receive an e-coupon on their phone that they redeem by showing to the merchant’s sales associate.
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
@@ -97,10 +91,7 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
@@ -111,15 +102,16 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Partner
@@ -127,10 +119,7 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -140,13 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -167,17 +149,16 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-expert-advice-for-xbox-one-zooming-pros/"><u>[Updated] 2024 Approved Expert Advice for Xbox One Zooming Pros</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-vibrant-voices-energizing-conversations-with-subscribers/"><u>[Updated] In 2024, Vibrant Voices Energizing Conversations With Subscribers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/10-effective-methods-for-converting-your-dvd-files-into-mp4-format-tips-and-tricks-for-pc-mac-and-windows-users/"><u>10 Effective Methods for Converting Your DVD Files Into MP4 Format: Tips & Tricks for PC, Mac and Windows Users</u></a></li>
-<li><a href="https://win-guides.techidaily.com/acceso-sin-demora-guia-paso-a-paso-para-encontrar-y-restaurar-fotos-desaparecidas-de-tu-iphone/"><u>Acceso Sin Demora: Guía Paso a Paso Para Encontrar Y Restaurar Fotos Desaparecidas De Tu iPhone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/comment-deplacer-vos-fichiers-du-vieux-iphone-au-nouveau-iphone-se-guide-complet-et-facile/"><u>Comment Déplacer Vos Fichiers Du Vieux iPhone Au Nouveau iPhone SE : Guide Complet Et Facile</u></a></li>
-<li><a href="https://win-guides.techidaily.com/guide-retrieving-data-from-an-inactive-iphone-without-computer-assistance/"><u>Guide: Retrieving Data From an Inactive iPhone Without Computer Assistance</u></a></li>
-<li><a href="https://win-guides.techidaily.com/how-to-install-windows-10-via-command-line-two-effective-approaches/"><u>How to Install Windows 10 Via Command Line: Two Effective Approaches</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-play-your-srt-files-easily-winmac-tips/"><u>In 2024, Play Your SRT Files Easily Win/Mac Tips</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/los-mas-eficaces-capturadores-de-videos-de-transmision-en-linea-totalmente-gratis-descubre-los-6-mejores-opciones/"><u>Los Más Eficaces Capturadores De Videos De Transmisión en Línea, Totalmente Gratis - Descubre Los 6 Mejores Opciones</u></a></li>
-<li><a href="https://win-guides.techidaily.com/ultimate-solutions-why-your-iphones-shared-albums-may-be-missing-and-how-to-display-them/"><u>Ultimate Solutions: Why Your iPhone's Shared Albums May Be Missing and How to Display Them</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-realme-gt-neo-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-exclusive-access-sharing-restricted-youtube-content-with-emailid-for-2024/"><u>[New] Exclusive Access Sharing Restricted YouTube Content with EmailID for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/a-step-by-step-approach-to-snapchat-video-communication/"><u>A Step-By-Step Approach to Snapchat Video Communication</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/beyondsharex-evaluating-the-best-options/"><u>BeyondShareX - Evaluating the Best Options</u></a></li>
+<li><a href="https://win-guides.techidaily.com/comment-sauver-vos-donnes-sur-un-hdd-extern-wd-endommage-sans-perte-de-donnees/"><u>Comment Sauver Vos Donnés Sur Un HDD Extern WD Endommagé Sans Perte De Données?</u></a></li>
+<li><a href="https://facebook.techidaily.com/global-hush-zones-no-facebook-in-these-areas/"><u>Global Hush Zones: No Facebook in These Areas</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1728492272253-hddwindows/"><u>HDDのクリーンアップ：Windowsサーバー上でシンプルな掃除手順</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-to-unify-multiple-apple-id-contact-lists-on-an-ios-device/"><u>How to Unify Multiple Apple ID Contact Lists on an iOS Device</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-google-pixel-7a-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Google Pixel 7a to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/libera-conversione-video-avi-a-m4a-risolvi-questo-problema-gratis-utilizzando-il-servizio-online-videoconverter/"><u>Libera Conversione Video AVI a M4A: Risolvi Questo Problema Gratis Utilizzando Il Servizio Online VideoConverter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/managing-extra-processes-in-windows-os/"><u>Managing Extra Processes in Windows OS</u></a></li>
+<li><a href="https://win-guides.techidaily.com/top-strategies-for-instantaneous-data-syncing-with-external-drives/"><u>Top Strategies for Instantaneous Data Syncing with External Drives</u></a></li>
 </ul></div>
 

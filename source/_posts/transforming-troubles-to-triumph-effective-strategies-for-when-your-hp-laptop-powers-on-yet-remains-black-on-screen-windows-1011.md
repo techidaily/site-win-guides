@@ -1,7 +1,7 @@
 ---
 title: "Transforming Troubles to Triumph: Effective Strategies for When Your HP Laptop Powers On, Yet Remains Black on Screen (Windows 10/11)"
-date: 2024-11-10T17:26:16.588Z
-updated: 2024-11-12T16:11:38.270Z
+date: 2024-11-18T18:34:41.006Z
+updated: 2024-11-22T22:59:40.337Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb38a9de890519fca2ccb2732.jpg
@@ -18,11 +18,19 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solved: Winload. efi Missing in Windows 11 | 2024
 
 Encounter the "winload.efi is missing or contains errors" error during computer boot? Discover potential reasons and find solutions to fix the winload.efi problem in Windows 11, 10, 8, 7 here.
 
 ![Maggie](https://www.ubackup.com/assets/images/author/maggie.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 By[Maggie](https://tools.techidaily.com/ubackup/products/)Updated on December 28, 2023
 
@@ -42,27 +50,17 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 4. [Suggestion: backup your crucial loading files in advance](https://tools.techidaily.com/ubackup/products/)
 5. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## User case: Windows 11 winload.efi missing, F8 button not working
 
 My HP is not starting up. I’ve received the ‘winload efi is missing or corrupt’. All the troubleshooting steps require me to go into startup settings but in order for me to do that, I have to press F8 however when I do press it my screen flashes and it doesn’t take me there (this is on the blue ‘recovery’ screen with the error message). Can anyone help me please. I need to get back into my laptop. I can’t afford to reinstall the OS. Too much important files and data that I didn’t back up unfortunately.
 
 [![Winload.efi Error 0xc0000225](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/winload-efi-error-0xc0000225.png "Winload.efi Error 0xc0000225")
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you meet similar problems that you can’t find winload.efi, you have been in the right place. Here is a collection of methods to solve ‘winload.efi missing Windows 11 issue. Let’s start to go!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## About winload.efi file
 
@@ -80,13 +78,6 @@ Causes of "winload.efi missing or contains error after clone" issues:
 **4\. Cloning Without Modifications**: Cloning a Windows installation without making necessary modifications can lead to boot problems, such as the winload.efi missing or containing error after clone.  
 **5\. Motherboard Replacement**: Replacing or modifying a computer's motherboard may cause problems with devices and drivers, potentially triggering the "winload.efi" problem if not addressed.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Fix winload.efi missing
 
 The "winload.efi missing" error happens when the OS can't find or access the winload.efi file. To fix this issue, 5 solutions are provided. You can directly navigate to the specific method you need or go through each solution sequentially.
@@ -98,6 +89,10 @@ The "winload.efi missing" error happens when the OS can't find or access the win
 Furthermore, AOMEI Backupper proves invaluable in tackling various problems such as system failure, system blue screen, system black screen, hard disk corruption, hard disk conversion, and more. Here I will show you how to create a bootable media using this software:
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Best free bootable media creation tool
 
@@ -115,16 +110,17 @@ Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click
 
 [![Choose Bootable Media](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/choose-bootable-media.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After creating bootable media (just a few minutes), boot your computer from this media, then AOMEI Backupper will run automatically, then go to **Tools** \-> **Windows Shell Command**. And you can restore system image or disk image created by AOMEI Backupper. 
 
 [![Windows Shell Command](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/windows-shell-command.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2\. Disable Secure Boot
 
@@ -141,10 +137,7 @@ Step 3\. In the **Secure Boot** interface, change it from **Enabled** to **Disab
 [![Disable Secure Boot](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/articles/images/winload-efi-missing-after-clone-5740/secure-boot.jpg "Disable Secure Boot")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4\. Save the changes and exit the UEFI settings.
@@ -163,6 +156,10 @@ Step 3\. Select **Troubleshoot** and then **Command Prompt**.
 
 [![Command Prompt](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/windows-10-startup-repair/advanced-options.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4\. Type or paste the following command and press **Enter**:
 
 **chkdsk c: /f** (This command checks and fixes errors on the system drive.)
@@ -170,13 +167,6 @@ Step 4\. Type or paste the following command and press **Enter**:
 Step 5\. Once the process is complete, unplug the USB and restart the computer.
 
 Check if the system boots normally after performing these steps.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 4\. Run SFC to Check System File Integrity
 
@@ -200,14 +190,11 @@ If the "sfc /scannow" command fails to repair the Winload.efi missing file, proc
 
 [![SFC Scannow](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/sfc-scannow.png "SFC Scannow")
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Exercise caution to avoid potential system errors when using this command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 5\. Repair EFI Boot Loader
 
@@ -242,13 +229,6 @@ Step 4\. Assign the partition a drive letter. Enter each of the following comman
 **bootrec /fixboot**
 
 Step 5\. Restart your computer after successfully repairing the EFI loader.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Suggestion: backup your crucial loading files in advance
 
@@ -304,6 +284,10 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -329,20 +313,24 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-top-best-background-erase-software/"><u>[New] In 2024, Top Best Background Erase Software</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-visual-narratives-instagram-carousel/"><u>[Updated] In 2024, Visual Narratives Instagram Carousel</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1728464657863-ssd/"><u>廃棄前にSSDから完全データ消去を行うためのガイドブック</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/activate-windows-xp-movie-creation-toolkit-for-2024/"><u>Activate Windows XP Movie Creation Toolkit for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/comment-passe-partout-un-document-microsoft-word-sans-licence-guide-complet/"><u>Comment Passe-Partout Un Document Microsoft Word Sans Licence? - Guide Complet</u></a></li>
-<li><a href="https://win-guides.techidaily.com/conservation-securisee-des-messages-gmail-3-moyens-innovants-pour-un-transfert-vers-onedrive/"><u>Conservation Sécurisée Des Messages Gmail : 3 Moyens Innovants Pour Un Transfert Vers OneDrive</u></a></li>
-<li><a href="https://win-guides.techidaily.com/excelwindows-11/"><u>Excel文件在Windows 11上恢复删除 -详解</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Fixing Foneazy MockGo Not Working On Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/guide-etape-par-etape-pour-le-transfert-de-donnees-pc-vers-pc-via-connexion-ethernet-comment-faire/"><u>Guide Étape Par Étape Pour Le Transfert De Données PC Vers PC via Connexion Ethernet : Comment Faire ?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-create-a-unique-cellphone-alert-from-favorite-tiktok-songs/"><u>How to Create a Unique Cellphone Alert From Favorite TikTok Songs</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-evaluating-the-cable-modem-capabilities-of-netgears-c3700-router-model/"><u>In-Depth Analysis: Evaluating the Cable Modem Capabilities of Netgear's C3700 Router Model</u></a></li>
-<li><a href="https://win-guides.techidaily.com/installing-virtualization-software-in-linux-a-comprehensive-easy-to-follow-tutorial/"><u>Installing Virtualization Software in Linux: A Comprehensive, Easy-to-Follow Tutorial</u></a></li>
-<li><a href="https://win-guides.techidaily.com/losungsweg-seagate-discwizard-lasst-sich-nicht-mit-einer-festplatte-verbinden-anleitung-zum-losen-des-problems/"><u>Lösungsweg: Seagate DiscWizard Lässt Sich Nicht Mit Einer Festplatte Verbinden - Anleitung Zum Lösen Des Problems</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-cost-effective-apple-watch-se-assessment/"><u>Unveiling the Cost-Effective Apple Watch SE Assessment</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-exploring-the-hottest-stock-photos-and-their-journeys/"><u>[New] Exploring the Hottest Stock Photos & Their Journeys</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-ultimate-guide-to-attractive-unboxing-videos-on-ig/"><u>[Updated] In 2024, The Ultimate Guide to Attractive Unboxing Videos on IG</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-essential-meme-blueprint-building-impactful-gifs/"><u>[Updated] The Essential Meme Blueprint Building Impactful GIFs</u></a></li>
+<li><a href="https://win-guides.techidaily.com/ccleaner-seo/"><u>「CCleaner」によって失われたデータを取り戻す手順 - SEO最適化されたタイトル</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-the-ultimate-guide-to-setting-your-youtube-video-width-and-height/"><u>2024 Approved The Ultimate Guide to Setting Your YouTube Video Width and Height</u></a></li>
+<li><a href="https://win-guides.techidaily.com/windows-11-fat32/"><u>關於修復Windows 11上的 FAT32 格式化故障</u></a></li>
+<li><a href="https://win-guides.techidaily.com/comment-installer-le-sys-image-sur-multiples-machines/"><u>Comment Installer Le Sys Image Sur Multiples Machines</u></a></li>
+<li><a href="https://win-guides.techidaily.com/comment-reparer-le-demarrage-de-windows-10-en-utilisant-linvite-de-commande/"><u>Comment Réparer Le Démarrage De Windows 10 en Utilisant L'Invite De Commande?</u></a></li>
+<li><a href="https://win-guides.techidaily.com/effortless-data-restoration-from-windows-devastation-a-guide-to-retrieving-deleted-files/"><u>Effortless Data Restoration From Windows Devastation: A Guide to Retrieving Deleted Files</u></a></li>
+<li><a href="https://win-guides.techidaily.com/gratis-synchronisierungsprogramm-kostenlose-alternativen-zu-freefilesync-and-aomei-backupper-2020/"><u>Gratis Synchronisierungsprogramm: Kostenlose Alternativen Zu FreeFileSync & AOMEI Backupper (2020)</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Honor X50i? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-magic-5-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Magic 5 Pro</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-v30t-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme V30T to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-13-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone 13 to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-xiaomi-redmi-13c-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Xiaomi Redmi 13C 5G Phone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/leading-content-analysis-tools-beyond-buzzsumo-discover-top-seo-strategies-with-our-expert-guide/"><u>Leading Content Analysis Tools Beyond BuzzSumo: Discover Top SEO Strategies with Our Expert Guide</u></a></li>
+<li><a href="https://win-guides.techidaily.com/mastering-the-art-of-restarting-large-scale-messaging-tips-and-tricks-for-massmail-users/"><u>Mastering the Art of Restarting Large Scale Messaging: Tips & Tricks for Massmail Users</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-simplify-your-reaction-video-creation-a-step-by-step-guide-with-filmora/"><u>New 2024 Approved Simplify Your Reaction Video Creation A Step-by-Step Guide with Filmora</u></a></li>
+<li><a href="https://win-guides.techidaily.com/revolutionizing-digital-expansion-the-virtual-summit-on-mastering-the-art-of-growth-marketing-with-massmail-tech/"><u>Revolutionizing Digital Expansion: The Virtual Summit on Mastering the Art of Growth Marketing with MassMail Tech</u></a></li>
 </ul></div>
 

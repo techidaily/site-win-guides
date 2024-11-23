@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Digital Expansion: The Virtual Summit on Mastering the Art of Growth Marketing with MassMail Tech"
-date: 2024-11-08T18:26:23.761Z
-updated: 2024-11-12T20:46:09.302Z
+date: 2024-11-17T20:47:40.645Z
+updated: 2024-11-22T17:38:40.398Z
 tags:
   - product
 categories:
@@ -21,13 +21,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -52,10 +45,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -84,15 +74,16 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
@@ -100,26 +91,20 @@ If you use several types of media to promote your campaign, use a different keyw
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -133,6 +118,10 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -140,13 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -167,18 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/rom-one-off-to-firm-follower-an-ethical-approach/"><u>[New] From One-Off to Firm Follower An Ethical Approach</u></a></li>
-<li><a href="https://win-guides.techidaily.com/twitter3/"><u>「Twitterによる動画遮断を解く！3つの手段で失われた映像復活ガイド」</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-comprehensive-checklist-for-purchasing-a-tech-device-for-education-needs/"><u>A Comprehensive Checklist for Purchasing a Tech Device for Education Needs</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1723620208512-comprehensive-steps-for-converting-flv-video-tracks-to-mp3-format-both-web-based-and-local-methods-covered/"><u>Comprehensive Steps for Converting FLV Video Tracks to MP3 Format - Both Web-Based and Local Methods Covered!</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ing-success-pushing-your-video-into-top-charts-for-2024/"><u>Crafting Success Pushing Your Video Into Top Charts for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/future-tech-essentials-the-creme-de-la-creme-of-wireless-keyboards/"><u>Future Tech Essentials: The Crème De La Crème of Wireless Keyboards</u></a></li>
-<li><a href="https://win-guides.techidaily.com/guia-completa-para-migrar-tu-pc-tradicional-a-un-entorno-de-windows-como-maquina-virtual/"><u>Guía Completa Para Migrar Tu PC Tradicional a Un Entorno De Windows Como Máquina Virtual</u></a></li>
-<li><a href="https://win-guides.techidaily.com/how-to-enable-disable-or-clear-windows-11-recent-files-a-comprehensive-guide/"><u>How to Enable, Disable, or Clear Windows 11 Recent Files: A Comprehensive Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-effortlessly-merge-your-memories-photos-from-iphone-to-snapchat/"><u>In 2024, Effortlessly Merge Your Memories Photos From iPhone to Snapchat</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-asus-rog-phone-7-ultimate-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/master-the-setup-of-windows-server-2022-with-our-complete-installation-guide-easy-steps-inside/"><u>Master the Setup of Windows Server 2022 with Our Complete Installation Guide - Easy Steps Inside!</u></a></li>
-<li><a href="https://win-guides.techidaily.com/step-by-step-guide-restoring-deleted-items-via-command-prompt/"><u>Step-by-Step Guide: Restoring Deleted Items via Command Prompt</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/xbox-gameplay-perfect-screen-recording-guide/"><u>Xbox Gameplay Perfect Screen Recording Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-craft-a-sonic-whatsapp-update/"><u>[Updated] Craft a Sonic WhatsApp Update</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-revolutionary-techniques-mastering-visual-arts-with-the-top-10-free-youtube-tutorials/"><u>[Updated] Revolutionary Techniques Mastering Visual Arts with the Top 10 Free YouTube Tutorials</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-multitask-mastery-in-media-co-watching-channels-with-ease/"><u>2024 Approved Multitask Mastery in Media Co-Watching Channels with Ease</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/best-microphone-for-youtubers/"><u>Best Microphone for YouTubers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/beyond-greatness-dissecting-the-new-era-of-smartwatches-with-apple-watch-series-4/"><u>Beyond Greatness - Dissecting the New Era of Smartwatches with Apple Watch Series #4</u></a></li>
+<li><a href="https://win-guides.techidaily.com/building-lasting-connections-in-the-digital-age-a-guide-to-flourishing-online-romance-with-massmail-solutions/"><u>Building Lasting Connections in the Digital Age: A Guide to Flourishing Online Romance with MassMail Solutions</u></a></li>
+<li><a href="https://win-guides.techidaily.com/complete-guide-to-acer-system-restore-on-windows-10/"><u>Complete Guide to Acer System Restore on Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-personalization-experience/"><u>Cookiebot-Driven Personalization Experience</u></a></li>
+<li><a href="https://win-guides.techidaily.com/discover-the-ultimate-seo-toolkit-top-15-alternatives-to-moz-for-boosting-your-rankings/"><u>Discover the Ultimate SEO Toolkit: Top 15 Alternatives to Moz for Boosting Your Rankings</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://win-guides.techidaily.com/massmailer-enhancing-delivery-success-with-advanced-email-deliverability-tools/"><u>MassMailer: Enhancing Delivery Success with Advanced Email Deliverability Tools</u></a></li>
+<li><a href="https://win-guides.techidaily.com/skyrocket-your-outreach-in-minutes-essential-techniques-for-effective-email-compilation-on-social-platforms-using-massmail/"><u>Skyrocket Your Outreach in Minutes: Essential Techniques for Effective Email Compilation on Social Platforms Using MassMail</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-guide-retrieving-irrevocably-erased-documents-on-windows-71011/"><u>Step-by-Step Guide: Retrieving Irrevocably Erased Documents on Windows 7/10/11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/tutorial-complet-derouler-le-cryptage-sur-vos-dvd-et-blu-rays-disney-pour-un-visionnage-facile-a-domicile/"><u>Tutorial Complet : Dérouler Le Cryptage Sur Vos DVD Et Blu-Rays Disney Pour Un Visionnage Facile À Domicile</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-charger-systems-for-black-gopro-hero5-official-sources-for-2024/"><u>Ultimate Charger Systems for Black GoPro Hero5 Official Sources for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/unlocking-seasonal-sales-potential-with-holiday-email-campaigns-and-massmail-solutions/"><u>Unlocking Seasonal Sales Potential with Holiday Email Campaigns & MassMail Solutions</u></a></li>
 </ul></div>
 

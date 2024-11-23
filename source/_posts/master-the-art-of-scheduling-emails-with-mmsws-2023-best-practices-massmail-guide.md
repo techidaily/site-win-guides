@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Scheduling Emails with MMSW's 2023 Best Practices | Massmail Guide
-date: 2024-11-10T19:55:59.294Z
-updated: 2024-11-12T23:48:28.431Z
+date: 2024-11-16T16:59:40.824Z
+updated: 2024-11-22T19:15:22.469Z
 tags:
   - product
 categories:
@@ -32,23 +32,9 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -76,20 +62,21 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -99,39 +86,41 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -140,13 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -167,24 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ove-in-action-top-9-premium-wedding-films-on-youtube-and-vimeo-for-2024/"><u>[New] Love in Action Top 9 Premium Wedding Films on YouTube and Vimeo for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-smooth-path-from-instagram-visuals-to-mp3-sound/"><u>[Updated] 2024 Approved Smooth Path From Instagram Visuals to Mp3 Sound</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1-windows-11-vs-windows/"><u>1. Windows 11 vs Windows</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1728475166776-hddssd/"><u>無損轉移：從HDD到SSD的兩種還原技術</u></a></li>
-<li><a href="https://win-guides.techidaily.com/acoes-e-respostas-a-eventos-unicos-guia-de-fazer-backups-taticos/"><u>Ações E Respostas a Eventos Únicos: Guia De Fazer Backups Táticos</u></a></li>
-<li><a href="https://win-guides.techidaily.com/boost-your-text-editing-experience-the-latest-update-for-emeditors-search-toolbar-feature/"><u>Boost Your Text Editing Experience - The Latest Update for EmEditor's Search Toolbar Feature</u></a></li>
-<li><a href="https://win-guides.techidaily.com/comment-faire-en-un-clinch-pour-que-votre-appareil-photo-recognisse-une-carte-sd-endommagee/"><u>Comment Faire en Un Clinch Pour Que Votre Appareil Photo Recognisse Une Carte SD Endommagée</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cross-language-communication-unlocking-chatgpts-multilingual-potential/"><u>Cross-Language Communication: Unlocking ChatGPT's Multilingual Potential</u></a></li>
-<li><a href="https://facebook.techidaily.com/easy-steps-for-enabling-and-using-sleep-mode-on-messenger-kids/"><u>Easy Steps for Enabling and Using Sleep Mode on Messenger Kids</u></a></li>
-<li><a href="https://win-guides.techidaily.com/fast-solutions-how-to-enable-windows-defender-when-it-wont-start-discover-7-methods/"><u>Fast Solutions: How to Enable Windows Defender When It Won't Start – Discover 7 Methods</u></a></li>
-<li><a href="https://games-able.techidaily.com/fe-nvidia-vs-asus-graphic-cards-which-to-choose/"><u>FE Nvidia Vs. ASUS Graphic Cards: Which to Choose?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/feathered-flamenco-flyers-for-2024/"><u>Feathered Flamenco Flyers for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/get-your-lenovo-mouse-pad-up-and-running-in-windows-1187-solution/"><u>Get Your Lenovo Mouse Pad Up and Running in Windows 11/8/7 [SOLUTION]</u></a></li>
-<li><a href="https://win-guides.techidaily.com/guia-paso-a-paso-sincronizacion-instantanea-de-onedrive-con-tu-almacenamiento-externo-bajo-windows/"><u>Guía Paso a Paso: Sincronización Instantánea De OneDrive Con Tu Almacenamiento Externo Bajo Windows</u></a></li>
-<li><a href="https://win-guides.techidaily.com/how-do-you-recover-windows-11-after-performing-a-system-reset/"><u>How Do You Recover Windows 11 After Performing a System Reset?</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-oneplus-nord-n30-se-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the OnePlus Nord N30 SE Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-insert-signature-in-excel-2019-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert signature in Excel 2019 files</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-realme-narzo-60x-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Realme Narzo 60x 5G</u></a></li>
-<li><a href="https://win-guides.techidaily.com/transferieren-sie-ihre-iphone-aufnahmen-direkt-mit-diesen-vier-tipps-keine-notwendigkeit-zu-icloud/"><u>Transferieren Sie Ihre iPhone-Aufnahmen Direkt Mit Diesen Vier Tipps - Keine Notwendigkeit Zu iCloud!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nhance-youtube-trademarks-tips-on-logo-and-watermark-addition-for-2024/"><u>[New] Enhance YouTube Trademarks Tips on Logo and Watermark Addition for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1728479155299-5/"><u>「失去電腦文件，無需惶恐：這5大手段自助回復！深度分析指南」</u></a></li>
+<li><a href="https://win-guides.techidaily.com/comment-resoudre-les-problemes-de-mise-a-jour-sharepoint-trois-methodes-simples/"><u>Comment Résoudre Les Problèmes De Mise À Jour SharePoint : Trois Méthodes Simples</u></a></li>
+<li><a href="https://facebook.techidaily.com/does-facebook-own-the-metaverse-7-metaverse-myths-busted/"><u>Does Facebook Own the Metaverse? 7 Metaverse Myths Busted</u></a></li>
+<li><a href="https://win-guides.techidaily.com/effortless-guide-to-cloud-migration-and-syncing-for-windows-servers/"><u>Effortless Guide to Cloud Migration and Syncing for Windows Servers</u></a></li>
+<li><a href="https://win-guides.techidaily.com/enhance-your-journey-with-microsoft-mastering-the-art-of-launching-windows-server-201n/"><u>Enhance Your Journey with Microsoft: Mastering the Art of Launching Windows Server 201N</u></a></li>
+<li><a href="https://win-guides.techidaily.com/enhancement-complete-direct-connection-established-for-quick-shortcut-retrieval-from-designated-directory-within-collective-resource-hub/"><u>Enhancement Complete: Direct Connection Established for Quick Shortcut Retrieval From Designated Directory Within Collective Resource Hub</u></a></li>
+<li><a href="https://win-guides.techidaily.com/guida-completa-alle-applicazioni-perfette-per-ripristinare-il-crittografato-con-bitlocker-in-sistema-operativo-windows-versione-11-8-o-7/"><u>Guida Completa Alle Applicazioni Perfette per Ripristinare Il Crittografato Con BitLocker in Sistema Operativo Windows (Versione 11, 8 O 7)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-the-potential-of-monetized-vlogs/"><u>In 2024, Unlocking the Potential of Monetized Vlogs</u></a></li>
+<li><a href="https://win-guides.techidaily.com/successfully-recovered-how-to-bounce-back-stronger-after-setbacks/"><u>Successfully Recovered: How to Bounce Back Stronger After Setbacks</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-verdict-on-the-latest-addition-to-the-ring-home-security-lineup/"><u>The Ultimate Verdict on the Latest Addition to the Ring Home Security Lineup</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/vimeos-revenue-revolution-strategies-for-sustainable-earnings/"><u>Vimeo's Revenue Revolution Strategies for Sustainable Earnings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/whats-the-maximum-wordcharacter-count-in-chatgpt/"><u>What's The Maximum Word/Character Count in ChatGPT?</u></a></li>
 </ul></div>
 

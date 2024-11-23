@@ -1,7 +1,7 @@
 ---
 title: Solving the Challenge of Images in Bulk Email Campaigns with MassMail
-date: 2024-11-06T21:25:37.686Z
-updated: 2024-11-12T22:08:24.375Z
+date: 2024-11-16T00:55:55.795Z
+updated: 2024-11-23T00:57:14.524Z
 tags:
   - product
 categories:
@@ -18,15 +18,16 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -43,13 +44,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -64,6 +58,10 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -76,19 +74,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -96,6 +81,10 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -106,21 +95,16 @@ If you use several types of media to promote your campaign, use a different keyw
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -129,13 +113,6 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -152,13 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -179,15 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-direct-transfer-solution-youtube-content-on-dailymotion-now/"><u>[New] 2024 Approved Direct Transfer Solution YouTube Content on Dailymotion Now</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-efficiency-in-echoes-aural-recorded-images/"><u>[Updated] In 2024, Efficiency in Echoes Aural Recorded Images</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-mobile-video-smoothing-system-pro/"><u>[Updated] Mobile Video Smoothing System Pro</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-peek-into-vegaspros-future-for-2024/"><u>A Peek Into VegasPro's Future for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/efficient-network-configuration-using-windows-deployment-service-techniques/"><u>Efficient Network Configuration Using Windows Deployment Service Techniques</u></a></li>
-<li><a href="https://win-guides.techidaily.com/emeditor-upgrades-master-text-management-using-mymacros-featuring-hierarchical-folder-support-and-comprehensive-macro-options/"><u>EmEditor Upgrades: Master Text Management Using MyMacros, Featuring Hierarchical Folder Support and Comprehensive Macro Options</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your iPhone 15 Pro Max?</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-demystifying-ai-game-generators-from-definition-to-distinction-for-2024/"><u>New Demystifying AI Game Generators From Definition to Distinction for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/top-tipp-fur-das-kopieren-von-samsung-ssds-auf-m2-steckplatze-anleitung-fur-2024/"><u>Top-Tipp Für Das Kopieren Von Samsung SSDs Auf M.2 Steckplätze - Anleitung Für 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/wiederherstellung-von-iphones-ohne-datenverlust-fur-ios-versionen-16-15-und-14/"><u>Wiederherstellung Von iPhones Ohne Datenverlust Für iOS-Versionen 16, 15 Und 14</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-ultimate-checklist-for-professional-live-streaming/"><u>[Updated] 2024 Approved The Ultimate Checklist for Professional Live Streaming</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-list-of-budget-friendly-editor-apps/"><u>2024 Approved The Ultimate List of Budget-Friendly Editor Apps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/27-ways-to-livestream-education-content-for-free/"><u>27 Ways to Livestream Education Content for Free</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1728498298734-windows-server-2016/"><u>如何預防及修正 Windows Server 2016 更新後出現開機循環：五個解決辦法</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-rx-6800-graphics-card-driver-installation-guide-for-windows-11-10-8-and-7-users/"><u>Amd Rx-6800 Graphics Card Driver Installation Guide for Windows 11, 10, 8 & 7 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/bitlock-less-windows-defense-tactics-4-suggestions/"><u>BitLock-Less Windows Defense Tactics: 4 Suggestions</u></a></li>
+<li><a href="https://win-guides.techidaily.com/como-hacer-una-respaldo-facil-y-restablecer-el-estado-del-sistema-en-windows-server-2008-r2/"><u>Cómo Hacer Una Respaldo Fácil Y Restablecer El Estado Del Sistema en Windows Server 2008 R2</u></a></li>
+<li><a href="https://win-guides.techidaily.com/easy-guide-executing-a-secure-erase-on-your-wd-ssd-in-windows-11/"><u>Easy Guide: Executing a Secure Erase on Your WD SSD in Windows 11</u></a></li>
+<li><a href="https://win-guides.techidaily.com/effortless-strategies-for-saving-hotmail-correspondence-on-your-laptop/"><u>Effortless Strategies for Saving Hotmail Correspondence on Your Laptop</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exploring-the-seven-superior-water-tough-cams-guide/"><u>Exploring the Seven Superior Water-Tough Cams Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a05s-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Samsung Galaxy A05s Phone with Broken Screen</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leading-sites-for-3d-type-artistry-for-2024/"><u>Leading Sites for 3D Type Artistry for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/maintain-video-clarity-transferring-high-quality-footage-between-iphones/"><u>Maintain Video Clarity: Transferring High-Quality Footage Between iPhones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-16-free-mp4-video-converters-windows-mac-and-online-options/"><u>Top 16 FREE MP4 Video Converters - Windows, Mac & Online Options</u></a></li>
+<li><a href="https://win-guides.techidaily.com/wiederherstellung-verlorener-daten-nach-versehentiger-loschung-mit-diskpart/"><u>Wiederherstellung Verlorener Daten Nach Versehentiger Löschung Mit Diskpart</u></a></li>
 </ul></div>
 

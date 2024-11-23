@@ -1,7 +1,7 @@
 ---
 title: "The Growth of Email Marketing: Insights on Market Trends & Optimal Campaign Times with MassMail Solutions"
-date: 2024-11-08T20:33:00.609Z
-updated: 2024-11-12T17:09:51.075Z
+date: 2024-11-16T17:38:30.570Z
+updated: 2024-11-22T19:38:48.842Z
 tags:
   - product
 categories:
@@ -23,10 +23,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -40,22 +37,12 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -64,19 +51,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -96,6 +70,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -105,10 +83,7 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
@@ -123,13 +98,6 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
@@ -138,6 +106,10 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
@@ -145,6 +117,10 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -173,14 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-a-comprehensive-guide-to-online-podcast-recording-for-2024/"><u>[Updated] A Comprehensive Guide to Online Podcast Recording for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-top-5-inspiring-book-trailers-for-2024/"><u>[Updated] Top 5 Inspiring Book Trailers for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1-best-live-streaming-apps-discover-manycam-and-top-virtual-webcam-solutions/"><u>1. Best Live Streaming Apps: Discover ManyCam and Top Virtual Webcam Solutions</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1728483770250-3/"><u>作成不可能なリカバリーポイントにはどう対応する？：効果的な戦略3つ</u></a></li>
-<li><a href="https://win-guides.techidaily.com/dating-principles-for-successful-campaigns-in-email-marketing-learn-from-massmail-solutions/"><u>Dating Principles for Successful Campaigns in Email Marketing - Learn From MassMail Solutions</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/exploring-the-best-online-hubs-for-free-bgm-music-downloads/"><u>Exploring the Best Online Hubs for Free BGM Music Downloads</u></a></li>
-<li><a href="https://win-guides.techidaily.com/life-choices-and-critical-moments-effective-decision-making-tools-for-2009-via-massmail-tech/"><u>Life, Choices, and Critical Moments: Effective Decision-Making Tools for 2009 via MassMail Tech</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/maximizing-your-view-tips-to-expand-line-visibility-in-the-linux-terminal/"><u>Maximizing Your View: Tips to Expand Line Visibility in the Linux Terminal</u></a></li>
-<li><a href="https://win-guides.techidaily.com/why-you-cant-ignore-blogs-in-your-marketing-plans-tips-from-massmail-software/"><u>Why You Can't Ignore Blogs in Your Marketing Plans - Tips From MassMail Software</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-myspace-profileshot-guide-size-codec-timing/"><u>[New] 2024 Approved MySpace Profileshot Guide Size, Codec, Timing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-aspect-ratio-conversion-techniques-online/"><u>[New] Aspect Ratio Conversion Techniques Online</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-easy-guide-unearthing-your-youtube-compliments-and-critiques-for-2024/"><u>[New] Easy Guide Unearthing Your YouTube Compliments & Critiques for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1-transfer-your-ps4-gameplay-footage-effortlessly-a-guide-to-moving-video-captures-from-playstation-4-to-iphone/"><u>1. Transfer Your PS4 Gameplay Footage Effortlessly: A Guide to Moving Video Captures From PlayStation 4 to iPhone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/swfmp4/"><u>動画ファイルの変換: SWFフォーマットからMP4への効果的手法</u></a></li>
+<li><a href="https://win-guides.techidaily.com/changing-boot-configuration-from-legacy-to-uefi-in-windows-server-2019-installation-guide/"><u>Changing Boot Configuration From Legacy to UEFI in Windows Server 2019 Installation Guide</u></a></li>
+<li><a href="https://win-guides.techidaily.com/complete-tutorial-on-restoring-deleted-items-from-a-seagate-backup-plus-hard-disk/"><u>Complete Tutorial on Restoring Deleted Items From a Seagate Backup Plus Hard Disk</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discovering-your-hidden-login-credentials-a-guide-to-retrieving-saved-passwords-on-macos/"><u>Discovering Your Hidden Login Credentials: A Guide to Retrieving Saved Passwords on macOS</u></a></li>
+<li><a href="https://win-guides.techidaily.com/expert-tips-for-erasing-everything-and-starting-fresh-factory-resetting-your-lenovo-ideapad-110s-in-windows-10/"><u>Expert Tips for Erasing Everything and Starting Fresh: Factory Resetting Your Lenovo Ideapad 110S in Windows 10</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/how-to-restore-deleted-files-using-wimaxier-on-various-windows-versions/"><u>How To Restore Deleted Files Using Wimaxier on Various Windows Versions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-craft-stunning-iphone-snaps-heed-these-10-guidelines/"><u>In 2024, Craft Stunning iPhone Snaps - Heed These 10 Guidelines</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-iphone-13-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from iPhone 13 without Password?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/quick-and-easy-the-5-best-tools-for-facebook-live-videos/"><u>Quick & Easy The 5 Best Tools for Facebook Live Videos</u></a></li>
+<li><a href="https://win-guides.techidaily.com/restore-files-after-unintentionally-erasing-your-seagate-external-drive/"><u>Restore Files After Unintentionally Erasing Your Seagate External Drive</u></a></li>
+<li><a href="https://win-guides.techidaily.com/schnell-und-sicher-migrate-deine-itunes-musik-auf-externe-hdd-mit-fonebackup-eine-vollstandige-anleitung/"><u>Schnell Und Sicher: Migrate Deine iTunes Musik Auf Externe HDD Mit FoneBackup - Eine Vollständige Anleitung</u></a></li>
+<li><a href="https://win-guides.techidaily.com/updating-your-iphone-without-itunes-comprehensive-techniques-and-tips-for-users/"><u>Updating Your iPhone Without iTunes: Comprehensive Techniques and Tips for Users</u></a></li>
+<li><a href="https://win-guides.techidaily.com/windows-10-versionsverlauf-sicherung-schwierigkeiten-losungsansatz/"><u>Windows 10 Versionsverlauf Sicherung Schwierigkeiten - Lösungsansatz</u></a></li>
 </ul></div>
 

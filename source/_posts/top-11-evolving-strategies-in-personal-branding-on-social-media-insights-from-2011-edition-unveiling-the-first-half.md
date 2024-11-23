@@ -1,7 +1,7 @@
 ---
 title: "Top 11 Evolving Strategies in Personal Branding on Social Media: Insights From 2011 Edition - Unveiling the First Half"
-date: 2024-11-09T23:48:28.794Z
-updated: 2024-11-12T17:51:43.226Z
+date: 2024-11-21T20:40:34.758Z
+updated: 2024-11-22T20:58:56.826Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -32,16 +36,13 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -56,13 +57,6 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -84,6 +78,10 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
@@ -93,16 +91,7 @@ If you use several types of media to promote your campaign, use a different keyw
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
@@ -110,10 +99,7 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
@@ -133,10 +119,7 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -146,13 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -173,21 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-indispensable-top-vr-movie-adventures/"><u>[New] 2024 Approved Indispensable Top VR Movie Adventures</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-exploring-the-past-of-social-storytelling-step-by-step-laptopmobile-process-for-2024/"><u>[New] Exploring the Past of Social Storytelling Step-by-Step Laptop/Mobile Process for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/windows-116-2024/"><u>最新リスト!! 🔝 : Windows 11対応の高性能無料バックアップソフトウェア6つをご紹介します | 2024年版</u></a></li>
-<li><a href="https://win-guides.techidaily.com/comment-configurer-une-copie-de-secours-personnalisee-sur-windows-11-3-astuces-rapides-et-simples/"><u>Comment Configurer Une Copie De Secours Personnalisée Sur Windows 11 : 3 Astuces Rapides Et Simples</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-why-the-philips-somneo-is-a-market-leading-alarm-clock/"><u>Comprehensive Review: Why the Philips Somneo Is a Market-Leading Alarm Clock</u></a></li>
-<li><a href="https://win-guides.techidaily.com/descubre-la-excelencia-en-las-copias-de-seguridad-con-este-programa-libre-y-eficiente-de-sincronizacion-de-archivos-externo/"><u>Descubre La Excelencia en Las Copias De Seguridad Con Este Programa Libre Y Eficiente De Sincronización De Archivos Externo</u></a></li>
-<li><a href="https://win-guides.techidaily.com/erstellen-einer-datenwiederherstellungsliste-mit-cmd-unter-windows-111087-zwei-effiziente-methoden/"><u>Erstellen Einer Datenwiederherstellungsliste Mit CMD Unter Windows 11/10/8/7: Zwei Effiziente Methoden</u></a></li>
-<li><a href="https://win-guides.techidaily.com/fehlerbehebung-und-effektive-strategien-zur-uberwindung-von-systemwiederherstellungsproblemen-in-windows-7/"><u>Fehlerbehebung Und Effektive Strategien Zur Überwindung Von Systemwiederherstellungsproblemen in Windows 7</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/guide-to-supercharged-video-engagement-with-youtube-notes/"><u>Guide to Supercharged Video Engagement with YouTube Notes</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/movavi-video-editor-scaricabile-e-gratuito-su-pc-qt-converter/"><u>Movavi Video Editor: Scaricabile E Gratuito Su PC - QT Converter</u></a></li>
-<li><a href="https://win-guides.techidaily.com/schaffe-ihr-sicheres-system-backup-in-windows-11-muhelos-fuhren-sie-sie-durch-die-top-freigiebigen-methoden/"><u>Schaffe Ihr Sicheres System-Backup in Windows 11 Mühelos - Führen Sie Sie Durch Die Top-Freigiebigen Methoden!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-end-of-an-era-sam-altman-leaves-openai-how-will-it-affect-chatgpts-development/"><u>The End of an Era: Sam Altman Leaves OpenAI – How Will It Affect ChatGPT's Development?</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-top-tier-content-guild-for-2024/"><u>The Top Tier Content Guild for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-top-rated-android-collage-software/"><u>The Ultimate Guide to Top-Rated Android Collage Software</u></a></li>
-<li><a href="https://win-guides.techidaily.com/troubleshooting-acer-system-repair-why-altplusf10-key-combination-fails/"><u>Troubleshooting Acer System Repair: Why Alt+F10 Key Combination Fails</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-s-best-free-video-rotators-for-3gp-files-a-comprehensive-guide-for-2024/"><u>Updated S Best Free Video Rotators for 3GP Files A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-omni-angle-equipment-for-immersive-shoots-for-2024/"><u>[New] Omni-Angle Equipment for Immersive Shoots for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-tips-and-tricks-to-help-you-change-color-like-a-pro/"><u>[Updated] 2024 Approved Tips and Tricks to Help You Change Color Like A Pro</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-who-takes-the-prize-for-best-cinematic-recording-in-extreme-sports-in-2024/"><u>[Updated] Who Takes the Prize for Best Cinematic Recording in Extreme Sports, In 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/aomei-backup-discover-your-data-protection-hero/"><u>AOMEI Backup: Discover Your Data Protection Hero</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/beat-bloggers-base-downloads-for-analysis-for-2024/"><u>Beat Bloggers' Base Downloads for Analysis for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/comparing-vmware-vsphere-editions-key-differences-and-introductory-guide/"><u>Comparing VMware vSphere Editions: Key Differences & Introductory Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dialogue-design-the-7-essential-ways-chatgpt-shapes-video-games/"><u>Dialogue Design: The 7 Essential Ways ChatGPT Shapes Video Games</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/edit-your-recorded-screenshots-like-a-pro-on-windows-macos-and-mobile-gadgets/"><u>Edit Your Recorded Screenshots Like a Pro on Windows, macOS and Mobile Gadgets!</u></a></li>
+<li><a href="https://win-guides.techidaily.com/improving-windows-11-performance-by-expanding-storage-6-effective-methods/"><u>Improving Windows 11 Performance by Expanding Storage: 6 Effective Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restoring-lost-iphone-notes-a-step-by-step-guide/"><u>Restoring Lost iPhone Notes: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-guides.techidaily.com/top-cloning-tools-fur-festplatten-bestimmt-fur-windows-11-10-8-and-7/"><u>Top Cloning Tools Für Festplatten - Bestimmt Für Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://win-guides.techidaily.com/top-picks-the-ultimate-list-of-20-leading-ios-data-restoration-programs-for-desktop-computers/"><u>Top Picks: The Ultimate List of 20 Leading iOS Data Restoration Programs for Desktop Computers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-resolving-issues-with-your-non-functional-samsung-soundbar/"><u>Troubleshooting Tips: Resolving Issues with Your Non-Functional Samsung Soundbar</u></a></li>
+<li><a href="https://win-guides.techidaily.com/wie-man-onedrive-erfolgreich-von-der-windows-11-umgebung-deinstalliert-vier-effektive-strategien/"><u>Wie Man OneDrive Erfolgreich Von Der Windows 11-Umgebung Deinstalliert: Vier Effektive Strategien</u></a></li>
+<li><a href="https://win-guides.techidaily.com/windows-11-kiernkopfanleitung-schnelle-bootbares-image-auf-usb-klonieren/"><u>Windows 11 KIERNKOPFANLEITUNG: Schnelle, Bootbares Image Auf USB Klonieren</u></a></li>
+<li><a href="https://win-guides.techidaily.com/wirelessly-moving-your-tunes-the-ultimate-guide-to-iphone-to-iphone-bluetooth-music-transfers/"><u>Wirelessly Moving Your Tunes: The Ultimate Guide to iPhone-to-iPhone Bluetooth Music Transfers</u></a></li>
 </ul></div>
 

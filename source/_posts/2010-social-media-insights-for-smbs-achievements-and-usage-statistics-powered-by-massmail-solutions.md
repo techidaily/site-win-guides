@@ -1,7 +1,7 @@
 ---
 title: "2010 Social Media Insights for SMBs: Achievements and Usage Statistics Powered by MassMail Solutions"
-date: 2024-11-10T16:13:55.195Z
-updated: 2024-11-13T00:00:51.794Z
+date: 2024-11-18T21:01:59.129Z
+updated: 2024-11-22T17:36:07.083Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -32,29 +36,9 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -65,10 +49,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -97,6 +78,10 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
@@ -106,25 +91,23 @@ If you use several types of media to promote your campaign, use a different keyw
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
@@ -138,19 +121,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -179,21 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-tint-tuning-toolkit/"><u>[Updated] 2024 Approved Tint Tuning Toolkit</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-high-quality-webcam-capture-made-easy-review-for-2024/"><u>[Updated] High-Quality WebCam Capture Made Easy Review for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-quintessential-guide-to-music-and-voiceovers-in-reels/"><u>[Updated] The Quintessential Guide to Music & Voiceovers in Reels</u></a></li>
-<li><a href="https://win-guides.techidaily.com/twitter3/"><u>「Twitterによる動画遮断を解く！3つの手段で失われた映像復活ガイド」</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1-how-to-retrieve-accidentally-removed-files-from-microsoft-teams-a-simple-guide/"><u>1. How to Retrieve Accidentally Removed Files From Microsoft Teams: A Simple Guide</u></a></li>
-<li><a href="https://win-guides.techidaily.com/create-your-own-setup-in-emeditor-a-fully-configurable-text-editing-experience/"><u>Create Your Own Setup in EmEditor - A Fully Configurable Text Editing Experience</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/effective-techniques-for-editing-and-shortening-footage-with-vlcs-inbuilt-tools/"><u>Effective Techniques for Editing and Shortening Footage with VLC's Inbuilt Tools</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhance-your-iphones-readability-with-simple-font-customization-techniques/"><u>Enhance Your iPhone's Readability with Simple Font Customization Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/hdmi-radeon-revival-for-2024/"><u>HDMI Radeon Revival for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/how-to-reinstate-windows-11s-versioning-log-on-fresh-installations-using-simple-alternative-methods/"><u>How to Reinstate Windows 11'S Versioning Log on Fresh Installations Using Simple Alternative Methods</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-tecno-spark-20-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Tecno Spark 20 Pro Phone? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/reviewing-asuss-rt-ac6-groupu-a-comprehensive-guide-to-lightning-fast-and-robust-5g-wi-fi/"><u>Reviewing Asus's RT-AC6 groUPu: A Comprehensive Guide to Lightning-Fast & Robust 5G Wi-Fi</u></a></li>
-<li><a href="https://win-guides.techidaily.com/ricostruire-i-tuoi-documenti-di-google-eliminati-recentemente-in-4-modi-facili/"><u>Ricostruire I Tuoi Documenti Di Google Eliminati Recentemente in 4 Modi Facili</u></a></li>
-<li><a href="https://win-guides.techidaily.com/tecnica-para-desbloquear-datos-despues-del-formato-rapido-en-un-disco-rigido-como-hacerlo/"><u>Técnica Para Desbloquear Datos Después Del Formato Rapido en Un Disco Rígido: Cómo Hacerlo</u></a></li>
-<li><a href="https://article-tips.techidaily.com/the-new-era-advancements-in-vr-technology-for-2024/"><u>The New Era Advancements in VR Technology for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/windows-11m-ssd/"><u>Windows 11でM.지정 SSDを無事に完全フォーマットするガイド</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-social-media-sensation-making-your-vids-pop/"><u>[New] 2024 Approved Social Media Sensation Making Your Vids Pop</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-seeking-speed-identifying-the-top-5-racer-games/"><u>[New] Seeking Speed Identifying the Top 5 Racer Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-beginners-booklet-on-backdrops-and-blending/"><u>[Updated] Beginner's Booklet on Backdrops & Blending</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-ultimate-voice-transformation-devices-for-creators/"><u>[Updated] Ultimate Voice Transformation Devices for Creators</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-startup-steps-for-stream-money-in-periscope/"><u>2024 Approved Startup Steps for Stream Money in Periscope</u></a></li>
+<li><a href="https://win-guides.techidaily.com/easy-instructions-for-running-windows-11-os-via-external-bootable-pen-drive/"><u>Easy Instructions for Running Windows 11 OS via External Bootable Pen Drive</u></a></li>
+<li><a href="https://win-guides.techidaily.com/effortless-file-synchronization-using-onedrive-on-windows-11/"><u>Effortless File Synchronization: Using OneDrive on Windows 11</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/guide-dinstallation-de-loutil-de-sauvegarde-aomei-avec-le-kit-aik-windows/"><u>Guide D'installation De L'outil De Sauvegarde AOMEI Avec Le Kit AIK Windows</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://win-guides.techidaily.com/maximize-ebay-sales-in-2009-best-practices-for-higher-response-rates-using-massmail-software-solutions/"><u>Maximize eBay Sales in 2009: Best Practices for Higher Response Rates Using MassMail Software Solutions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-videopad-video-editor-is-it-worth-the-investment-for-2024/"><u>New Videopad Video Editor Is It Worth the Investment for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/no-panic-needed-quick-guide-to-restoring-lost-files-from-system-failure/"><u>No Panic Needed: Quick Guide to Restoring Lost Files From System Failure</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/perfecting-resume-structure-using-chatgpt/"><u>Perfecting Resume Structure Using ChatGPT</u></a></li>
+<li><a href="https://win-guides.techidaily.com/resolved-enhance-security-by-graying-out-and-encrypting-file-access-in-windows-10/"><u>Resolved: Enhance Security by Graying Out and Encrypting File Access in Windows 10</u></a></li>
+<li><a href="https://win-guides.techidaily.com/wiederherstellung-beschadigter-datentragerpartitionen-unter-windows-1011-effiziente-strategien-zum-schutz-ihrer-informationen/"><u>Wiederherstellung Beschädigter Datenträgerpartitionen Unter Windows 10/11 – Effiziente Strategien Zum Schutz Ihrer Informationen</u></a></li>
+<li><a href="https://win-guides.techidaily.com/otbor-luchshih-agentstv-seo-v-birmingeme-velikobritaniya-na-2024-god-podrobnoe-rukovodstvo-dlya-seo-powersuite-polzovatelej/"><u>Отбор Лучших Агентств SEO В Бирмингеме (Великобритания) На 2024 Год: Подробное Руководство Для SEO PowerSuite Пользователей</u></a></li>
 </ul></div>
 

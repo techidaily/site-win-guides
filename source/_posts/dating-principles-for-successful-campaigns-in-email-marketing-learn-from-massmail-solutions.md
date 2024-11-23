@@ -1,7 +1,7 @@
 ---
 title: Dating Principles for Successful Campaigns in Email Marketing - Learn From MassMail Solutions
-date: 2024-11-07T16:43:24.284Z
-updated: 2024-11-12T16:51:45.028Z
+date: 2024-11-17T16:36:14.971Z
+updated: 2024-11-23T00:14:57.541Z
 tags:
   - product
 categories:
@@ -23,10 +23,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -43,13 +40,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -57,6 +47,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -93,10 +87,7 @@ If you use several types of media to promote your campaign, use a different keyw
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
@@ -108,10 +99,7 @@ When promoting your vanity short code, always provide the short code’s digits 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
@@ -119,10 +107,7 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
@@ -133,6 +118,10 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -140,13 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -167,14 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/approved-how-to-direct-encouraging-content-for-daily-living-vids/"><u>2024 Approved How to Direct Encouraging Content for Daily Living Vids</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-leading-8-streaming-services-dominating-2024/"><u>Discover the Leading 8 Streaming Services Dominating 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-nba-live-streams-15-ways-to-watch-the-action-for-2024/"><u>Free NBA Live Streams 15 Ways to Watch the Action for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-s24plus-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy S24+ To Phone | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-vivo-v27-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Vivo V27 Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://win-guides.techidaily.com/iphone-erhalt-nach-ios-16-update-keine-anrufe-mehr-losung-gefunden/"><u>IPhone Erhält Nach iOS 16-Update Keine Anrufe Mehr - Lösung Gefunden</u></a></li>
-<li><a href="https://win-guides.techidaily.com/sd-speicherkarte-kopieren-einfach-mit-zwei-effektiven-methoden/"><u>SD-Speicherkarte Kopieren Einfach Mit Zwei Effektiven Methoden</u></a></li>
-<li><a href="https://win-guides.techidaily.com/top-strategies-for-fixing-apple-watch-connectivity-issues-on-iphone-13-14-and-15/"><u>Top Strategies for Fixing Apple Watch Connectivity Issues on iPhone 13, 14 & 15</u></a></li>
-<li><a href="https://win-guides.techidaily.com/troubleshooting-vmware-esxi-detecting-correcting-disk-errors-using-vmkfstools-utility/"><u>Troubleshooting VMware ESXi: Detecting, Correcting Disk Errors Using VMKFSTOOLS Utility</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-global-viewer-count-triumphs-play-button-honors/"><u>[New] 2024 Approved Global Viewer Count Triumphs Play Button Honors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-image-quality-a-guide-without-watermarks/"><u>[New] Mastering Image Quality A Guide Without Watermarks</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-tying-iphone-videos-in-seamless-bundles-for-2024/"><u>[New] Tying IPhone Videos in Seamless Bundles for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1-free-guide-restore-lost-missing-or-damaged-pdf-documents/"><u>1. Free Guide: Restore Lost, Missing or Damaged PDF Documents</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-analysis-of-srt-unpacking-its-significance/"><u>2024 Approved Expert Analysis of SRT Unpacking Its Significance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-sluggish-to-speedy-select-android-tools/"><u>2024 Approved From Sluggish to Speedy Select Android Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-proficient-techniques-securely-embedding-a-url-in-tiktok-profiles/"><u>2024 Approved Proficient Techniques Securely Embedding a URL in TikTok Profiles</u></a></li>
+<li><a href="https://win-guides.techidaily.com/comment-resoudre-les-differences-de-fichiers-chkdsk-concernant-les-majuscules/"><u>Comment Résoudre Les Différences De Fichiers CHKDSK Concernant Les Majuscules?</u></a></li>
+<li><a href="https://win-guides.techidaily.com/durability-8-2-16/"><u>Durability = 8 2 = 16</u></a></li>
+<li><a href="https://win-guides.techidaily.com/effiziente-techniken-um-verlorene-daten-von-einem-unbootbaren-windows-11-wiederherzustellen/"><u>Effiziente Techniken, Um Verlorene Daten Von Einem Unbootbaren Windows 11 Wiederherzustellen</u></a></li>
+<li><a href="https://win-guides.techidaily.com/seamless-iphone-und-ipad-sync-fotos-kontakte-and-nachrichten-nahtlos-integrieren/"><u>Seamless iPhone Und iPad-Sync: Fotos, Kontakte & Nachrichten Nahtlos Integrieren</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/srt-power-play-transforming-macwindows-experience-for-2024/"><u>SRT Power Play Transforming Mac/Windows Experience for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-high-utilization-of-ntoskrnlexe-in-windows/"><u>Tackling High Utilization of ntoskrnl.exe in Windows</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/the-ultimate-guide-top-two-methods-for-uploading-data-onto-your-raspberry-pis-sd-card/"><u>The Ultimate Guide: Top Two Methods for Uploading Data Onto Your Raspberry Pi's SD Card</u></a></li>
+<li><a href="https://win-guides.techidaily.com/unusual-behavior-when-deleting-files-discover-how-emeditor-handles-it/"><u>Unusual Behavior When Deleting Files - Discover How EmEditor Handles It</u></a></li>
 </ul></div>
 
