@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Restarting Large Scale Messaging: Tips & Tricks for Massmail Users"
-date: 2024-11-19T18:35:59.472Z
-updated: 2024-11-23T01:43:45.019Z
+date: 2024-11-29T02:37:11.442Z
+updated: 2024-12-01T01:22:19.371Z
 tags:
   - product
 categories:
@@ -21,6 +21,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -45,7 +49,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -53,6 +57,10 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -66,29 +74,21 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -107,12 +107,16 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,18 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-explore-top-8-zero-cost-3d-vids-plugins-for-windows-and-mac-os/"><u>[Updated] 2024 Approved Explore Top 8 Zero-Cost 3D Vids Plugins For Windows & Mac OS</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-audio-experts-choice-best-6-microphone-picks-for-online-broadcasting/"><u>[Updated] In 2024, Audio Experts' Choice Best 6 Microphone Picks for Online Broadcasting</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-9-windows-gif-capture-tools-perfect-animation-preservation/"><u>2024 Approved Top 9 Windows GIF Capture Tools Perfect Animation Preservation</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-troubleshooting-tips-to-open-nvidia-control-panel-without-errors/"><u>Comprehensive Troubleshooting Tips to Open NVIDIA Control Panel Without Errors</u></a></li>
-<li><a href="https://win-guides.techidaily.com/datenschutz-bei-der-sicherung-von-windows-n-systemen-auf-externe-laufwerke-wie-sie-vorsehen-konnen/"><u>Datenschutz Bei Der Sicherung Von Windows N-Systemen Auf Externe Laufwerke – Wie Sie Vorsehen Können</u></a></li>
-<li><a href="https://win-guides.techidaily.com/expert-recommended-substitutes-of-mozs-local-seo-tactics-for-global-reach-success/"><u>Expert-Recommended Substitutes of Moz's Local SEO Tactics for Global Reach Success</u></a></li>
-<li><a href="https://win-guides.techidaily.com/go-above-and-beyond-in-search-engine-optimization-discover-superior-alternatives-to-surfer-and-revolutionize-your-seo-techniques-with-powersuite-expert-guid5/"><u>Go Above and Beyond in Search Engine Optimization: Discover Superior Alternatives to Surfer & Revolutionize Your SEO Techniques with PowerSuite | Expert Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/how-to-enrich-social-media-content-with-auto-generated-speech/"><u>How to Enrich Social Media Content with Auto-Generated Speech</u></a></li>
-<li><a href="https://win-guides.techidaily.com/klonen-eines-windows-systems-auf-einem-ssd-fur-lenovo-laptops/"><u>Klonen Eines Windows Systems Auf Einem SSD Für Lenovo Laptops</u></a></li>
-<li><a href="https://win-guides.techidaily.com/optimizing-business-growth-choosing-between-in-house-or-agency-marketing-via-massmail-software/"><u>Optimizing Business Growth - Choosing Between In-House or Agency Marketing via MassMail Software</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-sharing-your-printer-with-multiple-devices/"><u>Step-by-Step Guide: Sharing Your Printer with Multiple Devices</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-art-of-crafting-content-for-snapchat-professionals-for-2024/"><u>The Art of Crafting Content for Snapchat Professionals for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-decoding-the-art-of-iphones-and-podcasts-downloading/"><u>[New] 2024 Approved Decoding the Art of iPhones and Podcasts Downloading</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tuning-into-audio-bliss-your-iphone-as-a-podcasters-companion/"><u>[New] Tuning Into Audio Bliss - Your iPhone as a Podcaster's Companion</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-a-lone-path-with-3d-printers-in-the-3dr-world/"><u>[Updated] In 2024, A Lone Path with 3D Printers in the '3DR' World</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-seamless-sharing-twitch-links-on-your-fb-page/"><u>[Updated] Seamless Sharing Twitch Links on Your FB Page</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1728498322423-windows-11/"><u>回避する Windows 11 バックアップエラー:耐久性と信頼性向上のヒント</u></a></li>
+<li><a href="https://win-guides.techidaily.com/boosting-email-outreach-strategies-using-massmail-software-unlock-successful-marketing-tactics/"><u>Boosting Email Outreach Strategies Using MassMail Software | Unlock Successful Marketing Tactics</u></a></li>
+<li><a href="https://win-guides.techidaily.com/creating-system-backups-with-zero-cost-discover-the-best-techniques-to-image-your-drive-in-windows-11/"><u>Creating System Backups with Zero Cost: Discover the Best Techniques to Image Your Drive in Windows 11</u></a></li>
+<li><a href="https://win-guides.techidaily.com/descubre-donde-almacenan-windows-11-las-notas-adhesivas-con-nuestra-guia-completa/"><u>Descubre Dónde Almacenan Windows 11 Las Notas Adhesivas Con Nuestra Guía Completa.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-paperclip-maximizer-dilemma-in-artificial-intelligence/"><u>Exploring the Paperclip Maximizer Dilemma in Artificial Intelligence</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/frequently-asked-questions-about-mirillis-recordmirror-software-capture-your-screen-or-game-in-a-breeze/"><u>Frequently Asked Questions About Mirillis RecordMirror Software – Capture Your Screen or Game in a Breeze!</u></a></li>
+<li><a href="https://win-guides.techidaily.com/guide-cloning-a-windows-to-solid-state-drive-using-different-techniques/"><u>Guide: Cloning a Windows 지급기 파트셔닝 to Solid State Drive Using Different Techniques</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-c67-4g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme C67 4G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-unboxing-the-power-of-yis-high-definition-cam/"><u>In 2024, Unboxing the Power of YI's High Definition Cam</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-12-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 12 Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/innovative-strategies-for-crafting-engaging-email-campaigns-with-leading-software-solutions/"><u>Innovative Strategies for Crafting Engaging Email Campaigns with Leading Software Solutions</u></a></li>
+<li><a href="https://win-guides.techidaily.com/seamlessly-move-your-icloud-contacts-to-an-iphone-simple-techniques-revealed/"><u>Seamlessly Move Your iCloud Contacts to an iPhone: Simple Techniques Revealed</u></a></li>
+<li><a href="https://win-guides.techidaily.com/simple-guide-restoring-your-files-from-a-vmware-disk-easy-steps/"><u>Simple Guide: Restoring Your Files From a VMware Disk - Easy Steps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/veiled-vocal-vaults-top-6-under-the-radar-mobile-apps-for-2024/"><u>Veiled Vocal Vaults Top 6 Under-the-Radar Mobile Apps for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/top-agentstva-seo-v-kopengagene-dlya-ekspansii-vashego-onlajn-brenda-ispolzovanie-powersuite-servisov/"><u>Топ-Агентства SEO В Копенгагене Для Экспансии Вашего Онлайн Бренда: Использование PowerSuite Сервисов</u></a></li>
 </ul></div>
 

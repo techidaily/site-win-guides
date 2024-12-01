@@ -1,7 +1,7 @@
 ---
 title: "Crafting Confidence in Your Subscribers: The Art of Trustworthy Email Marketing Using MassMail"
-date: 2024-11-21T02:08:27.462Z
-updated: 2024-11-22T23:37:50.406Z
+date: 2024-11-29T21:04:07.497Z
+updated: 2024-12-01T01:08:48.436Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -37,7 +41,7 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -47,10 +51,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -74,29 +74,37 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -106,17 +114,9 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -149,24 +149,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-primeplay-videoapp-inspection/"><u>[New] In 2024, PrimePlay VideoApp Inspection</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-ultimate-durecorder-handbook-insights-and-evaluation/"><u>[New] In 2024, Ultimate DuRecorder Handbook Insights & Evaluation</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-high-definition-screens-selecting-your-optimal-4k-display/"><u>[Updated] 2024 Approved High Definition Screens Selecting Your Optimal 4K Display</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1-wiederherstellung-und-entfernung-von-geloschten-dokumenten-losungen-fur-speichermedien-auf-flashbasis/"><u>1. Wiederherstellung Und Entfernung Von Gelöschten Dokumenten: Lösungen Für Speichermedien Auf Flashbasis</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-reimagine-your-gaming-experience-sonys-audio-customization/"><u>2024 Approved Reimagine Your Gaming Experience Sony's Audio Customization</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/amazing-deal-alert-sony-ps5-slim-with-marvels-spider-man-2-game-now-at-record-lows/"><u>Amazing Deal Alert: Sony PS5 Slim with Marvel's Spider-Man 2 Game Now at Record Lows</u></a></li>
-<li><a href="https://win-guides.techidaily.com/aomei-buukeupper-pro-il-tuo-strumento-di-backup-e-sincronizzazione-gratuito-preferito-per-windows-programma-standard/"><u>AOMEI Buukeupper Pro - Il Tuo Strumento Di Backup E Sincronizzazione Gratuito Preferito per Windows: Programma Standard</u></a></li>
-<li><a href="https://win-guides.techidaily.com/come-riparare-le-partizioni-senza-spazio-libero-in-windows-11/"><u>Come Riparare Le Partizioni Senza Spazio Libero in Windows 11</u></a></li>
-<li><a href="https://win-guides.techidaily.com/dealing-with-full-icloud-storage-what-happens-when-you-delete-messages/"><u>Dealing with Full iCloud Storage: What Happens When You Delete Messages?</u></a></li>
-<li><a href="https://win-guides.techidaily.com/eac3-sound-unavailable-comprehensive-fixes-and-advice-on-resolving-audio-not-supported-issues/"><u>EAC3 Sound Unavailable? Comprehensive Fixes & Advice on Resolving 'Audio Not Supported' Issues</u></a></li>
-<li><a href="https://win-guides.techidaily.com/expert-tips-for-restoring-accidentally-deleted-mpeg4-3g23gp-videos-on-your-device/"><u>Expert Tips for Restoring Accidentally Deleted MPEG4 (3G2/3GP) Videos on Your Device</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/extracting-fb-video-files-from-pcmac-for-2024/"><u>Extracting FB Video Files From PC/Mac for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Infinix Note 30 VIP? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-quick-start-method-for-combining-obs-and-zoom/"><u>In 2024, The Quick-Start Method for Combining OBS & Zoom</u></a></li>
-<li><a href="https://win-guides.techidaily.com/instant-solutions-troubleshooting-failed-system-restore-attempts/"><u>Instant Solutions: Troubleshooting Failed System Restore Attempts</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/resolving-the-rpc-server-cant-find-your-computer-issue-6-tips-for-windows-10-users/"><u>Resolving the 'RPC Server Can't Find Your Computer' Issue: 6 Tips for Windows 10 Users</u></a></li>
-<li><a href="https://win-guides.techidaily.com/solucja-dla-problemu-wykonanie-diskow-ratunkowych-w-windows-1011/"><u>Solucja Dla Problemu: Wykonanie Disków Ratunkowych W Windows 10/11</u></a></li>
-<li><a href="https://win-guides.techidaily.com/umprogrammieren-von-software-auf-windows-11-ohne-dass-ein-kompletter-neustart-notig-ist/"><u>Umprogrammieren Von Software Auf Windows 11, Ohne Dass Ein Kompletter Neustart Nötig Ist.</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-efficient-thumbnail-generation-with-your-phone-for-video-content/"><u>[New] 2024 Approved Efficient Thumbnail Generation with Your Phone for Video Content</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1-seamless-transition-top-5-methods-for-shifting-your-iphone-applications-to-an-ipad/"><u>1. Seamless Transition: Top 5 Methods for Shifting Your iPhone Applications to an iPad</u></a></li>
+<li><a href="https://win-superb.techidaily.com/conversao-de-audio-livre-para-mp3-e-mp4-suportando-3gpp-com-o-servico-on-line-do-movavi/"><u>Conversão De Áudio Livre Para MP3 E MP4, Suportando 3GPP Com O Serviço On-Line Do Movavi</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dive-into-french-idioms-elevating-your-speech-quality/"><u>Dive Into French Idioms: Elevating Your Speech Quality</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-the-joyride-with-ddpai-mini3-a-fresh-take-on-dashcam-reviews/"><u>Experience the Joyride with DDpai Mini3 – A Fresh Take on Dashcam Reviews!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-olympic-thaw-figure-skating-extravaganza/"><u>In 2024, Olympic Thaw Figure Skating Extravaganza</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-art-of-instagram-covers-your-stepwise-journey-begins-here/"><u>In 2024, The Art of Instagram Covers Your Stepwise Journey Begins Here</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-pros-guide-to-srt-alterations-on-a-macbook/"><u>In 2024, The Pro's Guide to SRT Alterations on a MacBook</u></a></li>
+<li><a href="https://win-guides.techidaily.com/schritt-fur-schritt-anleitung-zum-klonen-einer-ghostfestplatte/"><u>Schritt-Für-Schritt-Anleitung Zum Klonen Einer Ghostfestplatte</u></a></li>
+<li><a href="https://win-guides.techidaily.com/secrets-reveles-achat-gratuit-daomei-backupper-pour-sauver-vos-donnees-sur-pc-et-ios/"><u>Secrets Révélés : Achat Gratuit D'AOMEI Backupper Pour Sauver Vos Données Sur PC Et iOS</u></a></li>
+<li><a href="https://facebook.techidaily.com/virtual-vacation-deleting-the-drama-from-digital-dialogue/"><u>Virtual Vacation: Deleting the Drama From Digital Dialogue</u></a></li>
+<li><a href="https://win-guides.techidaily.com/wiederherstellung-verlorener-daten-auf-unzugewiesenen-festplattenpartitionen-mit-myrecover-losungen/"><u>Wiederherstellung Verlorener Daten Auf Unzugewiesenen Festplattenpartitionen Mit MyRecover-Lösungen</u></a></li>
 </ul></div>
 

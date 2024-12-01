@@ -1,7 +1,7 @@
 ---
 title: "Protect Your Email Campaigns: Advanced Spam Detection with MassMail's Comprehensive Blacklist"
-date: 2024-11-16T18:59:18.799Z
-updated: 2024-11-22T18:22:49.004Z
+date: 2024-11-25T22:41:51.085Z
+updated: 2024-11-30T22:44:23.550Z
 tags:
   - product
 categories:
@@ -21,6 +21,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -45,7 +49,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -65,10 +69,6 @@ That is why in 2022, SMS will increasingly serve as the glue that cements multic
 One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware/products/), which helps local businesses and national chains to create and execute campaigns that feature shortcodes in direct mailers. After texting the shortcode, consumers receive an e-coupon on their phone that they redeem by showing to the merchant’s sales associate.
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
@@ -90,10 +90,6 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
@@ -103,7 +99,7 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
@@ -111,7 +107,7 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Partner
@@ -119,7 +115,7 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,16 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-exclusive-access-sharing-restricted-youtube-content-with-emailid-for-2024/"><u>[New] Exclusive Access Sharing Restricted YouTube Content with EmailID for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/a-step-by-step-approach-to-snapchat-video-communication/"><u>A Step-By-Step Approach to Snapchat Video Communication</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/beyondsharex-evaluating-the-best-options/"><u>BeyondShareX - Evaluating the Best Options</u></a></li>
-<li><a href="https://win-guides.techidaily.com/comment-sauver-vos-donnes-sur-un-hdd-extern-wd-endommage-sans-perte-de-donnees/"><u>Comment Sauver Vos Donnés Sur Un HDD Extern WD Endommagé Sans Perte De Données?</u></a></li>
-<li><a href="https://facebook.techidaily.com/global-hush-zones-no-facebook-in-these-areas/"><u>Global Hush Zones: No Facebook in These Areas</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1728492272253-hddwindows/"><u>HDDのクリーンアップ：Windowsサーバー上でシンプルな掃除手順</u></a></li>
-<li><a href="https://win-guides.techidaily.com/how-to-unify-multiple-apple-id-contact-lists-on-an-ios-device/"><u>How to Unify Multiple Apple ID Contact Lists on an iOS Device</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-google-pixel-7a-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Google Pixel 7a to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/libera-conversione-video-avi-a-m4a-risolvi-questo-problema-gratis-utilizzando-il-servizio-online-videoconverter/"><u>Libera Conversione Video AVI a M4A: Risolvi Questo Problema Gratis Utilizzando Il Servizio Online VideoConverter</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/managing-extra-processes-in-windows-os/"><u>Managing Extra Processes in Windows OS</u></a></li>
-<li><a href="https://win-guides.techidaily.com/top-strategies-for-instantaneous-data-syncing-with-external-drives/"><u>Top Strategies for Instantaneous Data Syncing with External Drives</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instas-best-practices-choosing-videography-sizes-and-formats/"><u>[New] Insta's Best Practices - Choosing Videography Sizes & Formats</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-navigating-instagrams-reel-arena-with-precision/"><u>[New] Navigating Instagram's Reel Arena with Precision</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-yt-creator-hub-the-ultimate-playbook/"><u>2024 Approved Mastering YT Creator Hub The Ultimate Playbook</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1728465202851-pdf/"><u>優秀PDF修復器測評結果：發現適合用家解決方法</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1728465580989-windows-1110/"><u>有効なセットアップが見つからないというWindows 11/10でのエラー修正ガイド</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-samsung-galaxy-a15-4g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/fy-impact-strategies-for-growing-youtube-fans/"><u>Amplify Impact Strategies for Growing YouTube Fans</u></a></li>
+<li><a href="https://win-guides.techidaily.com/esegui-il-backup-delle-tue-informazioni-vitali-con-facilita-utilizzando-aomei-backupper-assistenza-tecnica-247/"><u>Esegui Il Backup Delle Tue Informazioni Vitali Con Facilità Utilizzando AOMEI Backupper: Assistenza Tecnica 24/7</u></a></li>
+<li><a href="https://fox-http.techidaily.com/exploring-the-heart-of-srt-in-depth-for-2024/"><u>Exploring the Heart of SRT in Depth for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-to-resolve-the-continuous-refresh-glitch-in-emeditor-text-editor/"><u>How to Resolve the Continuous Refresh Glitch in EmEditor Text Editor</u></a></li>
+<li><a href="https://win-guides.techidaily.com/professionelle-tipps-zur-installation-und-inbetriebnahme-von-microsoft-hyper-v-server/"><u>Professionelle Tipps Zur Installation Und Inbetriebnahme Von Microsoft Hyper-V Server</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ise-strategy-for-transforming-your-youtube-videos-with-imovie-for-2024/"><u>Stepwise Strategy for Transforming Your YouTube Videos with iMovie for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-power-management-tools-for-windows-devices/"><u>Unlocking Power Management Tools for Windows Devices</u></a></li>
+<li><a href="https://win-guides.techidaily.com/unlocking-windows-11-three-strategies-for-disabling-the-lock-screen/"><u>Unlocking Windows 11: Three Strategies for Disabling the Lock Screen</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Which Pokémon can Evolve with a Moon Stone For Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1728496361579-windows-11ssd/"><u>Windows 11のファーストパスでSSDへの起動駆動装置切り替えガイド</u></a></li>
 </ul></div>
 

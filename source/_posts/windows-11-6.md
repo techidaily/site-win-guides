@@ -1,7 +1,7 @@
 ---
 title: Windows 11 ディスクが表示されない問題に対処するための6つの方法
-date: 2024-10-27T17:34:13.351Z
-updated: 2024-10-28T16:18:04.343Z
+date: 2024-11-27T17:24:33.033Z
+updated: 2024-11-30T19:50:52.847Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/c6507ef1a8c1967e04b9a71ecc3df4d6b245a64121c79bffee638bab85472f90.jpg
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/c6507ef1a8c1967e04b9a71ecc3df4d6b245a6412
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Wie kann man den Papierkorb vom Desktop entfernen unter Windows 10?
 
@@ -38,13 +42,6 @@ Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 6. [Zusammenfassung](https://tools.techidaily.com/ubackup/products/)
 7. [Häufig gestellte Fragen](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Ist es sicher, den Papierkorb zu löschen?
 
 Kann ich den Ordner „Papierkorb“ von meiner D-Festplatte löschen, da er 9 GB Speicherplatz belegt? Wenn ich ihn öffne, ist nichts darin enthalten. Und es gibt einen anderen Ordner mit demselben Namen auf meiner C-Festplatte, der ebenfalls Platz beansprucht. Ist es also sicher, den Papierkorb zu löschen?
@@ -60,13 +57,6 @@ Nicht zu vergessen sind die kürzlich gelöschten Dateien im Papierkorb. Sie wer
 Um Speicherplatz freizugeben, leeren viele Benutzer ihren Papierkorb. Aber ist es sicher, den Papierkorb zu löschen? Um spätere Bedauern zu vermeiden, öffnen Sie diesen temporären Speicherplatz, um zu prüfen, ob sich darin Dateien befinden, die Sie wiederherstellen möchten.
 
 Aber wenn der [Papierkorb als leer angezeigt wird](https://tools.techidaily.com/ubackup/products/), es aber nicht ist, was können Sie tun, um dies zu beheben? Lesen Sie bitte weiter, um die entsprechenden Methoden zu erhalten.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Teil 1\. Wie kann man den Papierkorb vom Desktop entfernen unter Windows 10?
 
@@ -97,15 +87,16 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 [![Als Administrator ausführen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/run-as-administrator.png "Als Administrator ausführen")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
 
@@ -131,15 +122,20 @@ Sicherer Download
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
@@ -169,6 +165,10 @@ Sicherer Download
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
@@ -176,16 +176,7 @@ Sicherer Download
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Zusammenfassung
@@ -197,13 +188,6 @@ Wenn Ihr Papierkorb leer angezeigt wird, dies aber nicht der Fall ist, können S
 Wenn Sie den Papierkorb vom Desktop aus leeren möchten, können Sie die im zweiten Teil empfohlene erweiterte Eingabeaufforderung verwenden.
 
 Für [dauerhaft gelöschte Dateien können Sie Ihre Dateien](https://tools.techidaily.com/ubackup/products/) aus den von AOMEI Backupper erstellten Sicherungen wiederherstellen oder Datenrettungstools verwenden, um sie wiederherzustellen.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Häufig gestellte Fragen
 
@@ -227,16 +211,13 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 ![Holiday](https://www.ubackup.com/assets/images/author/Holiday.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Holiday](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Holiday ist seit dem 1\. Juni 2020 bei AOMEI und beschäftigt sich mit Sichern & Wiederherstellen, Festplatten- und Partitionsverwaltung usw. für AOMEI. Ob Arbeit, Studien oder Leben, sie versucht gerne, neue Dinge zu lernen und denkt, dass Überraschungen auf sie warten, egal wann und wo.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Folgende Artikel könnten Sie auch interessieren
 
@@ -270,13 +251,6 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
 <ins class="adsbygoogle"
@@ -294,19 +268,21 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-swift-shadowing-in-1-minute/"><u>[Updated] 2024 Approved Swift Shadowing in 1 Minute</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-behind-virtual-walls-a-deep-dive-into-6-metaverse-cases/"><u>[Updated] Behind Virtual Walls A Deep Dive Into 6 Metaverse Cases</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-master-the-art-of-tagging-a-compreited-guide-to-video-seo/"><u>[Updated] In 2024, Master the Art of Tagging A Compreited Guide to Video SEO</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-unseen-loss-rapid-video-expulsion/"><u>[Updated] The Unseen Loss Rapid Video Expulsion</u></a></li>
-<li><a href="https://win-guides.techidaily.com/d-3/"><u>簡単な手順で「ローカルディスクD」を削除する方法 - 3つのオプション探訪</u></a></li>
-<li><a href="https://discover-best.techidaily.com/comprehensive-iphone-8-assessment-benefits-and-drawbacks-compared-with-iphone-x/"><u>Comprehensive iPhone 8 Assessment: Benefits and Drawbacks Compared with iPhone X</u></a></li>
-<li><a href="https://win-guides.techidaily.com/easy-tutorial-how-to-install-and-operate-the-amazon-s3-browser-on-windows-systems/"><u>Easy Tutorial: How to Install and Operate the Amazon S3 Browser on Windows Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpts-potential-in-revolutionizing-medical-services/"><u>GPT's Potential in Revolutionizing Medical Services</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-realme-v30t-screen-sharing-drfone-by-drfone-android/"><u>How To Do Realme V30T Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/how-to-live-stream-gopro-to-facebook-and-periscope/"><u>How to Live Stream Gopro to Facebook and Periscope?</u></a></li>
-<li><a href="https://win-guides.techidaily.com/how-to-upgrade-motherboard-and-cpu-in-windows-without-rebooting-xpvista7810/"><u>How to Upgrade Motherboard and CPU in Windows Without Rebooting (XP/Vista/7/8/10)</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-the-ultimate-fcpx-freebie-list-10-best-plugins/"><u>New In 2024, The Ultimate FCPX Freebie List 10 Best Plugins</u></a></li>
-<li><a href="https://win-guides.techidaily.com/resoudre-les-problemes-davant-premier-plan-avec-windows-11-au-redemarrage-techniques-rapides/"><u>Résoudre Les Problèmes D'Avant-Premier Plan Avec Windows 11 Au Redémarrage (Techniques Rapides)</u></a></li>
-<li><a href="https://win-guides.techidaily.com/top-ranking-no-cost-disk-image-creator-apps-fur-windows-10/"><u>Top-Ranking No Cost Disk Image Creator Apps Für Windows 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-find-your-vfx-match-top-8-sites-for-free-high-quality-green-screen-footage/"><u>[Updated] Find Your VFX Match - Top 8 Sites for FREE High Quality Green Screen Footage</u></a></li>
+<li><a href="https://win-guides.techidaily.com/comment-installer-des-logiciels-sur-un-disque-dur-externe-pour-ordinateur/"><u>Comment Installer Des Logiciels Sur Un Disque Dur Externe Pour Ordinateur ?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dipping-into-the-dynamics-of-digital-image-dimensions/"><u>Dipping Into the Dynamics of Digital Image Dimensions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/expert-analysis-top-9-digital-recording-tools-assessed-for-2024/"><u>Expert Analysis Top 9 Digital Recording Tools Assessed for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/guide-complet-pour-mettre-a-nuance-votre-ssd-de-la-serie-9-de-samsung-etapes-detaillees-expliquees/"><u>Guide Complet Pour Mettre À Nuance Votre SSD De La Série 9 De Samsung: Etapes Détaillees Expliquées!</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-vivo-y27-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-infinix-smart-8-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Infinix Smart 8 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-screen-savers-webs-best-free-choices/"><u>In 2024, Top Screen Savers Web's Best Free Choices</u></a></li>
+<li><a href="https://win-guides.techidaily.com/is-it-possible-to-perform-an-iphone-hard-reset-and-keep-all-information-intact-expert-insights-revealed/"><u>Is It Possible to Perform an iPhone Hard Reset and Keep All Information Intact? Expert Insights Revealed!</u></a></li>
+<li><a href="https://win-guides.techidaily.com/pstfoxmail/"><u>PSTファイルからFoxmailでメールを簡単にエクスポートするための詳細な手順:徹底的ガイド</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-installation-of-an-asus-tuf-gaming-fx505dy-ssd-a-comprehensive-tutorial/"><u>Step-by-Step Installation of an ASUS TUF Gaming FX505DY SSD: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-impact-of-multi-view-video-technology-on-home-surveillance-for-2024/"><u>The Impact of Multi-View Video Technology on Home Surveillance for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/troubleshooting-guide-successful-note-migration-to-your-latest-iphone-models-15-12/"><u>Troubleshooting Guide: Successful Note Migration to Your Latest iPhone (Models 15-12)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-transfer-videos-to-dvd-discs-on-windows-and-mac-computers/"><u>Updated 2024 Approved Transfer Videos to DVD Discs on Windows and Mac Computers</u></a></li>
+<li><a href="https://win-guides.techidaily.com/verstehen-sie-die-windows-recovery-console-eine-umfassende-anleitung-zur-nutzung-und-anwendung/"><u>Verstehen Sie Die Windows Recovery Console – Eine Umfassende Anleitung Zur Nutzung Und Anwendung</u></a></li>
+<li><a href="https://techtrends.techidaily.com/zoom-quality-issues-identifying-if-connectivity-woes-are-user-based/"><u>Zoom Quality Issues: Identifying If Connectivity Woes Are User-Based</u></a></li>
 </ul></div>
 

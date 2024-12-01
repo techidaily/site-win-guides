@@ -1,7 +1,7 @@
 ---
 title: Exploring the Origins and Evolution of Podcasting with iPod - Insights From Massmail
-date: 2024-11-17T00:37:51.676Z
-updated: 2024-11-22T18:18:00.291Z
+date: 2024-11-28T01:45:17.887Z
+updated: 2024-11-30T18:01:27.899Z
 tags:
   - product
 categories:
@@ -18,12 +18,16 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -67,20 +71,20 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -94,33 +98,29 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,24 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-boundless-adventures-exploring-vr-in-games/"><u>[New] In 2024, Boundless Adventures Exploring VR in Games</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-slip-up-on-tiktok-how-to-get-back-content-for-2024/"><u>[New] Slip-Up on TikTok How to Get Back Content for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unlock-your-online-potential-with-these-top-tips-on-free-youtube-transcripts/"><u>[Updated] 2024 Approved Unlock Your Online Potential with These Top Tips on FREE YouTube Transcripts</u></a></li>
-<li><a href="https://win-guides.techidaily.com/ccleaner-seo/"><u>「CCleaner」によって失われたデータを取り戻す手順 - SEO最適化されたタイトル</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1-all-in-one-halloween-campaign-tools-multichannel-email-texts-and-more-with-massmail/"><u>1. All-in-One Halloween Campaign Tools: Multichannel Email, Texts & More with MassMail</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-5-best-screens-for-playstation-5-gamers/"><u>2024 Approved TOP 5 Best Screens for PlayStation 5 Gamers</u></a></li>
-<li><a href="https://win-guides.techidaily.com/advanced-strategies-for-google-adsense-success-in-2009-preventing-your-account-from-closure-with-massmail-tools/"><u>Advanced Strategies for Google AdSense Success in 2009 - Preventing Your Account From Closure with MassMail Tools</u></a></li>
-<li><a href="https://win-guides.techidaily.com/back-up-your-windows-10-system-internally-three-effective-strategies-excluding-external-drives/"><u>Back Up Your Windows 10 System Internally: Three Effective Strategies Excluding External Drives</u></a></li>
-<li><a href="https://win-guides.techidaily.com/comment-installer-le-sys-image-sur-multiples-machines/"><u>Comment Installer Le Sys Image Sur Multiples Machines</u></a></li>
-<li><a href="https://games-able.techidaily.com/critical-caveats-5-unexamined-aspects-of-game-scores/"><u>Critical Caveats: 5 Unexamined Aspects of Game Scores</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-canon-printer-driver-compatible-with-windows-11-8-and-7/"><u>Download Canon Printer Driver: Compatible with Windows 11, 8 & 7</u></a></li>
-<li><a href="https://win-guides.techidaily.com/effortless-data-restoration-from-windows-devastation-a-guide-to-retrieving-deleted-files/"><u>Effortless Data Restoration From Windows Devastation: A Guide to Retrieving Deleted Files</u></a></li>
-<li><a href="https://article-tips.techidaily.com/expert-endorsed-techniques-for-iphone-audio-retrieval/"><u>Expert-Endorsed Techniques for iPhone Audio Retrieval</u></a></li>
-<li><a href="https://win-guides.techidaily.com/gratis-synchronisierungsprogramm-kostenlose-alternativen-zu-freefilesync-and-aomei-backupper-2020/"><u>Gratis Synchronisierungsprogramm: Kostenlose Alternativen Zu FreeFileSync & AOMEI Backupper (2020)</u></a></li>
-<li><a href="https://win-guides.techidaily.com/how-to-retrieve-accidentally-deleted-iphone-video-content/"><u>How to Retrieve Accidentally Deleted iPhone Video Content</u></a></li>
-<li><a href="https://win-guides.techidaily.com/massmail-unleashes-powerful-email-marketing-at-ungagged-las-vegas-2017-conference/"><u>MassMail Unleashes Powerful Email Marketing at UnGagged Las Vegas 2017 Conference</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-review-for-long-range-robust-uniden-r3-radar-detector/"><u>The Ultimate Review for Long-Range, Robust Uniden R3 Radar Detector</u></a></li>
-<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723007350562-troubleshooting-cyberpunk-2077s-surprising-error-2024-expert-tips-inside/"><u>Troubleshooting Cyberpunk 2077'S Surprising Error 2024 - Expert Tips Inside</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-speedy-transformation-from-pixels-to-polished-youtube-thumbnails/"><u>[New] 2024 Approved Speedy Transformation From Pixels to Polished YouTube Thumbnails</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ndless-eradication-guide-bypassing-youtubes-snappy-content-for-2024/"><u>[New] Endless Eradication Guide Bypassing YouTube's Snappy Content for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-from-pages-to-production-creating-a-movie-blueprint/"><u>[New] From Pages to Production Creating a Movie Blueprint</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-how-to-use-the-blending-modes-to-composite-clips-for-2024/"><u>[New] How to Use The Blending Modes To Composite Clips for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-skills-style-success-your-roadmap-in-the-creative-industry/"><u>2024 Approved Skills, Style, Success Your Roadmap in the Creative Industry</u></a></li>
+<li><a href="https://win-guides.techidaily.com/windows-11-recycle-bin/"><u>如何在 Windows 11 中修復 Recycle Bin 功能: 精密指南</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/affordable-and-straightforward-driving-monitor-an-in-depth-look-at-the-bouncie-connect-product/"><u>Affordable and Straightforward Driving Monitor: An In-Depth Look at the Bouncie Connect Product</u></a></li>
+<li><a href="https://win-guides.techidaily.com/building-lasting-connections-in-the-digital-age-a-guide-to-flourishing-online-romance-with-massmail-solutions/"><u>Building Lasting Connections in the Digital Age: A Guide to Flourishing Online Romance with MassMail Solutions</u></a></li>
+<li><a href="https://win-guides.techidaily.com/discover-the-ultimate-seo-toolkit-top-15-alternatives-to-moz-for-boosting-your-rankings/"><u>Discover the Ultimate SEO Toolkit: Top 15 Alternatives to Moz for Boosting Your Rankings</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-guide-retrieving-irrevocably-erased-documents-on-windows-71011/"><u>Step-by-Step Guide: Retrieving Irrevocably Erased Documents on Windows 7/10/11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-no-audio-on-your-hp-laptop-running-windows-10/"><u>Troubleshooting: Fixing No Audio on Your HP Laptop Running Windows 10</u></a></li>
+<li><a href="https://win-guides.techidaily.com/unlocking-seasonal-sales-potential-with-holiday-email-campaigns-and-massmail-solutions/"><u>Unlocking Seasonal Sales Potential with Holiday Email Campaigns & MassMail Solutions</u></a></li>
 </ul></div>
 

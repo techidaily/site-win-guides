@@ -1,7 +1,7 @@
 ---
 title: "Marketing Mastery: How Massmail Helps Grow Your Contact Database - Tips From the MMSW Blog"
-date: 2024-11-19T00:08:47.953Z
-updated: 2024-11-22T17:56:39.884Z
+date: 2024-11-29T23:14:17.744Z
+updated: 2024-11-30T17:22:37.970Z
 tags:
   - product
 categories:
@@ -18,13 +18,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -35,6 +35,10 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -54,6 +58,10 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -70,10 +78,6 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
@@ -82,12 +86,16 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
@@ -98,17 +106,9 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,17 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-premier-collection-top-10-audio-capturers-on-spotify-for-2024/"><u>[New] Premier Collection Top 10 Audio Capturers on Spotify for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/11-tips-to-help-you-fix-the-windows-10-blue-screen-error/"><u>11 Tips to Help You Fix the Windows 10 Blue Screen Error</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-rapid-recording-rules-for-iphone-timelapses/"><u>2024 Approved Rapid Recording Rules for iPhone Timelapses</u></a></li>
-<li><a href="https://win-guides.techidaily.com/5-simple-steps-activating-lenovos-secure-startup-on-windows-11-devices/"><u>5 Simple Steps: Activating Lenovo's Secure Startup on Windows 11 Devices</u></a></li>
-<li><a href="https://win-forum.techidaily.com/decoding-bios-functionality-and-its-relation-to-revouninstaller-software/"><u>Decoding BIOS Functionality and Its Relation to RevoUninstaller Software</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-motorola-edge-40-neo-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Motorola Edge 40 Neo Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/raphics-leveraging-social-media-videos-for-2024/"><u>Infographics Leveraging Social Media Videos for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/optimizing-business-growth-choosing-between-in-house-or-agency-marketing-via-massmail-software/"><u>Optimizing Business Growth - Choosing Between In-House or Agency Marketing via MassMail Software</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/er-popularity-prognosticator-for-video-charts/"><u>Premier Popularity Prognosticator for Video Charts</u></a></li>
-<li><a href="https://win-guides.techidaily.com/schritt-fur-schritt-tutorial-einen-bootfahigen-windows-11-usb-von-grund-auf-erzeugen/"><u>Schritt-Für-Schritt-Tutorial: Einen Bootfähigen Windows 11 USB Von Grund Auf Erzeugen</u></a></li>
-<li><a href="https://win-guides.techidaily.com/seo-powersuite-the-ultimate-search-engine-optimization-toolkit/"><u>SEO PowerSuite: The Ultimate Search Engine Optimization Toolkit</u></a></li>
-<li><a href="https://win-guides.techidaily.com/understanding-on-page-optimization-a-complete-guide-with-essential-strategies/"><u>Understanding On-Page Optimization – A Complete Guide with Essential Strategies</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-from-playtime-to-production-sims-4-video-capturing/"><u>[Updated] 2024 Approved From Playtime to Production Sims 4 Video Capturing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-detailed-review-on-vlcs-screenshotting/"><u>[Updated] Detailed Review on VLC's Screenshotting</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-crafting-visual-wonders-an-insiders-guide-to-editing-on-snapchat/"><u>[Updated] In 2024, Crafting Visual Wonders An Insider’s Guide to Editing on Snapchat</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-is-investing-in-a-monthly-youtube-premium-worthwhile/"><u>[Updated] Is Investing in a Monthly YouTube Premium Worthwhile?</u></a></li>
+<li><a href="https://win-guides.techidaily.com/descargue-e-instale-el-programa-de-respaldo-de-aomei-para-servidores-windows/"><u>Descargue E Instale El Programa De Respaldo De AOMEI Para Servidores Windows</u></a></li>
+<li><a href="https://win-guides.techidaily.com/easy-steps-restore-your-lost-files-with-these-simple-tricks/"><u>Easy Steps: Restore Your Lost Files with These Simple Tricks</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-do-new-e-commerce-ventures-leverage-email-campaigns-with-massmail-solutions/"><u>How Do New E-Commerce Ventures Leverage Email Campaigns with Massmail Solutions?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-transformation-mp4-plus-srt-success/"><u>In 2024, The Ultimate Transformation MP4 + SRT Success</u></a></li>
+<li><a href="https://win-guides.techidaily.com/les-meilleures-methodes-pour-tirer-en-bloc-le-contenu-de-votre-dropbox-vers-un-nas/"><u>Les Meilleures Méthodes Pour Tirer En Bloc Le Contenu De Votre Dropbox Vers Un NAS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/official-digiarty-multimedia-suite-expert-dvd-extractor-dvd-cloner-and-hd-video-formatter-solutions/"><u>Official Digiarty Multimedia Suite: Expert DVD Extractor, DVD Cloner, and HD Video Formatter Solutions</u></a></li>
+<li><a href="https://win-guides.techidaily.com/rescue-deleted-pictures-on-onedrive-expert-strategies-for-image-retrieval/"><u>Rescue Deleted Pictures on OneDrive: Expert Strategies for Image Retrieval</u></a></li>
+<li><a href="https://win-guides.techidaily.com/solution-found-how-to-create-a-restore-disk-on-windows-10-and-11/"><u>Solution Found: How to Create a Restore Disk on Windows 10 & 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-vivo-y100-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo Y100 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-selecting-the-perfect-apple-band-for-your-smartwatch-in-depth-analysis-and-expert-opinions/"><u>Ultimate Guide to Selecting the Perfect Apple Band for Your Smartwatch : In-Depth Analysis and Expert Opinions</u></a></li>
+<li><a href="https://win-guides.techidaily.com/unlocking-seo-success-by-combining-content-creation-and-email-campaigns-with-massmail-solutions/"><u>Unlocking SEO Success by Combining Content Creation and Email Campaigns with MassMail Solutions</u></a></li>
+<li><a href="https://win-guides.techidaily.com/unveiling-the-truth-debunking-mlm-strategies-and-deceptive-practices-with-massmail-software/"><u>Unveiling the Truth: Debunking MLM Strategies and Deceptive Practices with MassMail Software</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1728494319865-windows10/"><u>Windows10で削除されたフォルダを簡単に復元する手順</u></a></li>
 </ul></div>
 

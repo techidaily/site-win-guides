@@ -1,7 +1,7 @@
 ---
 title: "Life, Choices, and Critical Moments: Effective Decision-Making Tools for 2009 via MassMail Tech"
-date: 2024-11-21T20:05:27.815Z
-updated: 2024-11-22T16:59:57.069Z
+date: 2024-11-29T00:47:15.215Z
+updated: 2024-11-30T23:02:40.026Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
@@ -27,7 +27,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -40,13 +40,13 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -55,10 +55,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -82,10 +78,6 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
@@ -106,17 +98,21 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,17 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-guides.techidaily.com/r2-ke-perangkat-baru-tiga-jenis-langkah-menarik/"><u>: R2 Ke Perangkat Baru Tiga Jenis Langkah Menarik</u></a></li>
-<li><a href="https://win-guides.techidaily.com/clonage-facile-de-multiples-partitions-ssd-avec-samsung-data-migration-guide-dinstructions-complet/"><u>Clonage Facile De Multiples Partitions SSD Avec Samsung Data Migration: Guide D'Instructions Complet</u></a></li>
-<li><a href="https://win-guides.techidaily.com/datei-wiederherstellen-verlorene-daten-beim-kopieren-und-einfugen-finden/"><u>Datei Wiederherstellen - Verlorene Daten Beim Kopieren Und Einfügen Finden</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/design-memes-that-speak-to-your-audience/"><u>Design Memes That Speak to Your Audience</u></a></li>
-<li><a href="https://win-guides.techidaily.com/entfernung-des-backupverzeichnisses-windowsold-effiziente-methoden-zum-loschen-nach-der-migration-auf-windows-10-4-tipps/"><u>Entfernung Des Backupverzeichnisses 'Windows.old': Effiziente Methoden Zum Löschen Nach Der Migration Auf Windows 10 [4 Tipps]</u></a></li>
-<li><a href="https://facebook.techidaily.com/from-novice-to-connoisseur-deciphering-social-media-symbolism/"><u>From Novice to Connoisseur: Deciphering Social Media Symbolism</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/gopro-and-ghost-s-face-off-in-racing-realities/"><u>GoPro and Ghost-S Face Off in Racing Realities</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-guidelines-for-selecting-an-engaging-movie-trailer-song/"><u>In 2024, Guidelines for Selecting an Engaging Movie Trailer Song</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/in-depth-look-at-newly-launched-3rd-generation-apple-airpods-expert-review-and-key-upgrades-featured-on-zdnet/"><u>In-Depth Look at Newly Launched 3Rd Generation Apple AirPods: Expert Review and Key Upgrades Featured on ZDNET</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/quick-methods-saving-your-google-voice-dialogues/"><u>Quick Methods Saving Your Google Voice Dialogues</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/scriptwriting-secrets-penning-podcast-episodes-that-resonate-for-2024/"><u>Scriptwriting Secrets Penning Podcast Episodes That Resonate for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solutions-for-a-dormant-gpu-fan/"><u>Solutions for a Dormant GPU Fan</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-boost-interaction-top-20-tiktok-captions-that-work-wonders-for-2024/"><u>[New] Boost Interaction Top 20 TikTok Captions That Work Wonders for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-protecting-ideas-avoidance-of-rash-removals-for-2024/"><u>[Updated] Protecting Ideas Avoidance of Rash Removals for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-racing-to-the-top-olympic-highlights-in-short-track-speed-for-2024/"><u>[Updated] Racing to the Top Olympic Highlights in Short Track Speed for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-digital-cash-creation-a-closer-look-at-vids-vs-videos/"><u>2024 Approved Digital Cash Creation A Closer Look at Vids Vs. Videos</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1728465202851-pdf/"><u>優秀PDF修復器測評結果：發現適合用家解決方法</u></a></li>
+<li><a href="https://win-guides.techidaily.com/efficient-ways-to-categorize-and-store-your-images-into-folders-using-an-ipad/"><u>Efficient Ways to Categorize and Store Your Images Into Folders Using an iPad</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/enabling-pip-for-youtube-viewing-on-your-iphone/"><u>Enabling PIP for YouTube Viewing on Your iPhone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-to-resolve-the-continuous-refresh-glitch-in-emeditor-text-editor/"><u>How to Resolve the Continuous Refresh Glitch in EmEditor Text Editor</u></a></li>
+<li><a href="https://win-guides.techidaily.com/professionelle-tipps-zur-installation-und-inbetriebnahme-von-microsoft-hyper-v-server/"><u>Professionelle Tipps Zur Installation Und Inbetriebnahme Von Microsoft Hyper-V Server</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/quick-solutions-resolving-roblox-error-code-403-immediately/"><u>Quick Solutions: Resolving Roblox Error Code 403 Immediately</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/stellaris-analysis-mastering-space-odyssey-dominion-and-strategy/"><u>Stellaris Analysis: Mastering Space Odyssey, Dominion & Strategy</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/succesvol-terugrecuperatie-voor-pny-sd-card-haal-je-bestanden-terug/"><u>Succesvol Terugrecuperatie Voor PNY SD Card - Haal Je Bestanden Terug!</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1728496361579-windows-11ssd/"><u>Windows 11のファーストパスでSSDへの起動駆動装置切り替えガイド</u></a></li>
 </ul></div>
 

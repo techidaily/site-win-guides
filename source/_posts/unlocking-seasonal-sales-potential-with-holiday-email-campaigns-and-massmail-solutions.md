@@ -1,7 +1,7 @@
 ---
 title: Unlocking Seasonal Sales Potential with Holiday Email Campaigns & MassMail Solutions
-date: 2024-11-15T16:47:53.523Z
-updated: 2024-11-23T00:11:50.853Z
+date: 2024-11-24T22:46:04.070Z
+updated: 2024-11-30T23:40:40.043Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -47,10 +47,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -78,21 +74,17 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -102,21 +94,29 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,24 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-best-of-the-best-a-ranked-list-of-top-10-video-call-apps-for-2024/"><u>[New] Best of the Best A Ranked List of Top 10 Video Call Apps for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-ideal-apps-for-editing-and-mixing-dji-video-tapes-for-2024/"><u>[New] Ideal Apps for Editing and Mixing DJi Video Tapes for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-microphone-data-review-tips/"><u>[New] In 2024, Microphone Data Review Tips</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-navigating-lenses-for-professional-videography/"><u>[New] Navigating Lenses for Professional Videography</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-top-8-android-platforms-revolutionizing-large-calls/"><u>2024 Approved Top 8 Android Platforms Revolutionizing Large Calls</u></a></li>
-<li><a href="https://win-guides.techidaily.com/windows-116-2024/"><u>最新リスト!! 🔝 : Windows 11対応の高性能無料バックアップソフトウェア6つをご紹介します | 2024年版</u></a></li>
-<li><a href="https://win-guides.techidaily.com/comment-configurer-une-copie-de-secours-personnalisee-sur-windows-11-3-astuces-rapides-et-simples/"><u>Comment Configurer Une Copie De Secours Personnalisée Sur Windows 11 : 3 Astuces Rapides Et Simples</u></a></li>
-<li><a href="https://win-guides.techidaily.com/descubre-la-excelencia-en-las-copias-de-seguridad-con-este-programa-libre-y-eficiente-de-sincronizacion-de-archivos-externo/"><u>Descubre La Excelencia en Las Copias De Seguridad Con Este Programa Libre Y Eficiente De Sincronización De Archivos Externo</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easy-ways-to-address-lack-of-sound-on-skype-calls/"><u>Easy Ways to Address Lack of Sound on Skype Calls</u></a></li>
-<li><a href="https://win-guides.techidaily.com/erstellen-einer-datenwiederherstellungsliste-mit-cmd-unter-windows-111087-zwei-effiziente-methoden/"><u>Erstellen Einer Datenwiederherstellungsliste Mit CMD Unter Windows 11/10/8/7: Zwei Effiziente Methoden</u></a></li>
-<li><a href="https://win-guides.techidaily.com/fehlerbehebung-und-effektive-strategien-zur-uberwindung-von-systemwiederherstellungsproblemen-in-windows-7/"><u>Fehlerbehebung Und Effektive Strategien Zur Überwindung Von Systemwiederherstellungsproblemen in Windows 7</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-vivo-v29e-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Vivo V29e</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-top-youtube-spotlight-key-influences-on-your-viewership-position/"><u>In 2024, Top YouTube Spotlight Key Influences on Your Viewership Position</u></a></li>
-<li><a href="https://win-guides.techidaily.com/lost-das-problem-mit-dem-unsichtbaren-ssd-in-windows-1111-entlarven-sie-die-ursache-und-befolgen-sie-diese-vier-schritte-fur-den-fortschritt/"><u>Löst Das Problem Mit Dem Unsichtbaren SSD in Windows 11/11 - Entlarven Sie Die Ursache Und Befolgen Sie Diese Vier Schritte Für Den Fortschritt</u></a></li>
-<li><a href="https://win-guides.techidaily.com/probleme-beim-einrichten-der-onedrive-ordner-synchronisation-warum-kann-die-verbindung-nicht-beendet-werden/"><u>Probleme Beim Einrichten Der OneDrive-Ordner-Synchronisation: Warum Kann Die Verbindung Nicht Beendet Werden?</u></a></li>
-<li><a href="https://win-guides.techidaily.com/schaffe-ihr-sicheres-system-backup-in-windows-11-muhelos-fuhren-sie-sie-durch-die-top-freigiebigen-methoden/"><u>Schaffe Ihr Sicheres System-Backup in Windows 11 Mühelos - Führen Sie Sie Durch Die Top-Freigiebigen Methoden!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-issue-of-receiving-numbers-instead-of-names-in-messaging-apps/"><u>Solving the Issue of Receiving Numbers Instead of Names in Messaging Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-and-personalize-windows-11-files-via-added-movecopy/"><u>Streamline and Personalize Windows 11 Files via Added 'Move'/'Copy'</u></a></li>
-<li><a href="https://win-guides.techidaily.com/troubleshooting-acer-system-repair-why-altplusf10-key-combination-fails/"><u>Troubleshooting Acer System Repair: Why Alt+F10 Key Combination Fails</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-elevate-your-cinematography-skills-editing-and-sharing-360-videos-on-youtube/"><u>[New] 2024 Approved Elevate Your Cinematography Skills Editing and Sharing 360° Videos on YouTube</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-sony-fdr-x1000v-action-camera-complete-review/"><u>[New] 2024 Approved Sony FDR-X1000V Action Camera Complete Review</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-detailed-instructions-maximizing-mobizen-record-functionality-for-2024/"><u>[New] Detailed Instructions Maximizing Mobizen Record Functionality for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-unleashing-your-funny-bone-a-stepwise-guide-to-making-memes-on-9gag/"><u>[Updated] In 2024, Unleashing Your Funny Bone A Stepwise Guide to Making Memes on 9GAG</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1728473954835-404/"><u>「404違いの理由と回避法」</u></a></li>
+<li><a href="https://win-guides.techidaily.com/windowstestdisk/"><u>在不同版本的Windows系统中，有效地使用TestDisk恢复丢失文件的快速指南</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capturing-closer-action-tips-for-zooming-in-on-videoleap-for-2024/"><u>Capturing Closer Action Tips for Zooming In on Videoleap for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-your-strugnents-with-red-screen-expert-troubleshooting-steps-revealed/"><u>End Your Strugnents with RED Screen - Expert Troubleshooting Steps Revealed</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-speak-with-ease-simple-pubg-sound-tweaks/"><u>In 2024, Speak with Ease Simple PUBG Sound Tweaks</u></a></li>
+<li><a href="https://win-guides.techidaily.com/overcoming-challenges-in-windows-server-backup-process-disk-formatting-failures-corrected/"><u>Overcoming Challenges in Windows Server Backup Process: Disk Formatting Failures Corrected</u></a></li>
+<li><a href="https://win-guides.techidaily.com/sd-sd/"><u>SDカードを修復する自由ソフトウェアのガイド - 「フォーマット後のSDカードデータ回収法」</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleash-creativity-with-these-10-ae-text-setups-for-2024/"><u>Unleash Creativity with These 10 AE Text Setups for 2024</u></a></li>
 </ul></div>
 
