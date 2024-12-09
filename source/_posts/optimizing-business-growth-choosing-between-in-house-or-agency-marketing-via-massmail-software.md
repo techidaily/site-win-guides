@@ -1,7 +1,7 @@
 ---
 title: Optimizing Business Growth - Choosing Between In-House or Agency Marketing via MassMail Software
-date: 2024-11-27T17:30:16.723Z
-updated: 2024-12-01T01:44:58.488Z
+date: 2024-12-05T17:49:37.663Z
+updated: 2024-12-09T03:53:20.266Z
 tags:
   - product
 categories:
@@ -36,6 +36,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -44,6 +48,10 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
@@ -51,7 +59,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -66,21 +74,17 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -90,9 +94,17 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -106,17 +118,9 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,21 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-essential-tips-for-youtube-audio-optimization-for-2024/"><u>[New] Essential Tips for YouTube Audio Optimization for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-unlock-slow-momentum-a-filmmakers-tale-on-instagram-for-2024/"><u>[New] Unlock Slow Momentum A Filmmaker’s Tale on Instagram for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-key-principles-for-powerful-video-testimonial-production/"><u>[Updated] Key Principles for Powerful Video Testimonial Production</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/applecare-plus-essentials-top-5-reasons-to-sign-up-for-it/"><u>AppleCare Plus Essentials: Top 5 Reasons to Sign Up for It</u></a></li>
-<li><a href="https://win-guides.techidaily.com/come-riavviare-la-procedura-settore-dopo-settore-un-approccio-dettagliato/"><u>Come Riavviare La Procedura Settore Dopo Settore: Un Approccio Dettagliato</u></a></li>
-<li><a href="https://win-guides.techidaily.com/crafting-confidence-in-your-subscribers-the-art-of-trustworthy-email-marketing-using-massmail/"><u>Crafting Confidence in Your Subscribers: The Art of Trustworthy Email Marketing Using MassMail</u></a></li>
-<li><a href="https://win-guides.techidaily.com/essential-seo-tech-stacks-for-boosting-your-b2b-visibility-spotlight-on-seo-powersuite/"><u>Essential SEO Tech Stacks for Boosting Your B2B Visibility - Spotlight on SEO PowerSuite</u></a></li>
-<li><a href="https://win-guides.techidaily.com/guide-de-restauration-des-fichiers-supprimes-dans-un-environnement-windows-server/"><u>Guide De Restauration Des Fichiers Supprimés Dans Un Environnement Windows Server</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-the-experts-guide-quick-removal-of-your-youtube-comments/"><u>In 2024, The Expert's Guide Quick Removal of Your Youtube Comments</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-the-secrets-to-engaging-youtube-live-thumbnails/"><u>In 2024, Unveiling the Secrets to Engaging YouTube Live Thumbnails</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-novices-blueprint-for-efficient-audio-track-mixing-in-adobe-premiere-pro-for-2024/"><u>New The Novices Blueprint for Efficient Audio Track Mixing in Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/partition-cloning-with-aomei-backupper-easy-and-effective-techniques-explained/"><u>Partition Cloning with AOMEI Backupper: Easy & Effective Techniques Explained</u></a></li>
-<li><a href="https://win-guides.techidaily.com/recuperacao-de-arquivos-baixados-descartados-por-engano-no-windows-1011/"><u>Recuperação De Arquivos Baixados Descartados Por Engano No Windows 10/11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/solution-found-fixing-the-igfxem-module-failure-issue/"><u>Solution Found: Fixing the 'IgfxEM Module Failure' Issue</u></a></li>
-<li><a href="https://win-guides.techidaily.com/top-11-evolving-strategies-in-personal-branding-on-social-media-insights-from-2011-edition-unveiling-the-first-half/"><u>Top 11 Evolving Strategies in Personal Branding on Social Media: Insights From 2011 Edition - Unveiling the First Half</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-iphone-cam-how-to-get-back-the-sharp-focus-you-need/"><u>Troubleshooting iPhone Cam: How to Get Back the Sharp Focus You Need!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-optimizing-video-clarity-with-youtube-tools/"><u>[New] 2024 Approved Optimizing Video Clarity with YouTube Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-discover-the-ultimate-top-5-iphone-applications-for-podcasts/"><u>[Updated] 2024 Approved Discover the Ultimate Top 5 iPhone Applications for Podcasts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-rescue-absent-watch-thumbnail-icon/"><u>[Updated] 2024 Approved Rescue Absent Watch Thumbnail Icon</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-uniting-your-conference-and-youtube-google-meet-broadcast-steps/"><u>[Updated] 2024 Approved Uniting Your Conference and YouTube Google Meet Broadcast Steps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-10-subtitle-editing-software-online/"><u>[Updated] Premier 10 Subtitle Editing Software Online</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sony-xperia-xz-premium-high-res-video-capabilities-analyzed/"><u>2024 Approved Sony Xperia XZ Premium High-Res Video Capabilities Analyzed</u></a></li>
+<li><a href="https://win-guides.techidaily.com/boost-your-system-why-and-how-to-upgrade-your-pc-hardware-for-maximum-efficiency-with-yl-computing-solutions/"><u>Boost Your System: Why and How to Upgrade Your PC Hardware for Maximum Efficiency with YL Computing Solutions</u></a></li>
+<li><a href="https://win-guides.techidaily.com/exploring-the-objectives-behind-chinas-great-leap-forward-a-deep-dive-into-historical-goals-guided-by-yl-tech-solutions/"><u>Exploring The Objectives Behind China's Great Leap Forward: A Deep Dive Into Historical Goals - Guided by YL Tech Solutions</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-to-adjust-configuration-options-for-your-antivirus-a-guide-on-tweaking-windows-defender-parameters-yl-computing/"><u>How to Adjust Configuration Options for Your Antivirus: A Guide on Tweaking Windows Defender Parameters - YL Computing</u></a></li>
+<li><a href="https://win-guides.techidaily.com/mouse-malfunction-mastery-expert-advice-for-perfect-performance-by-yl-software-experts/"><u>Mouse Malfunction Mastery: Expert Advice for Perfect Performance by YL Software Experts</u></a></li>
+<li><a href="https://win-guides.techidaily.com/the-impact-of-the-boxer-uprising-on-contemporary-chinese-political-landscape-insights-by-yl-computing/"><u>The Impact of the Boxer Uprising on Contemporary Chinese Political Landscape - Insights by YL Computing</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-preventing-forza-horizon-5-from-crashing-on-your-computer/"><u>Troubleshooting Tips: Preventing Forza Horizon 5 From Crashing on Your Computer</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/sh-creativity-filming-and-editing-on-the-go-with-a-phone-for-2024/"><u>Unleash Creativity Filming & Editing on the Go with a Phone for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/windows-alarm-creation-tutorial-by-yl-software-how-to-wake-up-on-time-digitally/"><u>Windows Alarm Creation Tutorial by YL Software: How to Wake Up On Time Digitally!</u></a></li>
+<li><a href="https://win-guides.techidaily.com/yl-computings-enchanting-love-inspired-wallpapers-transform-your-screens-with-timeless-beauty/"><u>YL Computing's Enchanting Love-Inspired Wallpapers: Transform Your Screens with Timeless Beauty</u></a></li>
 </ul></div>
 
