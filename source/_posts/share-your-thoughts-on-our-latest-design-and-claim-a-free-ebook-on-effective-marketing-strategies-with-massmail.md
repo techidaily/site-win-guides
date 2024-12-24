@@ -1,7 +1,7 @@
 ---
 title: Share Your Thoughts on Our Latest Design & Claim a Free eBook on Effective Marketing Strategies with MassMail
-date: 2024-11-25T03:12:16.248Z
-updated: 2024-12-01T00:44:49.471Z
+date: 2024-12-17T04:37:42.700Z
+updated: 2024-12-24T08:45:26.836Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -33,7 +37,7 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s engaging
@@ -47,6 +51,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -74,16 +82,12 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
@@ -98,17 +102,9 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -119,7 +115,7 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,21 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-assessing-camera-multicam-systems-in-modern-living-spaces/"><u>[New] Assessing Camera Multicam Systems in Modern Living Spaces</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-optimal-speech-recognition-for-silent-input/"><u>[New] Optimal Speech Recognition for Silent Input</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-diligent-duplication-in-the-world-of-insta-for-2024/"><u>[Updated] Diligent Duplication in the World of Insta for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-expert-tips-for-hiring-best-film-makers/"><u>[Updated] In 2024, Expert Tips for Hiring Best Film Makers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-insight-into-lgs-360-camera-updates-and-features-for-todays-photographers/"><u>[Updated] Insight Into LG's 360 Camera Updates and Features for Today's Photographers</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1-seamless-methods-transitioning-your-contacts-from-one-ipad-to-another/"><u>1. Seamless Methods: Transitioning Your Contacts From One iPad to Another</u></a></li>
-<li><a href="https://win-guides.techidaily.com/iphone7/"><u>如何将计算机上的照片传输到iPhone—7步骤指南解码方法</u></a></li>
-<li><a href="https://win-guides.techidaily.com/come-possono-essere-salvaguardati-gli-appunti-adesivi-su-windows-1011-guida-completa/"><u>Come Possono Essere Salvaguardati Gli Appunti Adesivi Su Windows 10/11 - Guida Completa</u></a></li>
-<li><a href="https://win-guides.techidaily.com/comprehensive-step-by-step-manual-on-restoring-your-maxtor-hard-disk-drives/"><u>Comprehensive Step-by-Step Manual on Restoring Your Maxtor Hard Disk Drives</u></a></li>
-<li><a href="https://win-guides.techidaily.com/exploring-emeditors-rich-functionality-with-various-key-combinations/"><u>Exploring EmEditor's Rich Functionality with Various Key Combinations</u></a></li>
-<li><a href="https://win-guides.techidaily.com/how-can-i-retrieve-items-removed-from-the-recycle-bin-in-windows/"><u>How Can I Retrieve Items Removed From the Recycle Bin in Windows?</u></a></li>
-<li><a href="https://win-info.techidaily.com/how-can-i-successfully-redownload-and-update-my-windows-pcs-graphics-card-drivers-insights-from-yl-computing/"><u>How Can I Successfully Redownload and Update My Windows PC's Graphics Card Drivers – Insights From YL Computing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/most-reliable-iphones-podcast-services-for-2024/"><u>Most Reliable iPhones Podcast Services for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/step-into-success-10-pivotal-steps-for-exceptional-smm-achievement/"><u>Step Into Success 10 Pivotal Steps for Exceptional SMM Achievement</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-v30-pro-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo V30 Pro Device</u></a></li>
-<li><a href="https://win-guides.techidaily.com/verfahren-fur-die-zuverlassige-zuweisung-von-arbeitsspeicher-bei-windows-11-3-schritte/"><u>Verfahren Für Die Zuverlässige Zuweisung Von Arbeitsspeicher Bei Windows 11 (3 Schritte)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-cross-platform-content-transfer-youtube-meets-facebook/"><u>[New] In 2024, Cross-Platform Content Transfer YouTube Meets Facebook</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-beginners-handbook-to-igtv-mastery-for-2024/"><u>[New] The Beginner's Handbook to IGTV Mastery for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-streamlining-video-sharing-between-twitter-and-tumblr/"><u>[Updated] 2024 Approved Streamlining Video Sharing Between Twitter and Tumblr</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-ultimate-method-for-recorded-instagram-stories/"><u>[Updated] The Ultimate Method for Recorded Instagram Stories</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-discover-the-safest-video-call-options-for-your-smartphone-or-tablet/"><u>2024 Approved Discover the Safest Video Call Options for Your Smartphone or Tablet</u></a></li>
+<li><a href="https://win-guides.techidaily.com/can-you-rely-on-windows-defender-for-virus-protection-uncover-the-truth-with-yl-computings-guide/"><u>Can You Rely on Windows Defender for Virus Protection? Uncover the Truth with YL Computing's Guide</u></a></li>
+<li><a href="https://win-guides.techidaily.com/ensuring-seamless-integration-overcoming-hardware-incompatibilities-tips-from-yl-tech-experts/"><u>Ensuring Seamless Integration: Overcoming Hardware Incompatibilities - Tips From YL Tech Experts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/facebooks-favorites-top-10-viral-music-videos-guide-for-2024/"><u>Facebook's Favorites TOP 10 Viral Music Videos Guide for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oneplus-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On OnePlus Device</u></a></li>
+<li><a href="https://win-guides.techidaily.com/master-windows-quick-access-learn-to-create-filefolder-shortcuts-with-yl-software-essentials/"><u>Master Windows Quick Access: Learn to Create File/Folder Shortcuts with YL Software Essentials</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quick-diy-tricks-for-professional-quality-homemade-films/"><u>Quick DIY Tricks for Professional-Quality Homemade Films</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/speedy-techniques-for-converting-srt-files-into-text-format/"><u>Speedy Techniques for Converting SRT Files Into Text Format</u></a></li>
+<li><a href="https://win-guides.techidaily.com/trouble-free-data-restoration-with-windows-expert-tips-from-yl-software-solutions/"><u>Trouble-Free Data Restoration with Windows: Expert Tips From YL Software Solutions</u></a></li>
+<li><a href="https://win-guides.techidaily.com/troubleshooting-slow-network-card-performance-tips-and-solutions-from-yl-computing/"><u>Troubleshooting Slow Network Card Performance: Tips & Solutions From YL Computing</u></a></li>
 </ul></div>
 
