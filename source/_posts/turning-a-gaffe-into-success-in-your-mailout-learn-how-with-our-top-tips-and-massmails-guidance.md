@@ -1,7 +1,7 @@
 ---
 title: Turning a Gaffe Into Success in Your Mailout? Learn How with Our Top Tips and Massmail's Guidance!
-date: 2024-12-21T10:01:11.184Z
-updated: 2024-12-24T04:10:04.322Z
+date: 2024-12-22T20:01:01.799Z
+updated: 2024-12-29T17:39:59.179Z
 tags:
   - product
 categories:
@@ -18,9 +18,17 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -37,7 +45,7 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -66,10 +74,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -79,12 +83,16 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -94,21 +102,17 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-detailed-protocols-for-filming-films-across-multiplatform-systems/"><u>[New] 2024 Approved Detailed Protocols for Filming Films Across Multiplatform Systems</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-mastering-nvidia-screenshot-capture/"><u>[New] 2024 Approved Mastering NVIDIA Screenshot Capture</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/trategies-for-amplifying-your-yt-viewership-quickly-for-2024/"><u>[New] Strategies for Amplifying Your YT Viewership Quickly for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-subscription-wins-unlock-monetization-benefits-for-2024/"><u>[Updated] Subscription Wins Unlock Monetization Benefits for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-complete-laptop-recording-manual-dell-edition/"><u>[Updated] The Complete Laptop Recording Manual Dell Edition</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/1-windows-11-photos-app-a-comprehensive-guide-to-video-editing-techniques/"><u>1. Windows 11 Photos App: A Comprehensive Guide to Video Editing Techniques</u></a></li>
-<li><a href="https://win-guides.techidaily.com/2010-social-media-insights-for-smbs-achievements-and-usage-statistics-powered-by-massmail-solutions/"><u>2010 Social Media Insights for SMBs: Achievements and Usage Statistics Powered by MassMail Solutions</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-boost-engagement-with-tailored-templates-for-video-info/"><u>2024 Approved Boost Engagement with Tailored Templates for Video Info</u></a></li>
-<li><a href="https://win-guides.techidaily.com/avoid-missed-sales-master-the-no-sale-feature-in-massmailer-software/"><u>Avoid Missed Sales: Master the 'No Sale' Feature in MassMailer Software</u></a></li>
-<li><a href="https://win-guides.techidaily.com/effective-strategies-and-insights-for-acing-job-interviews-with-massmails-expert-solutions/"><u>Effective Strategies & Insights for Acing Job Interviews with MassMail's Expert Solutions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-honor-x8b-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Honor X8b For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/marketing-mastery-how-massmail-helps-grow-your-contact-database-tips-from-the-mmsw-blog/"><u>Marketing Mastery: How Massmail Helps Grow Your Contact Database - Tips From the MMSW Blog</u></a></li>
-<li><a href="https://win-guides.techidaily.com/massmail-pro-unleash-powerful-email-campaigns-and-supercharge-your-outreach-efforts/"><u>MassMail Pro: Unleash Powerful Email Campaigns and Supercharge Your Outreach Efforts!</u></a></li>
-<li><a href="https://article-helps.techidaily.com/quick-and-simple-facial-masking-in-photos-for-2024/"><u>Quick & Simple Facial Masking in Photos for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/revolutionizing-data-protection-with-dell-emcs-advanced-backup-solutions-for-enhanced-security-and-trustworthiness/"><u>Revolutionizing Data Protection with Dell EMC's Advanced Backup Solutions for Enhanced Security and Trustworthiness</u></a></li>
-<li><a href="https://win-guides.techidaily.com/the-impact-of-utilizing-gratis-lexicon-on-email-campaigns-insights-using-massmail/"><u>The Impact of Utilizing Gratis Lexicon on Email Campaigns - Insights Using Massmail</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-making-your-steam-controller-work-again-under-windows-os/"><u>Troubleshoot: Making Your Steam Controller Work Again Under Windows OS</u></a></li>
-<li><a href="https://win-guides.techidaily.com/tutorial-jemputan-pintasan-cara-mengembalikan-data-dari-hdd-yang-teruji/"><u>Tutorial Jemputan Pintasan: Cara Mengembalikan Data Dari Hdd Yang Teruji</u></a></li>
-<li><a href="https://win-guides.techidaily.com/windows-daten-sichern-professionelle-tipps-und-tricks-mit-aomei-backupper-anwendung/"><u>Windows Daten Sichern - Professionelle Tipps Und Tricks Mit AOMEI Backupper Anwendung</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-investigating-profit-per-viewer-engagement-on-video-platforms/"><u>[New] Investigating Profit per Viewer Engagement on Video Platforms</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-break-through-noise-effective-utilization-of-video-templates-for-2024/"><u>[Updated] Break Through Noise Effective Utilization of Video Templates for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/aomei-backup-discover-your-data-protection-hero/"><u>AOMEI Backup: Discover Your Data Protection Hero</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/beat-the-doldrums-10-must-play-games-for-entertainment/"><u>Beat the Doldrums: 10 Must-Play Games for Entertainment</u></a></li>
+<li><a href="https://win11.techidaily.com/blueprint-for-dominance-in-windows-appbrowser-arena/"><u>Blueprint for Dominance in Windows' App/Browser Arena</u></a></li>
+<li><a href="https://win-guides.techidaily.com/comparing-vmware-vsphere-editions-key-differences-and-introductory-guide/"><u>Comparing VMware vSphere Editions: Key Differences & Introductory Guide</u></a></li>
+<li><a href="https://win-guides.techidaily.com/composite-resins-have-lower-thermal-conductivity-but-may-still-cause-sensitivity-due-to-polymerization-shrinkage-or-inadequate-curing/"><u>Composite Resins Have Lower Thermal Conductivity but May Still Cause Sensitivity Due to Polymerization Shrinkage or Inadequate Curing.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-to-successfully-overcome-windows-nixs-persistent-black-and-white-display-problem-a-comprehensive-guide-with-7-proven-strategies/"><u>How to Successfully Overcome Windows Nix's Persistent Black and White Display Problem: A Comprehensive Guide with 7 Proven Strategies</u></a></li>
+<li><a href="https://win-guides.techidaily.com/improving-windows-11-performance-by-expanding-storage-6-effective-methods/"><u>Improving Windows 11 Performance by Expanding Storage: 6 Effective Methods</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/master-the-art-of-swift-srt-to-text-transformation-for-2024/"><u>Master the Art of Swift SRT to Text Transformation for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-index-modification/"><u>Mastering Windows Index Modification</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-for-setting-up-wake-on-lan-on-windows-11-systems/"><u>Step-by-Step Tutorial for Setting Up Wake-on-LAN on Windows 11 Systems</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209787096-9781616145866-the-science-of-ghosts/"><u>The Science of Ghosts | Free Book</u></a></li>
+<li><a href="https://win-guides.techidaily.com/top-cloning-tools-fur-festplatten-bestimmt-fur-windows-11-10-8-and-7/"><u>Top Cloning Tools Für Festplatten - Bestimmt Für Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-are-bingchatgpt-crypto-scam-tokens-and-how-can-you-spot-them/"><u>What Are BingChatGPT Crypto Scam Tokens and How Can You Spot Them?</u></a></li>
+<li><a href="https://win-guides.techidaily.com/wie-man-onedrive-erfolgreich-von-der-windows-11-umgebung-deinstalliert-vier-effektive-strategien/"><u>Wie Man OneDrive Erfolgreich Von Der Windows 11-Umgebung Deinstalliert: Vier Effektive Strategien</u></a></li>
+<li><a href="https://win-guides.techidaily.com/windows-11-kiernkopfanleitung-schnelle-bootbares-image-auf-usb-klonieren/"><u>Windows 11 KIERNKOPFANLEITUNG: Schnelle, Bootbares Image Auf USB Klonieren</u></a></li>
+<li><a href="https://win-guides.techidaily.com/wirelessly-moving-your-tunes-the-ultimate-guide-to-iphone-to-iphone-bluetooth-music-transfers/"><u>Wirelessly Moving Your Tunes: The Ultimate Guide to iPhone-to-iPhone Bluetooth Music Transfers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "2010 Social Media Insights for SMBs: Achievements and Usage Statistics Powered by MassMail Solutions"
-date: 2024-12-21T03:37:54.324Z
-updated: 2024-12-23T18:34:57.132Z
+date: 2024-12-26T23:46:49.875Z
+updated: 2024-12-29T20:59:16.352Z
 tags:
   - product
 categories:
@@ -18,13 +18,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -36,13 +36,13 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -58,10 +58,6 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -74,16 +70,24 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
@@ -93,6 +97,10 @@ If you use several types of media to promote your campaign, use a different keyw
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -106,10 +114,6 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
@@ -117,10 +121,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,19 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-initiating-engagement-start-your-live-on-instagram/"><u>[Updated] In 2024, Initiating Engagement Start Your Live on Instagram</u></a></li>
-<li><a href="https://games-able.techidaily.com/4-reasons-why-microsoft-reward-points-need-to-improve-on-xbox/"><u>4 Reasons Why Microsoft Reward Points Need to Improve on Xbox</u></a></li>
-<li><a href="https://win-guides.techidaily.com/etapes-simples-pour-reinitialiser-un-patch-windows-terres-10-guide-complet/"><u>Étapes Simples Pour Réinitialiser Un Patch Windows Terres 10 : Guide Complet</u></a></li>
-<li><a href="https://win-guides.techidaily.com/guia-facil-y-paso-a-paso-para-duplicar-un-disco-duro-usando-un-pendrive-bootable/"><u>Guía Fácil Y Paso a Paso Para Duplicar Un Disco Duro Usando Un Pendrive Bootable</u></a></li>
-<li><a href="https://win-guides.techidaily.com/guide-facile-creer-un-itineraire-rapide-depuis-une-base-de-donnees-collective-mise-en-place-anterieurement/"><u>Guide Facile : Créer Un Itinéraire Rapide Depuis Une Base De Données Collective Mise en Place Antérieurement</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-dreamlight-valley-game-crashes-6-proven-fixes/"><u>How to Stop Dreamlight Valley Game Crashes: 6 Proven Fixes</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-nokia-xr21-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Nokia XR21? Try These Fixes</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-from-scripts-to-subscribers-mastering-the-production-of-engaging-educational-videos-for-youtube/"><u>In 2024, From Scripts to Subscribers Mastering the Production of Engaging Educational Videos for YouTube</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-enter-the-ispoofer-discord-server-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, How to enter the iSpoofer discord server On Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-apple-iphone-11-pro-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on Apple iPhone 11 Pro online without jailbreak</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-directdraw-fixes-in-windows-10-and-11/"><u>Mastering DirectDraw Fixes in Windows 10 & 11</u></a></li>
-<li><a href="https://win-guides.techidaily.com/outlookplus/"><u>Outlook郵件空間飽和時的高效修復策略+防止重要文檔丟失的保護方法</u></a></li>
-<li><a href="https://win-guides.techidaily.com/quick-guide-to-securely-saving-your-windows-11-os-and-documents-master-both-traditional-and-modern-approaches/"><u>Quick Guide to Securely Saving Your Windows 11 OS & Documents - Master Both Traditional and Modern Approaches!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-updating-and-repairing-asus-pce-ac56-drivers-for-windows-users-windows-11-8-and-ps-7/"><u>The Ultimate Guide to Updating and Repairing ASUS PCE-AC56 Drivers for Windows Users (Windows 11, 8 & Ps 7)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-4k-resolution-unveiled-in-chroma-focused-lenses-for-2024/"><u>[New] 4K Resolution Unveiled in Chroma-Focused Lenses for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-virtually-vivacious-top-humorous-memes-for-the-metaverse-enthusiasts/"><u>[Updated] Virtually Vivacious Top Humorous Memes for the Metaverse Enthusiasts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-selecting-the-superior-hexacopters/"><u>2024 Approved Selecting the Superior HexaCopters</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-honor-play-8t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Honor Play 8T without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1728501725598-onedrive/"><u>如何在OneDrive上完成数据恢复：精准操作方法解析</u></a></li>
+<li><a href="https://win-guides.techidaily.com/como-restaurar-la-copia-de-seguridad-de-windows-a-un-nuevo-equipo-con-hardware-diferente-o-igual/"><u>Cómo Restaurar La Copia De Seguridad De Windows a Un Nuevo Equipo Con Hardware Diferente O Igual</u></a></li>
+<li><a href="https://win-guides.techidaily.com/daftar-langkah-jelajah-windows-memfasilitasi-perpindahan-folder-antara-komputer-dalam-beberapa-tik-amal/"><u>Daftar Langkah Jelajah Windows: Memfasilitasi Perpindahan Folder Antara Komputer Dalam Beberapa Tik Amal</u></a></li>
+<li><a href="https://win-guides.techidaily.com/ecco-come-recuperare-i-driver-perduti-utilizza-le-funzionalita-di-risoluzione-problemi-in-windows-modi-3/"><u>Ecco Come Recuperare I Driver Perduti: Utilizza Le Funzionalità Di Risoluzione Problemi in Windows [Modi 3]</u></a></li>
+<li><a href="https://win-guides.techidaily.com/guida-passo-passo-al-ripristino-delle-impostazioni-predefinite-in-windows-11/"><u>Guida Passo-Passo Al Ripristino Delle Impostazioni Predefinite in Windows 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-asus-rog-phone-8-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Asus ROG Phone 8 Prowith/without a PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-poco-m6-pro-4g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Poco M6 Pro 4G Location | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/instant-remedies-for-gopro-memory-issues-secure-your-data-fast/"><u>Instant Remedies for GoPro Memory Issues - Secure Your Data Fast!</u></a></li>
+<li><a href="https://win-guides.techidaily.com/quick-guide-clone-windows-query/"><u>Quick Guide: Clone Windows # Query</u></a></li>
+<li><a href="https://games-able.techidaily.com/safe-steam-ensuring-fun-without-fears/"><u>Safe Steam: Ensuring Fun Without Fears</u></a></li>
+<li><a href="https://discover-help.techidaily.com/solution-pour-surcharger-la-memoire-avec-le-gestionnaire-de-fenetres-bureau-sous-windows-11/"><u>Solution Pour Surcharger La Mémoire Avec Le Gestionnaire De Fenêtres Bureau Sous Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-samsung-galaxy-f04-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Samsung Galaxy F04 Location | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/wiederherstellen-sie-ihre-verlorene-excel-daten-erfolgreichste-methoden-um-eine-auf-dem-desktop-fehlende-datei-zu-finden/"><u>Wiederherstellen Sie Ihre Verlorene Excel-Daten: Erfolgreichste Methoden, Um Eine Auf Dem Desktop Fehlende Datei Zu Finden!</u></a></li>
+<li><a href="https://win-guides.techidaily.com/wiederherstellung-von-laufwerksdatenspeicherung-auf-windows-10-einfuhrung-in-die-verwendung-von-myrecover/"><u>Wiederherstellung Von Laufwerksdatenspeicherung Auf Windows 10: Einführung in Die Verwendung Von MyRecover</u></a></li>
 </ul></div>
 

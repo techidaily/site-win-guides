@@ -1,7 +1,7 @@
 ---
 title: Why You Can't Ignore Blogs in Your Marketing Plans - Tips From MassMail Software
-date: 2024-12-20T07:19:58.209Z
-updated: 2024-12-23T19:38:20.672Z
+date: 2024-12-24T21:05:36.930Z
+updated: 2024-12-29T19:47:15.867Z
 tags:
   - product
 categories:
@@ -18,9 +18,17 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -31,10 +39,6 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -49,7 +53,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -71,7 +75,7 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
@@ -87,7 +91,7 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
@@ -98,17 +102,9 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -130,6 +126,10 @@ Written by:
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Emily Bronte
 
  Back to blog
@@ -149,17 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-maximize-your-tiktok-pro-editors-playbook/"><u>[New] Maximize Your TikTok Pro Editor's Playbook</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-selfie-verification-examining-its-impact-on-social-platforms-for-2024/"><u>[New] Selfie Verification Examining Its Impact on Social Platforms for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-conquer-social-media-with-savvy-fb-video-choices/"><u>[Updated] Conquer Social Media with Savvy FB Video Choices</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-troubleshooting-stalled-video-sending-on-iphone-and-androids-messenger/"><u>[Updated] In 2024, Troubleshooting Stalled Video Sending on iPhone and Android's Messenger</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-videocaptureelite-10-expert-technical-review/"><u>[Updated] In 2024, VideoCaptureElite 10 Expert Technical Review</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-improving-remote-work-communications-with-4-strategies/"><u>2024 Approved Improving Remote Work Communications with #4 Strategies</u></a></li>
-<li><a href="https://win-guides.techidaily.com/descargue-e-instale-el-programa-de-respaldo-de-aomei-para-servidores-windows/"><u>Descargue E Instale El Programa De Respaldo De AOMEI Para Servidores Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gratuita-conversion-de-archivos-video-mp4-a-mxf-en-linea-con-movavi/"><u>Gratuita Conversión De Archivos Video: MP4 a MXF en Línea Con Movavi</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-itel-p40-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Itel P40</u></a></li>
-<li><a href="https://win-guides.techidaily.com/rescue-deleted-pictures-on-onedrive-expert-strategies-for-image-retrieval/"><u>Rescue Deleted Pictures on OneDrive: Expert Strategies for Image Retrieval</u></a></li>
-<li><a href="https://win-guides.techidaily.com/revolutionize-your-brands-reach-learn-the-best-podcasting-tactics-for-impactful-marketing-in-any-era/"><u>Revolutionize Your Brand's Reach: Learn the Best Podcasting Tactics for Impactful Marketing in Any Era!</u></a></li>
-<li><a href="https://win-guides.techidaily.com/ultimate-tutorial-seamlessly-sharing-videos-from-ios-device-to-a-windows-11windows-10-desktop-system/"><u>Ultimate Tutorial: Seamlessly Sharing Videos From iOS Device to a Windows 11/Windows 10 Desktop System</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-directing-the-stream-a-close-look-at-obs-vs-twitch-studio/"><u>[New] In 2024, Directing the Stream A Close Look at OBS vs Twitch Studio</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-secrets-to-save-your-favorite-igtv-on-phoneandroid/"><u>[Updated] 2024 Approved Secrets to Save Your Favorite IGTV on Phone/Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-precision-techniques-for-capturing-the-essence-of-moments-with-gopro-for-2024/"><u>[Updated] Precision Techniques for Capturing the Essence of Moments with GoPro for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-elevate-your-video-watchlist-activate-av1-on-youtube/"><u>2024 Approved Elevate Your Video Watchlist - Activate AV1 on YouTube</u></a></li>
+<li><a href="https://win-guides.techidaily.com/come-ripristinare-i-tuoi-documenti-da-una-flash-drive-danneggiata-guida-completa/"><u>Come Ripristinare I Tuoi Documenti Da Una Flash Drive Danneggiata: Guida Completa</u></a></li>
+<li><a href="https://win-guides.techidaily.com/effortless-cloning-of-disk-partitions-top-free-tools-and-simple-techniques/"><u>Effortless Cloning of Disk Partitions: Top Free Tools and Simple Techniques</u></a></li>
+<li><a href="https://win-guides.techidaily.com/effortless-windows-365-cloud-backup-and-recovery-safe-streamlined-saving-solutions/"><u>Effortless Windows 365 Cloud Backup & Recovery: Safe, Streamlined Saving Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/employing-microsofts-techniques-for-error-exploration-on-w11/"><u>Employing Microsoft's Techniques for Error Exploration on W11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-pro-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Pro To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/kostenlose-abspielung-von-dvds-mit-dem-neuen-kostengunstigen-dekoder-ohne-download-notwendigkeit/"><u>Kostenlose Abspielung Von DVDs Mit Dem Neuen, Kostengünstigen Dekoder Ohne Download-Notwendigkeit</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/online-tool-for-seamless-transformation-of-aac-audio-to-mp3-at-no-cost-using-movavis-solutions/"><u>Online Tool for Seamless Transformation of AAC Audio to MP3 at No Cost - Using Movavi's Solutions</u></a></li>
+<li><a href="https://win-guides.techidaily.com/simplified-guide-on-configuring-your-new-ipad-mini-6th-5th-and-4th-generation/"><u>Simplified Guide on Configuring Your New iPad Mini (6Th, 5Th, & 4Th Generation)</u></a></li>
+<li><a href="https://win-guides.techidaily.com/solving-the-missing-dll-issues-in-windows-11-discover-13-reliable-methods-for-restoration-and-repair/"><u>Solving the Missing DLL Issues in Windows 11 – Discover 13 Reliable Methods for Restoration and Repair</u></a></li>
+<li><a href="https://win-guides.techidaily.com/wiederherstellung-von-geloschten-dokumenten-aus-dem-papierkorb-5-effektive-strategien/"><u>Wiederherstellung Von Gelöschten Dokumenten Aus Dem Papierkorb: 5 Effektive Strategien</u></a></li>
 </ul></div>
 

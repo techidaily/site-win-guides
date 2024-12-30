@@ -1,7 +1,7 @@
 ---
 title: "Marketing Mastery: How Massmail Helps Grow Your Contact Database - Tips From the MMSW Blog"
-date: 2024-12-17T16:57:47.612Z
-updated: 2024-12-23T22:26:07.435Z
+date: 2024-12-22T20:56:08.512Z
+updated: 2024-12-29T17:22:55.388Z
 tags:
   - product
 categories:
@@ -18,16 +18,12 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -71,20 +67,20 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -102,17 +98,21 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,21 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-subtle-techniques-for-edgenuity-free-study-time/"><u>[Updated] Subtle Techniques for Edgenuity-Free Study Time</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-transform-your-instagram-vocal-identity-today-for-2024/"><u>[Updated] Transform Your Instagram Vocal Identity Today for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1728482026946-usb/"><u>如何使用三招方便地刪除和恢復USB存取卡上的数据</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1728481075905-ssd/"><u>新型SSD的初始设置指南：格式化步骤应该做什么？</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/bogus-msi-pedals-packed-with-malware-risks-involved-in-compromised-burnout-software/"><u>Bogus MSI Pedals Packed With Malware; Risks Involved in Compromised Burnout Software</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/capture-speeches-and-load-onto-ppt-clips/"><u>Capture Speeches and Load Onto PPT Clips</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/convert-your-cds-into-high-quality-wav-files-3-easy-and-gratuitous-methods/"><u>Convert Your CDs Into High-Quality WAV Files: 3 Easy & Gratuitous Methods</u></a></li>
-<li><a href="https://win-guides.techidaily.com/datenubertragung-und-kopie-von-hddssd-datentrageren-nach-samsung-ssd-modellen/"><u>Datenübertragung Und Kopie Von HDD/SSD-Datenträgeren Nach Samsung SSD Modellen</u></a></li>
-<li><a href="https://win-guides.techidaily.com/iphone-backup-ohne-icloud-3-effiziente-methoden-zur-datensicherung/"><u>IPhone Backup Ohne iCloud: 3 Effiziente Methoden Zur Datensicherung</u></a></li>
-<li><a href="https://win-guides.techidaily.com/localisation-de-vos-dossiers-decouvrez-ou-sont-stockes-tous-vos-documents/"><u>Localisation De Vos Dossiers : Découvrez Où Sont Stockés Tous Vos Documents</u></a></li>
-<li><a href="https://win-guides.techidaily.com/quick-fixes-for-resolving-hulu-error-code-137-instantly/"><u>Quick Fixes for Resolving Hulu Error Code 137 Instantly</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-not-recognizing-installed-games-how-to-fix-it/"><u>Steam Not Recognizing Installed Games? How to Fix It</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/streamlined-video-download-from-linkedin-using-this-top-6-app-selection/"><u>Streamlined Video Download From LinkedIn Using This Top 6 App Selection</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-xiaomi-redmi-note-13-proplus-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Xiaomi Redmi Note 13 Pro+ 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://win-guides.techidaily.com/top-ranking-options-for-phoenix-area-data-restoration-and-support-solutions/"><u>Top Ranking Options for Phoenix Area Data Restoration and Support Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/what-to-watch-on-max-right-now-see-our-expert-recommendations/"><u>What to Watch on Max Right Now? See Our Expert Recommendations</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-orbital-design-kit-for-2024/"><u>[Updated] Orbital Design Kit for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-pro-level-mac-photo-tips-unveiling-five-expert-techniques-for-2024/"><u>[Updated] Pro-Level Mac Photo Tips Unveiling Five Expert Techniques for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1-how-to-retrieve-accidentally-removed-files-from-microsoft-teams-a-simple-guide/"><u>1. How to Retrieve Accidentally Removed Files From Microsoft Teams: A Simple Guide</u></a></li>
+<li><a href="https://fox-making.techidaily.com/windows-1111onedrive/"><u>既定でWindows 11/11でOneDrive同期手順 - 簡単なステップ</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/before-you-invest-in-a-wearable-gadget-5-key-points-on-smartwatch-selection/"><u>Before You Invest in a Wearable Gadget: 5 Key Points on Smartwatch Selection</u></a></li>
+<li><a href="https://win-guides.techidaily.com/create-your-own-setup-in-emeditor-a-fully-configurable-text-editing-experience/"><u>Create Your Own Setup in EmEditor - A Fully Configurable Text Editing Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-firmware-and-drivers-for-your-hp-deskjet-3700-easy-guide-to-downloading/"><u>Get the Latest Firmware and Drivers for Your HP DeskJet 3700 - Easy Guide to Downloading</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-to-reinstate-windows-11s-versioning-log-on-fresh-installations-using-simple-alternative-methods/"><u>How to Reinstate Windows 11'S Versioning Log on Fresh Installations Using Simple Alternative Methods</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-strategies-to-integrate-b-roll-footage-seamlessly/"><u>In 2024, Strategies to Integrate B-Roll Footage Seamlessly</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/inshot-vs-other-editors-comprehensive-analysis/"><u>InShot vs Other Editors Comprehensive Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/line-t17260306955285/"><u>LINE経由で画質のロスなし、高解像度ビデオ送信</u></a></li>
+<li><a href="https://win-guides.techidaily.com/ricostruire-i-tuoi-documenti-di-google-eliminati-recentemente-in-4-modi-facili/"><u>Ricostruire I Tuoi Documenti Di Google Eliminati Recentemente in 4 Modi Facili</u></a></li>
+<li><a href="https://win-guides.techidaily.com/tecnica-para-desbloquear-datos-despues-del-formato-rapido-en-un-disco-rigido-como-hacerlo/"><u>Técnica Para Desbloquear Datos Después Del Formato Rapido en Un Disco Rígido: Cómo Hacerlo</u></a></li>
 </ul></div>
 

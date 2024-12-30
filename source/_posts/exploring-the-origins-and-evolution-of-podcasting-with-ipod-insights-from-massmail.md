@@ -1,7 +1,7 @@
 ---
 title: Exploring the Origins and Evolution of Podcasting with iPod - Insights From Massmail
-date: 2024-12-21T17:03:38.615Z
-updated: 2024-12-24T03:38:51.713Z
+date: 2024-12-22T21:47:22.512Z
+updated: 2024-12-30T00:31:39.832Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
@@ -27,7 +27,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -59,7 +59,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -74,21 +74,17 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -110,17 +106,21 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,22 +149,14 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-framing-brilliance-nikon-d500s-high-definition-journey/"><u>[New] Framing Brilliance Nikon D500's High-Definition Journey</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-bandicam-navigating-its-full-potential/"><u>[Updated] 2024 Approved The Ultimate Guide to Bandicam Navigating Its Full Potential</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-video-embedding-for-dynamic-online-articles-for-2024/"><u>[Updated] Free Video Embedding for Dynamic Online Articles for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-full-exploration-of-picsarts-new-features/"><u>[Updated] Full Exploration of PicsArt's New Features</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-unresolved-problem-viewing-videos-on-sony-a6400/"><u>[Updated] Unresolved Problem Viewing Videos on Sony A6400</u></a></li>
-<li><a href="https://win-guides.techidaily.com/decouvrez-la-cle-du-succes-en-gestion-des-fichiers-sur-windows-n-4-solutions-pratiques-et-une-astuce-secrete-pour-les-problemes-de-partage/"><u>Découvrez La Clé Du Succès en Gestion Des Fichiers Sur Windows N : 4 Solutions Pratiques Et Une Astuce Secrète Pour Les Problèmes De Partage</u></a></li>
-<li><a href="https://win-guides.techidaily.com/elevate-your-ranking-game-with-top-seo-tools-beyond-surfer-mastering-the-art-of-seo-strategies-powersuite-pro/"><u>Elevate Your Ranking Game with Top SEO Tools Beyond Surfer: Mastering the Art of SEO Strategies | PowerSuite Pro</u></a></li>
-<li><a href="https://win-guides.techidaily.com/email-excellence-tactics-how-to-identify-and-remove-redundant-contacts-using-massmail-for-improved-campaign-engagement/"><u>Email Excellence Tactics: How to Identify and Remove Redundant Contacts Using Massmail for Improved Campaign Engagement</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/global-launch-accessing-the-power-of-artificial-intelligence-with-googles-new-universal-notepad/"><u>Global Launch: Accessing the Power of Artificial Intelligence with Google's New Universal Notepad</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-lava-yuva-2-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Lava Yuva 2 in Minutes | Dr.fone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/how-to-securely-back-up-windows-os-essential-techniques-for-effective-data-preservation/"><u>How to Securely Back Up Windows OS: Essential Techniques for Effective Data Preservation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-layering-yt-music-with-visual-expressions/"><u>In 2024, Layering YT Music with Visual Expressions</u></a></li>
-<li><a href="https://win-guides.techidaily.com/kombinieren-von-bildern-alle-versionen-zu-einem-einzigen-bild-zusammenfuhren/"><u>Kombinieren Von Bildern: Alle Versionen Zu Einem Einzigen Bild Zusammenführen</u></a></li>
-<li><a href="https://win-guides.techidaily.com/resmi-dan-efisien-cara-mengatur-folderyang-hilang-and-dihilangkan-pada-windows-11/"><u>Resmi Dan Efisien: Cara Mengatur Folderyang Hilang & Dihilangkan Pada Windows 11</u></a></li>
-<li><a href="https://win-guides.techidaily.com/step-by-step-guide-installing-an-ssd-on-your-acer-aspire-notebook-compatible-with-windows-11-8-7-and-xp/"><u>Step-by-Step Guide: Installing an SSD on Your Acer Aspire Notebook - Compatible with Windows 11, 8, 7 & XP</u></a></li>
-<li><a href="https://win-guides.techidaily.com/step-by-step-guide-upgrading-your-system-with-an-msi-gf-nvme-ssd/"><u>Step-by-Step Guide: Upgrading Your System with an MSI GF nVMe SSD</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-power-of-razer-blade-14-high-end-features-in-a-sleek-package-despite-its-costly-nature/"><u>Unveiling the Power of Razer Blade 14: High-End Features in a Sleek Package, Despite Its Costly Nature</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-top-4-platforms-for-free-skype-ringtones/"><u>[New] 2024 Approved Top 4 Platforms for Free Skype Ringtones</u></a></li>
+<li><a href="https://win-guides.techidaily.com/guida-completa-alle-applicazioni-perfette-per-ripristinare-il-crittografato-con-bitlocker-in-sistema-operativo-windows-versione-11-8-o-7/"><u>Guida Completa Alle Applicazioni Perfette per Ripristinare Il Crittografato Con BitLocker in Sistema Operativo Windows (Versione 11, 8 O 7)</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-xiaomi-redmi-k70-pro-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Xiaomi Redmi K70 Pro Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-understanding-igtv-shutdown/"><u>In 2024, Understanding IGTV Shutdown</u></a></li>
+<li><a href="https://win-guides.techidaily.com/maximizing-your-gopro-footage-top-ranked-sd-cards-in-depth-comparison-and-how-myrecover-changes-the-game/"><u>Maximizing Your GoPro Footage: Top-Ranked SD Cards, In-Depth Comparison, and How MyRecover Changes The Game</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/resolving-network-connectivity-problems-a-step-by-step-guide-from-yl-computings-experts/"><u>Resolving Network Connectivity Problems: A Step-by-Step Guide From YL Computing's Experts</u></a></li>
+<li><a href="https://win-guides.techidaily.com/seamless-cross-platform-file-synchronization-in-windows-10-8-and-7-a-step-by-step-guide/"><u>Seamless Cross-Platform File Synchronization in Windows 10, 8 & 7 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-your-epson-wf-express-printers-driver-on-a-windows-pc/"><u>Step-by-Step Guide: Updating Your Epson WF-eXpress Printer's Driver on a Windows PC</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1728476541470-windows-11-onedrive/"><u>Windows 11 OneDriveの自動バックアップ設定ガイド</u></a></li>
 </ul></div>
 
