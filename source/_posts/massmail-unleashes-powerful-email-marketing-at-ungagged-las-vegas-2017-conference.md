@@ -1,7 +1,7 @@
 ---
 title: MassMail Unleashes Powerful Email Marketing at UnGagged Las Vegas 2017 Conference
-date: 2025-01-13T16:59:49.533Z
-updated: 2025-01-21T00:43:32.034Z
+date: 2025-01-24T02:16:06.898Z
+updated: 2025-01-26T21:58:03.169Z
 tags:
   - product
 categories:
@@ -44,15 +44,15 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -70,33 +70,21 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -118,9 +106,17 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,19 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-cheats.techidaily.com/comment-resoudre-le-probleme-de-la-partition-efi-manquante-solutions-et-patchs/"><u>Comment Résoudre Le Problème De La Partition EFI Manquante : Solutions Et Patchs</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-quick-and-simple-4-ways-to-take-screenshots-on-chromebook/"><u>In 2024, Quick & Simple 4 Ways To Take Screenshots On Chromebook</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-viral-visuals-stories-of-success/"><u>In 2024, Viral Visuals Stories of Success</u></a></li>
-<li><a href="https://win-guides.techidaily.com/mastering-video-format-transformation-how-to-download-vrv-series-as-mp4avimov-files/"><u>Mastering Video Format Transformation: How to Download VRV Series as MP4/AVI/MOV Files</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/shut-down-chatgpts-data-collection/"><u>Shut Down ChatGPT's Data Collection</u></a></li>
-<li><a href="https://win-guides.techidaily.com/step-by-step-guide-converting-your-webpt-video-files-into-mp4-or-mov-format-on-pcmac/"><u>Step-by-Step Guide: Converting Your WebPT Video Files Into MP4 or MOV Format on PC/Mac</u></a></li>
-<li><a href="https://win-guides.techidaily.com/step-by-step-guide-downloading-botiss-academys-mac-and-windows-webinars/"><u>Step-by-Step Guide: Downloading Botiss Academy's Mac and Windows Webinars</u></a></li>
-<li><a href="https://win-guides.techidaily.com/step-by-step-tutorial-on-saving-instagram-tv-shows-for-later-enjoyment-without-internet-access/"><u>Step-by-Step Tutorial on Saving Instagram TV Shows for Later Enjoyment Without Internet Access</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-x100-pro-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Vivo X100 Pro Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-handiwork-horizon-introducing-gpt-4/"><u>The Handiwork Horizon: Introducing GPT-4</u></a></li>
-<li><a href="https://win-guides.techidaily.com/the-ultimate-technique-how-can-you-securely-acquire-and-save-videos-from-tubechop/"><u>The Ultimate Technique: How Can You Securely Acquire and Save Videos From TubeChop?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-how-to-resolve-d3dx933-dll-error-on-your-pc/"><u>Troubleshooting: How to Resolve 'D3dx9_#33#' DLL Error on Your PC</u></a></li>
-<li><a href="https://techidaily.com/unable-to-save-excel-2007-workbook-issue-fix-2024-stellar-by-stellar-guide/"><u>Unable to Save Excel 2007 Workbook Issue Fix 2024 | Stellar</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitter-reaction-videos-a-comprehensive-overview/"><u>[New] In 2024, Twitter Reaction Videos A Comprehensive Overview</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nique-stories-crafting-powerful-yt-narratives-for-2024/"><u>[New] Unique Stories Crafting Powerful YT Narratives for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-star-level-stabilization-tools-listed/"><u>[New] YouTube Star-Level Stabilization Tools Listed</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-the-ultimate-guide-10-tiktok-tactics/"><u>[Updated] In 2024, The Ultimate Guide 10 TikTok Tactics</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluray-non-display-issue-resolved-in-windows-11/"><u>BluRay Non-Display Issue Resolved in Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/brother-mfc-7860dw-inkjet-printer-software-installation-and-latest-updates-for-windows/"><u>Brother MFC-7860DW Inkjet Printer Software Installation and Latest Updates for Windows</u></a></li>
+<li><a href="https://win-guides.techidaily.com/comparing-vmware-vsphere-editions-key-differences-and-introductory-guide/"><u>Comparing VMware vSphere Editions: Key Differences & Introductory Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/download-gratuito-de-conversor-mp4-para-arquivos-em-3gp-movavi/"><u>Download Gratuito De Conversor MP4 Para Arquivos Em 3GP - Movavi</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-x-drfone-by-drfone-ios/"><u>How to Unlock iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/improving-windows-11-performance-by-expanding-storage-6-effective-methods/"><u>Improving Windows 11 Performance by Expanding Storage: 6 Effective Methods</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/wie-man-onedrive-erfolgreich-von-der-windows-11-umgebung-deinstalliert-vier-effektive-strategien/"><u>Wie Man OneDrive Erfolgreich Von Der Windows 11-Umgebung Deinstalliert: Vier Effektive Strategien</u></a></li>
+<li><a href="https://win-guides.techidaily.com/wirelessly-moving-your-tunes-the-ultimate-guide-to-iphone-to-iphone-bluetooth-music-transfers/"><u>Wirelessly Moving Your Tunes: The Ultimate Guide to iPhone-to-iPhone Bluetooth Music Transfers</u></a></li>
 </ul></div>
 
