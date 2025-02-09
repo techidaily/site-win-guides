@@ -1,7 +1,7 @@
 ---
 title: MassMail Unleashes Powerful Email Marketing at UnGagged Las Vegas 2017 Conference
-date: 2025-01-24T02:16:06.898Z
-updated: 2025-01-26T21:58:03.169Z
+date: 2025-02-01T17:24:03.531Z
+updated: 2025-02-08T20:51:02.726Z
 tags:
   - product
 categories:
@@ -21,6 +21,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -45,7 +49,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -53,6 +57,10 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -78,13 +86,13 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -94,29 +102,21 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,18 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitter-reaction-videos-a-comprehensive-overview/"><u>[New] In 2024, Twitter Reaction Videos A Comprehensive Overview</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nique-stories-crafting-powerful-yt-narratives-for-2024/"><u>[New] Unique Stories Crafting Powerful YT Narratives for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-star-level-stabilization-tools-listed/"><u>[New] YouTube Star-Level Stabilization Tools Listed</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-the-ultimate-guide-10-tiktok-tactics/"><u>[Updated] In 2024, The Ultimate Guide 10 TikTok Tactics</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bluray-non-display-issue-resolved-in-windows-11/"><u>BluRay Non-Display Issue Resolved in Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/brother-mfc-7860dw-inkjet-printer-software-installation-and-latest-updates-for-windows/"><u>Brother MFC-7860DW Inkjet Printer Software Installation and Latest Updates for Windows</u></a></li>
-<li><a href="https://win-guides.techidaily.com/comparing-vmware-vsphere-editions-key-differences-and-introductory-guide/"><u>Comparing VMware vSphere Editions: Key Differences & Introductory Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/download-gratuito-de-conversor-mp4-para-arquivos-em-3gp-movavi/"><u>Download Gratuito De Conversor MP4 Para Arquivos Em 3GP - Movavi</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-x-drfone-by-drfone-ios/"><u>How to Unlock iPhone X? | Dr.fone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/improving-windows-11-performance-by-expanding-storage-6-effective-methods/"><u>Improving Windows 11 Performance by Expanding Storage: 6 Effective Methods</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/wie-man-onedrive-erfolgreich-von-der-windows-11-umgebung-deinstalliert-vier-effektive-strategien/"><u>Wie Man OneDrive Erfolgreich Von Der Windows 11-Umgebung Deinstalliert: Vier Effektive Strategien</u></a></li>
-<li><a href="https://win-guides.techidaily.com/wirelessly-moving-your-tunes-the-ultimate-guide-to-iphone-to-iphone-bluetooth-music-transfers/"><u>Wirelessly Moving Your Tunes: The Ultimate Guide to iPhone-to-iPhone Bluetooth Music Transfers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-discord-broadcast-mastery-the-ultimate-guide-for-novices-and-pros-for-2024/"><u>[New] Discord Broadcast Mastery The Ultimate Guide for Novices and Pros for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-best-gif-creation-tools-reviewed-by-industry-vets-for-2024/"><u>[Updated] Best GIF Creation Tools Reviewed by Industry Vets for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-unmasking-how-to-locate-my-comments-posts-online/"><u>[Updated] Unmasking How To Locate My Comments Posts Online</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-breaking-language-barriers-with-these-top-20-video-translators/"><u>2024 Approved Breaking Language Barriers with These Top 20 Video Translators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/adrian-jones-appointed-as-new-chief-revenue-officer-at-abbyy/"><u>Adrian Jones Appointed as New Chief Revenue Officer at ABBYY</u></a></li>
+<li><a href="https://win-guides.techidaily.com/easy-steps-to-personalize-your-screen-saver-settings-in-the-windows-control-panel-yl-computing-tips-and-tricks/"><u>Easy Steps to Personalize Your Screen Saver Settings in the Windows Control Panel – YL Computing Tips & Tricks</u></a></li>
+<li><a href="https://win-guides.techidaily.com/ensuring-correct-connection-a-guide-to-power-cords-with-yl-computing-and-yl-software-solutions/"><u>Ensuring Correct Connection: A Guide to Power Cords with YL Computing and YL Software Solutions</u></a></li>
+<li><a href="https://facebook.techidaily.com/fourfold-tailoring-techniques-for-a-unique-social-media-feed/"><u>Fourfold Tailoring Techniques for a Unique Social Media Feed</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/global-viewer-count-triumphs-play-button-honors-for-2024/"><u>Global Viewer Count Triumphs Play Button Honors for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-non-responsive-laptop-trackpad-on-windows-10-8-and-7-troubleshooting-guide/"><u>How to Fix a Non-Responsive Laptop Trackpad on Windows 10, 8 & 7: Troubleshooting Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-finnish-online-optimal-learning-strategies/"><u>Mastering Finnish Online: Optimal Learning Strategies</u></a></li>
+<li><a href="https://win-guides.techidaily.com/resolving-windows-application-setup-problems-guidance-from-yl-computing/"><u>Resolving Windows Application Setup Problems - Guidance From YL Computing</u></a></li>
+<li><a href="https://win-guides.techidaily.com/stay-current-with-your-windows-11-update-tips-from-yl-computings-experts/"><u>Stay Current with Your Windows 11: Update Tips From YL Computing's Experts</u></a></li>
+<li><a href="https://win-guides.techidaily.com/unveiling-the-hidden-the-standard-position-of-the-windows-registry-explained/"><u>Unveiling the Hidden: The Standard Position of the Windows Registry Explained</u></a></li>
+<li><a href="https://win-guides.techidaily.com/yl-softwares-collection-of-handcrafted-pastel-indie-designs-for-your-space/"><u>YL Software's Collection of Handcrafted Pastel Indie Designs for Your Space</u></a></li>
 </ul></div>
 

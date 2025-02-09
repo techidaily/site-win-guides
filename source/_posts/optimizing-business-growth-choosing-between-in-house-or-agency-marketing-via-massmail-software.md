@@ -1,7 +1,7 @@
 ---
 title: Optimizing Business Growth - Choosing Between In-House or Agency Marketing via MassMail Software
-date: 2025-01-25T06:11:16.343Z
-updated: 2025-01-26T21:00:01.382Z
+date: 2025-02-03T20:57:35.102Z
+updated: 2025-02-09T01:22:30.214Z
 tags:
   - product
 categories:
@@ -18,13 +18,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -40,6 +40,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -54,10 +58,6 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -70,16 +70,12 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
@@ -90,6 +86,10 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
@@ -97,6 +97,10 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -107,16 +111,12 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -149,19 +149,16 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-security-victory-making-your-fb-available-again/"><u>[New] 2024 Approved Security Victory Making Your FB Available Again</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-video-construction-lab/"><u>[New] 2024 Approved Video Construction Lab</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-building-a-robust-spotify-advertising-foundation/"><u>[New] Building a Robust Spotify Advertising Foundation</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-premiere-pros-picks-professional-camera-stabilizers-reviewed/"><u>[New] Premiere Pros' Picks Professional Camera Stabilizers Reviewed</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/how-can-you-verify-your-computers-sound-card-performance-expert-tips-from-yl-computing/"><u>How Can You Verify Your Computer's Sound Card Performance? - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-guides.techidaily.com/identifying-the-root-cause-of-your-pc-crashes-and-random-restarts-insights-from-yl-computing/"><u>Identifying the Root Cause of Your PC Crashes and Random Restarts: Insights From YL Computing</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-how-to-create-youtube-intros-and-end-cards-free-and-easy/"><u>In 2024, How to Create YouTube Intros & End Cards - Free and Easy</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-how-to-seamlessly-incorporate-video-game-banners/"><u>In 2024, How to Seamlessly Incorporate Video Game Banners</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/online-voorbeelden-laten-ze-maken-3gpp-bestand-de-macht-van-gratis-conversie-movavi/"><u>Online Voorbeelden Laten Ze Maken: 3GPP-Bestand De Macht Van Gratis Conversie – Movavi</u></a></li>
-<li><a href="https://win-guides.techidaily.com/optimize-your-computers-memory-usage-with-expert-disk-space-management-strategies-by-yl-software/"><u>Optimize Your Computer’s Memory Usage with Expert Disk Space Management Strategies by YL Software</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/pruveeo-dashcam-f5-with-full-hd-recording-affordable-high-quality-reviews/"><u>Pruveeo Dashcam F5 with Full HD Recording - Affordable, High-Quality Reviews</u></a></li>
-<li><a href="https://win-guides.techidaily.com/quick-pc-performance-boost-top-tips-and-hacks-optimizing-your-system/"><u>Quick PC Performance Boost: Top Tips & Hacks - Optimizing Your System</u></a></li>
-<li><a href="https://win-guides.techidaily.com/windows-file-privacy-boosted-learn-the-simple-tricks-for-folder-password-security-cyber-safety-tips/"><u>Windows File Privacy Boosted: Learn the Simple Tricks for Folder Password Security – Cyber Safety Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-secrets-to-sustaining-high-view-count-in-youtube-videos/"><u>[New] Secrets to Sustaining High View Count in YouTube Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-skypes-sound-solution-purifying-your-talks/"><u>2024 Approved Skype's Sound Solution Purifying Your Talks</u></a></li>
+<li><a href="https://win-guides.techidaily.com/aomei-backupper-pro-ultimate-server-backup-solution/"><u>AOMEI Backupper Pro: Ultimate Server Backup Solution</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-15-cost-effective-online-photo-editing-platforms-for-2024/"><u>Discover 15 Cost-Effective Online Photo Editing Platforms for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-group-interaction-in-virtual-setups-via-gpt/"><u>Enhancing Group Interaction in Virtual Setups via GPT</u></a></li>
+<li><a href="https://win-guides.techidaily.com/hoe-snel-kan-je-een-vaste-web-site-heten-bestaat-door-quick-format-hard-disk-data-preparation-te-vergroten-bijgewerkt/"><u>Hoe Snel Kan Je Een Vaste Web-Site Heten Bestaat Door Quick Format Hard Disk Data Preparation Te Vergroten (Bijgewerkt)</u></a></li>
+<li><a href="https://win-guides.techidaily.com/mastering-the-art-of-iphone-contact-preservation-on-itunes-effective-methods/"><u>Mastering the Art of iPhone Contact Preservation on iTunes - Effective Methods</u></a></li>
+<li><a href="https://win-guides.techidaily.com/sichere-backups-schaffen-mit-externen-datentragern-das-optimale-mittel-zur-verfugungstellung-geschutzter-datenablage/"><u>Sichere Backups Schaffen Mit Externen Datenträgern: Das Optimale Mittel Zur Verfügungstellung Geschützter Datenablage.</u></a></li>
+<li><a href="https://win-guides.techidaily.com/ssd-zu-hdd-migrate-schritt-fur-schritt-anleitung-fur-den-datentransfer/"><u>SSD Zu HDD Migrate: Schritt-Für-Schritt-Anleitung Für Den Datentransfer</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-heavy-lift-uavs-for-global-industrial-use/"><u>Top Heavy-Lift UAVs for Global Industrial Use</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-to-do-when-your-vehicles-audio-goes-silent/"><u>What To Do When Your Vehicle's Audio Goes Silent</u></a></li>
 </ul></div>
 

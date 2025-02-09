@@ -1,7 +1,7 @@
 ---
 title: "Accelerate Subscriber Loyalty: Advanced Techniques for Earning Trust Through Opted-In Email Campaigns | PowerMail Pro Tutorial"
-date: 2025-01-16T05:20:32.643Z
-updated: 2025-01-21T05:39:01.116Z
+date: 2025-02-07T18:20:13.347Z
+updated: 2025-02-09T00:48:37.108Z
 tags:
   - product
 categories:
@@ -18,13 +18,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -47,10 +47,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -78,9 +74,17 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -90,29 +94,25 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,18 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-does-active-presenter-8-outperform-its-rivals/"><u>[New] 2024 Approved Does Active Presenter 8 Outperform Its Rivals?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-essential-8-in-virtual-reality-gaming/"><u>[New] 2024 Approved The Essential 8 in Virtual Reality Gaming</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-evaluating-hdr-tvs-does-aurora-hit-the-mark-for-2024/"><u>[New] Evaluating HDR TVs Does Aurora Hit the Mark for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-game-masters-and-youtube-earning-strategies-for-2024/"><u>[Updated] Game Masters & YouTube Earning Strategies for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-techniques-for-flawless-live-broadcasting-of-rl-games/"><u>[Updated] Techniques for Flawless Live Broadcasting of RL Games</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-mastering-content-delivery-uploading-and-sharing-videos-on-instagram-desktop/"><u>2024 Approved Mastering Content Delivery Uploading and Sharing Videos on Instagram Desktop</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1728465580989-windows-1110/"><u>有効なセットアップが見つからないというWindows 11/10でのエラー修正ガイド</u></a></li>
-<li><a href="https://win-guides.techidaily.com/esegui-il-backup-delle-tue-informazioni-vitali-con-facilita-utilizzando-aomei-backupper-assistenza-tecnica-247/"><u>Esegui Il Backup Delle Tue Informazioni Vitali Con Facilità Utilizzando AOMEI Backupper: Assistenza Tecnica 24/7</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-nokia-130-music-frp-by-drfone-android/"><u>How Can We Bypass Nokia 130 Music FRP?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-nubia-red-magic-9-pro-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/nt-impact-or-rapid-rhythm-youtube-shorts-vs-tiktok-for-quick-content-for-2024/"><u>Instant Impact or Rapid Rhythm YouTube Shorts Vs. TikTok for Quick Content for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/troubleshooting-the-disk-read-error-occurred-on-your-dell-pc-a-step-by-step-guide/"><u>Troubleshooting the 'Disk Read Error Occurred' On Your Dell PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-guides.techidaily.com/unlocking-windows-11-three-strategies-for-disabling-the-lock-screen/"><u>Unlocking Windows 11: Three Strategies for Disabling the Lock Screen</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-add-cinematic-shake-to-images-using-ps/"><u>[Updated] 2024 Approved Add Cinematic Shake to Images Using PS</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-digging-into-the-heart-of-recordcast-technology-for-2024/"><u>[Updated] Digging Into the Heart of RecordCast Technology for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-linkedin-luminaries-chatting-with-snapchat/"><u>[Updated] LinkedIn Luminaries Chatting with Snapchat</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-walkthrough-to-master-the-photo-cutout-capability-on-iphones-with-ios-16-tips-and-tricks-inside/"><u>A Comprehensive Walkthrough to Master the Photo Cutout Capability on iPhones with iOS 16 - Tips and Tricks Inside</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/calm-cadences-non-intrusive-audio-softening-techniques-for-2024/"><u>Calm Cadences Non-Intrusive Audio Softening Techniques for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/convert-files-to-mp3-at-no-cost-discover-the-ultimate-free-online-audio-to-mp3-converter-tool/"><u>Convert Files to MP3 at No Cost: Discover the Ultimate Free Online Audio-to-MP3 Converter Tool!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-of-lenovo-x1-carbon-drivers-for-windows-10-and-7-step-by-step-guide/"><u>Effortless Installation of Lenovo X1 Carbon Drivers for Windows 10 & 7 - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-guides.techidaily.com/free-guide-convert-your-favorite-songs-from-pandora-to-mp3-format/"><u>Free Guide: Convert Your Favorite Songs From Pandora to MP3 Format</u></a></li>
+<li><a href="https://win-guides.techidaily.com/hp-screenshot-mastery-techniques-for-all-your-pcs-and-tablets/"><u>HP Screenshot Mastery: Techniques for All Your PCs and Tablets</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://win-guides.techidaily.com/leading-free-video-editors-for-boosting-your-youtube-content/"><u>Leading Free Video Editors for Boosting Your YouTube Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212221330-solve-your-typing-troubles-in-windows-10-and-11-repair-broken-keyboard-buttons/"><u>Solve Your Typing Troubles in WINDOWS 10 and 11: Repair Broken Keyboard Buttons</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-guide-finding-and-downloading-premium-hd-soundtracks/"><u>Step-by-Step Guide: Finding & Downloading Premium HD Soundtracks</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-tutorial-on-transferring-iphone-footage-to-mac-top-seo-strategies/"><u>Step-by-Step Tutorial on Transferring iPhone Footage to Mac - Top SEO Strategies</u></a></li>
+<li><a href="https://win-guides.techidaily.com/ultimate-selection-of-free-downloadable-android-wallpapers/"><u>Ultimate Selection of Free Downloadable Android Wallpapers</u></a></li>
 </ul></div>
 
