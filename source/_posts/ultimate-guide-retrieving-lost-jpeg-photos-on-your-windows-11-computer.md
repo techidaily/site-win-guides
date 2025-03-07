@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Retrieving Lost JPEG Photos on Your Windows 11 Computer"
-date: 2025-02-01T17:31:29.757Z
-updated: 2025-02-08T21:08:10.981Z
+date: 2025-03-05T18:07:53.861Z
+updated: 2025-03-07T16:09:11.155Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb770114051bf7d548d3853a87e8edbdb.jpg
@@ -18,27 +18,15 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -73,10 +61,6 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -100,10 +84,6 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
@@ -165,10 +145,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -176,10 +152,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 [**Télécharger gratuiciel**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -198,18 +170,24 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-dive-into-the-world-of-youtube-on-facebook-video-content/"><u>[New] 2024 Approved Dive Into the World of YouTube on Facebook Video Content</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-top-talents-exceptional-instagram-hlv-artisans/"><u>[New] Top Talents Exceptional Instagram HLV Artisans</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-rediscover-lost-eyes-only-pics/"><u>[Updated] Rediscover Lost Eyes-Only Pics</u></a></li>
-<li><a href="https://win-guides.techidaily.com/can-you-rely-on-windows-defender-for-virus-protection-uncover-the-truth-with-yl-computings-guide/"><u>Can You Rely on Windows Defender for Virus Protection? Uncover the Truth with YL Computing's Guide</u></a></li>
-<li><a href="https://win-guides.techidaily.com/comprehensive-guide-to-correcting-missing-dll-files-on-windows-os-78-and-10-expert-advice-from-yl-software-solutions/"><u>Comprehensive Guide to Correcting Missing DLL Files on Windows OS (7,8 & 10) – Expert Advice From YL Software Solutions</u></a></li>
-<li><a href="https://win-data.techidaily.com/conversion-of-heic-photos-from-iphone-or-pc-to-jpg-using-dropbox-step-by-step-guide/"><u>Conversion of HEIC Photos From iPhone or PC to JPG Using Dropbox - Step-by-Step Guide</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/elevated-image-tale-crafting-package/"><u>Elevated Image Tale Crafting Package</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-sony-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Sony?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/mastering-display-preferences-unlock-the-full-potential-of-yl-software-with-customization-techniques/"><u>Mastering Display Preferences: Unlock the Full Potential of YL Software with Customization Techniques</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/887254-9781780991696-meeting-the-masters/"><u>Meeting the Masters | Free Book</u></a></li>
-<li><a href="https://win-guides.techidaily.com/understanding-the-contrast-system-restore-vs-system-image-recovery-explained-by-yl-computing/"><u>Understanding the Contrast: System Restore Vs. System Image Recovery Explained by YL Computing</u></a></li>
-<li><a href="https://win-guides.techidaily.com/yl-software-collection-authentic-egyptian-pyramids-animation-clips-background-images-and-keyframes-for-your-projects/"><u>YL Software Collection: Authentic Egyptian Pyramids Animation Clips, Background Images & Keyframes for Your Projects</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-gamings-finest-bike-battles-compiled-for-2024/"><u>[New] Gaming's Finest Bike Battles Compiled for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-the-perfect-youtube-channel-url-a-quick-guide-for-2024/"><u>[Updated] Crafting the Perfect YouTube Channel Url A Quick Guide for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1-transform-your-pc-the-essential-guide-on-upgrading-from-windows-home-to-professional-get-the-ultimate-features/"><u>1. Transform Your PC: The Essential Guide on Upgrading From Windows Home to Professional - Get the Ultimate Features!</u></a></li>
+<li><a href="https://win-guides.techidaily.com/beyond-competition-an-analysis-of-whether-bing-plans-to-remain-in-googles-shadow-according-to-zdnet-findings/"><u>Beyond Competition: An Analysis of Whether Bing Plans to Remain in Google's Shadow, According to ZDNet Findings</u></a></li>
+<li><a href="https://win-guides.techidaily.com/bing-and-google-is-there-a-truce-on-the-horizon-uncovered-analysis-infoworld/"><u>Bing and Google: Is There a Truce on the Horizon? Uncovered Analysis | InfoWorld</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-the-ideal-wrist-companion-google-pixel-watch-vs-apple-watch-series-9/"><u>Choosing the Ideal Wrist Companion: Google Pixel Watch Vs. Apple Watch Series 9</u></a></li>
+<li><a href="https://win-guides.techidaily.com/controversial-silent-release-by-microsoft-stirs-up-heated-debate-inside-the-buzzing-community-response/"><u>Controversial Silent Release by Microsoft Stirs Up Heated Debate - Inside the Buzzing Community Response</u></a></li>
+<li><a href="https://techtrends.techidaily.com/converter-de-mp3-para-mov-livre-e-online-usando-o-programa-gratuito-da-movavi/"><u>Converter De MP3 Para MOV Livre E Online - Usando O Programa Gratuito Da Movavi</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-the-mysteries-of-effective-youtube-keywords/"><u>Decoding the Mysteries of Effective YouTube Keywords</u></a></li>
+<li><a href="https://win-guides.techidaily.com/enhance-account-safety-with-2fa-a-step-by-step-guide-on-activating-multi-factor-protection-zdnet/"><u>Enhance Account Safety with 2FA: A Step-by-Step Guide on Activating Multi-Factor Protection | ZDNet</u></a></li>
+<li><a href="https://win-guides.techidaily.com/free-windows-11-upgrade-where-did-it-disappear-to/"><u>Free Windows 11 Upgrade: Where Did It Disappear To?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-vivo-g2-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Vivo G2 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-gen-alpha-ai-enhances-programmer-efficiency-insights-from-new-research-techworld/"><u>How Gen Alpha AI Enhances Programmer Efficiency: Insights From New Research | TechWorld</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-leading-edge-the-ultimate-15-camera-guide/"><u>In 2024, Leading Edge The Ultimate 15 Camera Guide</u></a></li>
+<li><a href="https://win-guides.techidaily.com/overcoming-persistent-azure-capacity-issues-solutions-for-cloud-users/"><u>Overcoming Persistent Azure Capacity Issues - Solutions for Cloud Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-pause-on-chatgpt-subscriptions-diving-deeper-into-the-shutdown-and-predicting-revival/"><u>The Pause on ChatGPT Subscriptions - Diving Deeper Into the Shutdown & Predicting Revival</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-ultimate-guide-stop-snippet-playback-on-youtube/"><u>The Ultimate Guide Stop Snippet Playback on YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-48-unmissable-gaming-discounts-on-cyber-monday-save-big-on-consoles-computers-and-more-technews/"><u>Top 48 Unmissable Gaming Discounts on Cyber Monday - Save Big on Consoles, Computers & More | TechNews</u></a></li>
+<li><a href="https://win-guides.techidaily.com/ultimate-guide-to-the-finest-windows-computers-thoroughly-tested-and-critiqued-zdnet/"><u>Ultimate Guide to the Finest Windows Computers - Thoroughly Tested & Critiqued | ZDNET</u></a></li>
 </ul></div>
 

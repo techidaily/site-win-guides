@@ -1,7 +1,7 @@
 ---
 title: "Guide Pratique : Comment Effectuer Une Capture D'Écran Sur Votre Ordinateur Portable Ou Bureau"
-date: 2025-01-19T23:42:52.301Z
-updated: 2025-01-20T18:16:42.485Z
+date: 2025-03-03T16:38:38.490Z
+updated: 2025-03-07T16:08:44.771Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/82946b1471bda0a94f0756d1b1276fee19eddaa4566634791522addb362bdc3b.jpg
@@ -28,20 +28,12 @@ Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Table des matières** 
 
 1. [Logiciel de sauvegarde NAS Buffalo pour système Windows](https://tools.techidaily.com/ubackup/products/)
 2. [Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/)
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
@@ -50,10 +42,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 À ce stade, vous avez besoin d'un logiciel de sauvegarde NAS Buffalo, de préférence le plus simple. Les Buffalo LinkStation et Buffalo TeraStation sont équipés d'un lecteur NAS pour vous aider à sauvegarder des photos, des vidéos, de la musique, etc. ou à les partager, mais la plupart des appareils ne prennent en charge que le système Linux et certains sont disponibles sur Windows Server 2016\. Que faire si vous utilisez Windows 7/8/10/11 ?
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
@@ -72,10 +60,6 @@ AOMEI Backupper Standard est un logiciel de sauvegarde tout-en-un pour Windows 1
 Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet à la majorité des utilisateurs de comprendre rapidement le logiciel et de l'utiliser facilement. Veuillez le télécharger et l'installer sur votre ordinateur.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
@@ -105,17 +89,9 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -148,10 +124,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -198,20 +170,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-how-to-archive-your-nintendo-switch-gameplay-for-2024/"><u>[New] How to Archive Your Nintendo Switch Gameplay for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/cost-of-monitoring-your-digital-wallet-with-yl-computings-coin-balancer-app/"><u>Cost of Monitoring Your Digital Wallet with YL Computing’s Coin Balancer App</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-the-perpetual-load-solutions-for-when-minecraft-gets-stuck/"><u>Fixing the Perpetual Load: Solutions for When Minecraft Gets Stuck</u></a></li>
-<li><a href="https://win-guides.techidaily.com/handling-strange-sounds-from-your-computer-expert-tips-by-yl-computing/"><u>Handling Strange Sounds From Your Computer - Expert Tips by YL Computing</u></a></li>
-<li><a href="https://win-guides.techidaily.com/high-quality-honda-nsx-wallpaper-collection-from-yl-softwares-expert-programming-team/"><u>High-Quality Honda NSX Wallpaper Collection From YL Software's Expert Programming Team</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-motorola-moto-g73-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Motorola Moto G73 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-samsung-galaxy-f14-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Samsung Galaxy F14 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-nokia-c12-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Nokia C12 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/mocking-sponge-bob-meme-generator-for-2024/"><u>Mocking Sponge Bob Meme Generator for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/protect-your-files-with-ease-expert-tips-on-windows-backups-through-the-control-panel/"><u>Protect Your Files with Ease: Expert Tips on Windows Backups Through the Control Panel</u></a></li>
-<li><a href="https://win-guides.techidaily.com/quick-pc-performance-boost-top-tips-and-hacks-optimizing-your-system/"><u>Quick PC Performance Boost: Top Tips & Hacks - Optimizing Your System</u></a></li>
-<li><a href="https://win-guides.techidaily.com/solving-display-adapter-issues-on-windows-a-comprehensive-guide-tips-from-yl-computing/"><u>Solving Display Adapter Issues on Windows: A Comprehensive Guide - Tips From YL Computing</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-for-garmin-venu-mastering-247-health-and-exercise-insights/"><u>The Ultimate Review for Garmin Venu - Mastering 24/7 Health and Exercise Insights</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/understanding-todays-crypto-valuation-a-comprehensive-guide-by-yl-computing/"><u>Understanding Today's Crypto Valuation: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-top-non-gopro-waterproof-cameras-a-detailed-list/"><u>[New] Top Non-GoPro Waterproof Cameras A Detailed List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-chart-your-course-navigating-the-waters-of-youtube-subscription-surges/"><u>[Updated] 2024 Approved Chart Your Course Navigating the Waters of YouTube Subscription Surges</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-prime-streamer-gear-essential-livestream-tools-unveiled-for-2024/"><u>[Updated] Prime Streamer Gear Essential Livestream Tools Unveiled for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726028500779-gif-gif/"><u>素早く動画からGIFへ: GIFへのダイナミックな変換方法</u></a></li>
+<li><a href="https://win-guides.techidaily.com/create-mobile-readable-ebooks-on-your-iphone-using-flipped-pages-interactive-and-html5-based-flipbuildercom/"><u>Create Mobile Readable eBooks on Your iPhone Using Flipped Pages - Interactive and HTML5 Based [FlipBuilder.com]</u></a></li>
+<li><a href="https://win-guides.techidaily.com/effortless-multilingual-and-feature-rich-templates-for-enhanced-readability-discover-at-flipbuildercom/"><u>Effortless Multilingual & Feature-Rich Templates for Enhanced Readability - Discover at FlipBuilder.com</u></a></li>
+<li><a href="https://win-guides.techidaily.com/enhance-reader-engagement-by-auto-playing-videos-on-arrival-discover-how-with-flipbuilder/"><u>Enhance Reader Engagement by Auto-Playing Videos on Arrival - Discover How with FlipBuilder</u></a></li>
+<li><a href="https://win-guides.techidaily.com/ensure-error-free-content-with-pre-conversion-text-editing-services-by-flipbuildercom/"><u>Ensure Error-Free Content with Pre-Conversion Text Editing Services by FlipBuilder.com</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-to-add-special-characters-during-text-input-in-flipbuilder/"><u>How to Add Special Characters During Text Input in FlipBuilder</u></a></li>
+<li><a href="https://win-guides.techidaily.com/incorporating-a-table-of-contents-in-your-e-books-with-flipbuilder/"><u>Incorporating a Table of Contents in Your E-Books with FlipBuilder</u></a></li>
+<li><a href="https://win-guides.techidaily.com/integrating-your-site-with-flipbook-using-flipbuilder-a-step-by-step-guide/"><u>Integrating Your Site with FlipBook Using FlipBuilder: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-keyboard-resurrection-fixing-when-letters-dont-appear/"><u>Mastering Keyboard Resurrection: Fixing When Letters Don't Appear</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-into-the-future-of-entertainment-tcls-q-and-s-class-expands-now-featuring-19-cutting-edge-models/"><u>Step Into the Future of Entertainment – TCL's Q and S Class Expands, Now Featuring 19 Cutting-Edge Models</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-lack-of-audio-during-zoom-calls-on-your-computer/"><u>Troubleshooting Steps: Resolving Lack of Audio During Zoom Calls on Your Computer</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/king-creative-power-for-youtube-intros-in-imovie/"><u>Unlocking Creative Power for YouTube Intros in iMovie</u></a></li>
 </ul></div>
 

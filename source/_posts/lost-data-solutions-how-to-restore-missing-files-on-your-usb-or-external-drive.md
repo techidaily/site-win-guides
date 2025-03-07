@@ -1,7 +1,7 @@
 ---
 title: "Lost Data Solutions: How to Restore Missing Files on Your USB or External Drive"
-date: 2025-01-16T00:29:00.632Z
-updated: 2025-01-21T03:34:53.215Z
+date: 2025-03-01T17:30:11.412Z
+updated: 2025-03-07T16:25:16.679Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/4d611c850bdcc5debbd6a1052184df209b3a831159d406c41f1b205c0d3edd38.jpg
@@ -47,10 +47,6 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 My HP is not starting up. I’ve received the ‘winload efi is missing or corrupt’. All the troubleshooting steps require me to go into startup settings but in order for me to do that, I have to press F8 however when I do press it my screen flashes and it doesn’t take me there (this is on the blue ‘recovery’ screen with the error message). Can anyone help me please. I need to get back into my laptop. I can’t afford to reinstall the OS. Too much important files and data that I didn’t back up unfortunately.
 
 [![Winload.efi Error 0xc0000225](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/winload-efi-error-0xc0000225.png "Winload.efi Error 0xc0000225")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If you meet similar problems that you can’t find winload.efi, you have been in the right place. Here is a collection of methods to solve ‘winload.efi missing Windows 11 issue. Let’s start to go!
 
@@ -98,17 +94,9 @@ Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click
 
 [![Choose Bootable Media](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/choose-bootable-media.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After creating bootable media (just a few minutes), boot your computer from this media, then AOMEI Backupper will run automatically, then go to **Tools** \-> **Windows Shell Command**. And you can restore system image or disk image created by AOMEI Backupper. 
 
 [![Windows Shell Command](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/windows-shell-command.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2\. Disable Secure Boot
 
@@ -123,10 +111,6 @@ Step 2\. Navigate to the Secure Boot option in BIOS, located under tabs like **B
 Step 3\. In the **Secure Boot** interface, change it from **Enabled** to **Disable**.
 
 [![Disable Secure Boot](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/articles/images/winload-efi-missing-after-clone-5740/secure-boot.jpg "Disable Secure Boot")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4\. Save the changes and exit the UEFI settings.
 
@@ -176,10 +160,6 @@ If the "sfc /scannow" command fails to repair the Winload.efi missing file, proc
 
 Exercise caution to avoid potential system errors when using this command.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 5\. Repair EFI Boot Loader
 
 To repair the EFI boot loader and address corrupted or missing winload.efi errors, follow these steps:
@@ -214,10 +194,6 @@ Step 4\. Assign the partition a drive letter. Enter each of the following comman
 
 Step 5\. Restart your computer after successfully repairing the EFI loader.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Suggestion: backup your crucial loading files in advance
 
 A reliable backup software like [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) allows you to create a bootable disc and system backup, preventing startup loop errors and addressing various computer failures. In the event of a system crash, you can restore the system image to a new hard drive and regain normal functionality. AOMEI Backupper Standard offers numerous advantages for seamless backup and recovery processes.
@@ -234,15 +210,7 @@ You just need to download this software and install it. Open it and navigate to 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-20.svg) 100% Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -259,10 +227,6 @@ Was the provided information useful? Your vote is important to us!
 [Maggie](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Maggie is a technical editor from AOMEI and troubleshoots technical problems against data protection. She has received professional and systematic technical training. With a focus on user experience, security, and problem-solving, she always puts herself in the readers' shoes and provides them with valuable technical insights.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -283,10 +247,6 @@ Help Us Improve This Article
 Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Free Get AOMEI Backupper Now
 
@@ -313,15 +273,20 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-professional-grade-grid-tools-for-striking-instagram-posts/"><u>[Updated] 2024 Approved Professional-Grade Grid Tools for Striking Instagram Posts</u></a></li>
-<li><a href="https://blog-min.techidaily.com/advanced-image-creation-exploring-the-capabilities-of-a-newly-forked-stable-diffusion-tool-for-seamless-tiling/"><u>Advanced Image Creation: Exploring the Capabilities of a Newly-Forked Stable Diffusion Tool for Seamless Tiling</u></a></li>
-<li><a href="https://win-guides.techidaily.com/asian-stock-market-surge-chinas-stimulus-and-feds-policy-support-drives-straits-times-index-up-by-075-insights-from-yl-computing-and-yl-software/"><u>Asian Stock Market Surge: China's Stimulus & Fed's Policy Support Drives Straits Times Index Up by 0.75% - Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/free-video-converter-for-bangbros-content-convert-and-save-in-mp4-mov-or-avi-format/"><u>Free Video Converter for Bangbros Content - Convert and Save in MP4, MOV, or AVI Format</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-ace-10-drones-for-photography-and-cinematic-prowess/"><u>In 2024, Ace 10 Drones for Photography & Cinematic Prowess</u></a></li>
-<li><a href="https://win-guides.techidaily.com/navigating-new-frontiers-in-digital-assets-expert-tips-from-yl-computing-on-keeping-current-with-cryptocurrency-innovations/"><u>Navigating New Frontiers in Digital Assets: Expert Tips From YL Computing on Keeping Current with Cryptocurrency Innovations</u></a></li>
-<li><a href="https://win-guides.techidaily.com/selecting-the-right-ram-a-comprehensive-guide-for-your-system-needs-yl-computing/"><u>Selecting the Right RAM: A Comprehensive Guide for Your System Needs [YL Computing]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/steams-voice-chat-malfunctions-top-tips-to-restore-functionality/"><u>Steam's Voice Chat Malfunctions: Top Tips to Restore Functionality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-transforming-your-epub-files-into-plain-text-documents/"><u>Step-by-Step Guide: Transforming Your EPUB Files Into Plain Text Documents</u></a></li>
-<li><a href="https://win-guides.techidaily.com/step-by-step-guide-updating-your-pcs-configuration-via-windows-control-panel-yl-solutions/"><u>Step-by-Step Guide: Updating Your PC's Configuration via Windows Control Panel - YL Solutions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-spark-paves-way-but-will-mavic-air-top-the-gaming-scene/"><u>[New] 2024 Approved Spark Paves Way, But Will Mavic Air Top the Gaming Scene?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-joke-junction-ultimate-free-comic-templates-for-2024/"><u>[New] Joke Junction Ultimate Free Comic Templates for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-syncing-sounds-to-visuals-online/"><u>[New] Syncing Sounds to Visuals Online</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-steps-for-modifying-your-social-network-cover-pictorial-for-2024/"><u>[Updated] Steps for Modifying Your Social Network Cover Pictorial for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/enforcing-order-a-tutorial-on-facebook-group-policies/"><u>Enforcing Order: A Tutorial on Facebook Group Policies</u></a></li>
+<li><a href="https://win-guides.techidaily.com/former-microsoft-boss-steve-ballmer-confesses-lacking-bravery-insights-from-zdnet/"><u>Former Microsoft Boss Steve Ballmer Confesses Lacking Bravery: Insights From ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/microsofts-subtle-feature-update-sparks-major-backlash-insights-from-zdnet/"><u>Microsoft's Subtle Feature Update Sparks Major Backlash - Insights From ZDNet</u></a></li>
+<li><a href="https://win-guides.techidaily.com/new-windows-11-update-automatically-syncing-with-onedrive-what-you-need-to-know/"><u>New Windows 11 Update Automatically Syncing with OneDrive: What You Need to Know!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pro-android-photography-hacks-and-applications/"><u>Pro Android Photography Hacks and Applications</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-the-dreaded-dark-a-comprehensive-guide-on-repairing-windows-11s-black-screen-problem/"><u>Resolving the Dreaded Dark: A Comprehensive Guide on Repairing Windows 11'S Black Screen Problem</u></a></li>
+<li><a href="https://win-guides.techidaily.com/unveiling-microsofts-new-ai-feature-revolutionize-your-workflow-with-their-innovative-copy-and-paste-functionality-insider-tips-on-usage-techcrunch/"><u>Unveiling Microsoft's New AI Feature: Revolutionize Your Workflow with Their Innovative Copy-and-Paste Functionality - Insider Tips on Usage | TechCrunch</u></a></li>
+<li><a href="https://win-guides.techidaily.com/unveiling-the-plans-of-top-tech-firms-for-juneteenth-commemoration/"><u>Unveiling the Plans of Top Tech Firms for Juneteenth Commemoration</u></a></li>
+<li><a href="https://win-guides.techidaily.com/upgrade-your-microsoft-surface-pros-storage-cost-effectively-with-our-simple-guide/"><u>Upgrade Your Microsoft Surface Pro's Storage Cost-Effectively with Our Simple Guide</u></a></li>
+<li><a href="https://win-guides.techidaily.com/urgent-challenge-ahead-for-microsofts-windows-11-launch-just-one-year-remaining-techdigest/"><u>Urgent Challenge Ahead for Microsoft's Windows 11 Launch - Just One Year Remaining | TechDigest</u></a></li>
 </ul></div>
 

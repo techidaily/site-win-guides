@@ -1,7 +1,7 @@
 ---
 title: Does Transferring Windows 10 via USB Erase All Data?
-date: 2025-01-13T21:10:37.020Z
-updated: 2025-01-20T16:39:02.066Z
+date: 2025-03-05T17:20:51.781Z
+updated: 2025-03-07T17:25:12.701Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282754802f441bb66f0c3a3719.jpg
@@ -24,10 +24,6 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
@@ -39,10 +35,6 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
 NAS Buffalo est la solution idéale pour la protection des données et peut facilement éviter les défaillances informatiques causées par une attaque de virus, un plantage système, une corruption de disque, etc. Cependant, il peut également se bloquer et entraîner une perte de données dans ces situations. Vous ne souhaitez probablement pas perdre vos données, il est donc judicieux de sauvegarder votre NAS Buffalo sur un disque dur externe, une clé USB ou d'autres périphériques.
@@ -50,10 +42,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 À ce stade, vous avez besoin d'un logiciel de sauvegarde NAS Buffalo, de préférence le plus simple. Les Buffalo LinkStation et Buffalo TeraStation sont équipés d'un lecteur NAS pour vous aider à sauvegarder des photos, des vidéos, de la musique, etc. ou à les partager, mais la plupart des appareils ne prennent en charge que le système Linux et certains sont disponibles sur Windows Server 2016\. Que faire si vous utilisez Windows 7/8/10/11 ?
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
@@ -93,10 +81,6 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
@@ -105,10 +89,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
@@ -116,10 +96,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
@@ -144,10 +120,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -198,24 +170,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-strategies-for-effective-youtube-playlist-distribution/"><u>[New] 2024 Approved Strategies for Effective YouTube Playlist Distribution</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-create-captivating-content-engaging-windows-movie-maker-on-w11-for-2024/"><u>[New] Create Captivating Content Engaging Windows Movie Maker on W11 for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-strategies-to-overcome-unseen-tiktok-limitations-for-2024/"><u>[New] Strategies to Overcome Unseen TikTok Limitations for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-dominate-the-scene-the-best-hashtag-tactics-for-youtube-gamers/"><u>[Updated] In 2024, Dominate the Scene The Best Hashtag Tactics for YouTube Gamers</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/54sh5paz44oe44o844or44gq44gx44gn44oh44k544kv44oi44od44ox44gl44kj5bud5qoe44gv44km44gf44ov44kh44kk44or44ks5zue5b6p44gz44kl57ch5y2y44gq44ks44kk44oj44cq44or44ov92/"><u>無料ツールなしでデスクトップから廃棄されたファイルを回復する簡単なガイド【パワフル】</u></a></li>
-<li><a href="https://win11.techidaily.com/automate-your-keyboard-setup-with-windows-11/"><u>Automate Your Keyboard Setup with Windows 11</u></a></li>
-<li><a href="https://win-guides.techidaily.com/convert-your-documents-with-flipdocs-for-macos-seamless-pdf-word-and-more-file-transformation/"><u>Convert Your Documents with FlipDOCS for macOS: Seamless PDF, Word & More File Transformation.</u></a></li>
-<li><a href="https://win-guides.techidaily.com/convert-your-pdfs-to-web-ready-html-pages-for-free-with-flipbuilder/"><u>Convert Your PDFs to Web-Ready HTML Pages for Free with FlipBuilder</u></a></li>
-<li><a href="https://win-guides.techidaily.com/create-spacious-flipbooks-for-improved-readability-tips-and-tricks-at-flipbuildercom/"><u>Create Spacious Flipbooks for Improved Readability - Tips and Tricks at FlipBuilder.com</u></a></li>
-<li><a href="https://win-guides.techidaily.com/customize-your-own-product-guides-with-ease-using-advanced-template-options-at-flipbuildercom/"><u>Customize Your Own Product Guides with Ease Using Advanced Template Options at FlipBuilder.com</u></a></li>
-<li><a href="https://win-guides.techidaily.com/customizing-your-slideshow-layout-with-background-images-on-flipbook-platform/"><u>Customizing Your Slideshow Layout with Background Images on FlipBook Platform</u></a></li>
-<li><a href="https://some-tips.techidaily.com/developing-a-mobile-application-with-chatgpt-step-by-step-guide/"><u>Developing a Mobile Application with ChatGPT: Step-by-Step Guide</u></a></li>
-<li><a href="https://win-guides.techidaily.com/does-flipbuilder-impose-size-limits-on-importing-pdfs-and-converting-them-into-e-books/"><u>Does FlipBuilder Impose Size Limits on Importing PDFs and Converting Them Into E-Books?</u></a></li>
-<li><a href="https://win-guides.techidaily.com/effortless-integration-of-hyperlinks-in-ebook-content-with-flipbuilder-a-step-by-step-guide/"><u>Effortless Integration of Hyperlinks in eBook Content with FlipBuilder: A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-huawei-p60-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Huawei P60 for Streaming | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-realme-c53-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Realme C53 for Streaming | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/livekernelevent-117-trouble-heres-how-you-can-fix-it/"><u>LiveKernelEvent 117 Trouble? Here's How You Can Fix It!</u></a></li>
-<li><a href="https://win-guides.techidaily.com/top-5-free-django-designs-and-template-packages-from-creativetim/"><u>Top 5 Free Django Designs and Template Packages From CreativeTim</u></a></li>
-<li><a href="https://win-guides.techidaily.com/vue-argon-pro-admin-suite-with-bootstrap-integration-premium-template-package-from-creative-tim/"><u>Vue Argon Pro Admin Suite with Bootstrap Integration | Premium Template Package From Creative Tim</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-climbing-the-youtube-search-rankings-key-seo-strategies-unveiled-for-2024/"><u>[New] Climbing the YouTube Search Rankings Key SEO Strategies Unveiled for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-the-ultimate-list-of-free-high-quality-screenshot-apps/"><u>[New] In 2024, The Ultimate List of Free, High-Quality Screenshot Apps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-vdq-quickscreen-recorder-report-in-depth-analysis/"><u>[Updated] 2024 Approved VDQ QuickScreen Recorder Report In-Depth Analysis</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-sharp-as-day-the-top10-clearer-photo-editors-list-for-2024/"><u>[Updated] Sharp as Day The #Top10 Clearer Photo Editors List for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-speedy-techniques-for-converting-srt-files-into-text-format/"><u>[Updated] Speedy Techniques for Converting SRT Files Into Text Format</u></a></li>
+<li><a href="https://win-guides.techidaily.com/activating-hibernation-mode-on-your-windows-xp-system-a-comprehensive-guide/"><u>Activating Hibernation Mode on Your Windows XP System: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-guides.techidaily.com/convert-files-to-mp3-at-no-cost-discover-the-ultimate-free-online-audio-to-mp3-converter-tool/"><u>Convert Files to MP3 at No Cost: Discover the Ultimate Free Online Audio-to-MP3 Converter Tool!</u></a></li>
+<li><a href="https://win-guides.techidaily.com/discover-the-legitimate-best-mp3-music-downloading-sites-ranked/"><u>Discover the Legitimate Best MP3 Music Downloading Sites - Ranked!</u></a></li>
+<li><a href="https://win-guides.techidaily.com/free-guide-convert-your-favorite-songs-from-pandora-to-mp3-format/"><u>Free Guide: Convert Your Favorite Songs From Pandora to MP3 Format</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/indispensable-a-comprehensive-list-of-the-best-10-must-have-apps-for-your-windows-10-experience/"><u>Indispensable: A Comprehensive List of the Best 10 Must-Have Apps for Your Windows 10 Experience</u></a></li>
+<li><a href="https://win-guides.techidaily.com/leading-free-video-editors-for-boosting-your-youtube-content/"><u>Leading Free Video Editors for Boosting Your YouTube Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/learn-to-convert-youtube-videos-on-twitter-downloads/"><u>Learn to Convert YouTube Videos on Twitter Downloads</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-fixing-photography-packaging-issues-on-windows-11/"><u>Quick Guide: Fixing Photography Packaging Issues on Windows 11</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-guide-finding-and-downloading-premium-hd-soundtracks/"><u>Step-by-Step Guide: Finding & Downloading Premium HD Soundtracks</u></a></li>
+<li><a href="https://win-guides.techidaily.com/ultimate-guide-to-best-picture-to-video-apps-with-integrated-soundtracks/"><u>Ultimate Guide to Best Picture-to-Video Apps with Integrated Soundtracks</u></a></li>
+<li><a href="https://win-net.techidaily.com/windows-surface-prosurface-pro/"><u>Windowsラップトップ対面移行ガイド: Surface Proから別のSurface Proへ</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Benutzerfreundliche Anleitung Zum Automatischen Datenaustausch Auf Windows-Systemen
-date: 2025-02-14T19:09:14.574Z
-updated: 2025-02-18T16:06:34.921Z
+date: 2025-03-03T17:51:40.334Z
+updated: 2025-03-07T16:24:33.857Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/1a06e5fd0d5cec8ff438d2d94c98e453ecdfe96f957771d6cb6ed139269884f8.jpg
@@ -38,10 +38,6 @@ Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 6. [Zusammenfassung](https://tools.techidaily.com/ubackup/products/)
 7. [Häufig gestellte Fragen](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Ist es sicher, den Papierkorb zu löschen?
 
 Kann ich den Ordner „Papierkorb“ von meiner D-Festplatte löschen, da er 9 GB Speicherplatz belegt? Wenn ich ihn öffne, ist nichts darin enthalten. Und es gibt einen anderen Ordner mit demselben Namen auf meiner C-Festplatte, der ebenfalls Platz beansprucht. Ist es also sicher, den Papierkorb zu löschen?
@@ -66,10 +62,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Windows-Einstellungen Personalisierung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/windows-settings-personalization.png "Windows-Einstellungen Personalisierung")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 2**. Klicken Sie auf die Schaltfläche „**Designs**“.
 
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
@@ -77,10 +69,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
@@ -97,10 +85,6 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
 
@@ -126,17 +110,9 @@ Sicherer Download
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
 
@@ -181,10 +157,6 @@ Wenn Sie den Papierkorb vom Desktop aus leeren möchten, können Sie die im zwei
 
 Für [dauerhaft gelöschte Dateien können Sie Ihre Dateien](https://tools.techidaily.com/ubackup/products/) aus den von AOMEI Backupper erstellten Sicherungen wiederherstellen oder Datenrettungstools verwenden, um sie wiederherzustellen.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Häufig gestellte Fragen
 
 **🥂 Wie kann ich den Papierkorb auf meinem Windows-Desktop dauerhaft löschen?**
@@ -206,10 +178,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 [Ja](https://tools.techidaily.com/ubackup/products/)[Nein](https://tools.techidaily.com/ubackup/products/)
 
 ![Holiday](https://www.ubackup.com/assets/images/author/Holiday.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Holiday](https://tools.techidaily.com/ubackup/products/) · Editor
 
@@ -239,10 +207,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 [Ja](https://tools.techidaily.com/ubackup/products/)[Nein](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## MyRecover Jetzt Kostenlos Erhalten
 
 Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in Windows.
@@ -268,22 +232,22 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-libre-meditation-harmonies/"><u>[New] 2024 Approved Libre Meditation Harmonies</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-ecological-architecture-merging-nature-and-city-planning/"><u>[New] Ecological Architecture Merging Nature and City Planning</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-windows-11-premium-video-grabber-selections/"><u>[Updated] Windows 11 Premium Video Grabber Selections</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/build-a-metaverse-identity-a-streamlined-design-process-for-2024/"><u>Build a Metaverse Identity A Streamlined Design Process for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/enhance-reader-engagement-by-auto-playing-videos-on-arrival-discover-how-with-flipbuilder/"><u>Enhance Reader Engagement by Auto-Playing Videos on Arrival - Discover How with FlipBuilder</u></a></li>
-<li><a href="https://win-guides.techidaily.com/ensure-error-free-content-with-pre-conversion-text-editing-services-by-flipbuildercom/"><u>Ensure Error-Free Content with Pre-Conversion Text Editing Services by FlipBuilder.com</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-mlb-the-show-19-a-visually-appealing-sports-title-with-unexpected-rpg-features-detailed/"><u>Exploring MLB The Show 19 - A Visually Appealing Sports Title with Unexpected RPG Features Detailed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-steam-file-access-restricted-issue-expert-solutions/"><u>Fixing the 'Steam File Access Restricted' Issue - Expert Solutions</u></a></li>
-<li><a href="https://win-guides.techidaily.com/how-to-add-special-characters-during-text-input-in-flipbuilder/"><u>How to Add Special Characters During Text Input in FlipBuilder</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-poco-c50-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Poco C50 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-nokia-c300-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Nokia C300? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/incorporating-a-table-of-contents-in-your-e-books-with-flipbuilder/"><u>Incorporating a Table of Contents in Your E-Books with FlipBuilder</u></a></li>
-<li><a href="https://win-guides.techidaily.com/integrating-your-site-with-flipbook-using-flipbuilder-a-step-by-step-guide/"><u>Integrating Your Site with FlipBook Using FlipBuilder: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-guides.techidaily.com/saving-your-flipbook-creation-with-flipbuilder-step-by-step-guide/"><u>Saving Your FlipBook Creation with FlipBuilder - Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-your-discounted-512gb-m1-macbook-pro-from-apple-saving-up-to-450-now/"><u>Secure Your Discounted 512GB M1 MacBook Pro From Apple - Saving Up to $450 Now!</u></a></li>
-<li><a href="https://win-guides.techidaily.com/selective-navigation-for-online-flipbooks-directly-jumping-to-page-4-on-flipbuilder-platform/"><u>Selective Navigation for Online Flipbooks: Directly Jumping to Page 4 on FlipBuilder Platform</u></a></li>
-<li><a href="https://win-guides.techidaily.com/ultimate-guide-installing-and-converting-themes-in-flipbook-with-flipbuilder/"><u>Ultimate Guide: Installing & Converting Themes in FlipBook with FlipBuilder</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-no-tripod-path-to-flawless-images/"><u>[New] 2024 Approved The No-Tripod Path to Flawless Images</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-screen-capture-showdown-obs-vs-shadow/"><u>[New] In 2024, Screen Capture Showdown OBS vs Shadow</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-openscreens-the-unchained-gamers-screen-record/"><u>[Updated] 2024 Approved OpenScreens The Unchained Gamer's Screen Record</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-mastering-sound-logging-our-selection-of-11-precision-gadgets/"><u>[Updated] In 2024, Mastering Sound Logging Our Selection of 11 Precision Gadgets</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-inventory-guide-to-photographic-and-videography-units-for-2024/"><u>[Updated] Inventory Guide to Photographic and Videography Units for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1728475166776-hddssd/"><u>無損轉移：從HDD到SSD的兩種還原技術</u></a></li>
+<li><a href="https://win-guides.techidaily.com/acoes-e-respostas-a-eventos-unicos-guia-de-fazer-backups-taticos/"><u>Ações E Respostas a Eventos Únicos: Guia De Fazer Backups Táticos</u></a></li>
+<li><a href="https://win-guides.techidaily.com/boost-your-text-editing-experience-the-latest-update-for-emeditors-search-toolbar-feature/"><u>Boost Your Text Editing Experience - The Latest Update for EmEditor's Search Toolbar Feature</u></a></li>
+<li><a href="https://win-guides.techidaily.com/comment-faire-en-un-clinch-pour-que-votre-appareil-photo-recognisse-une-carte-sd-endommagee/"><u>Comment Faire en Un Clinch Pour Que Votre Appareil Photo Recognisse Une Carte SD Endommagée</u></a></li>
+<li><a href="https://win-guides.techidaily.com/guia-paso-a-paso-sincronizacion-instantanea-de-onedrive-con-tu-almacenamiento-externo-bajo-windows/"><u>Guía Paso a Paso: Sincronización Instantánea De OneDrive Con Tu Almacenamiento Externo Bajo Windows</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-do-you-recover-windows-11-after-performing-a-system-reset/"><u>How Do You Recover Windows 11 After Performing a System Reset?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-step-by-step-how-to-master-zoom-in-windows-10/"><u>In 2024, Step-by-Step How to Master Zoom in Windows 10</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-10-free-video-stabilization-tools-to-smooth-out-your-footage-2024-update/"><u>New Top 10 Free Video Stabilization Tools to Smooth Out Your Footage (2024 Update)</u></a></li>
+<li><a href="https://win-guides.techidaily.com/quelle-est-la-surete-des-outils-de-restauration-dinformations-numeriques/"><u>Quelle Est La Sûreté Des Outils De Restauration D'informations Numériques?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-viewing-mov-videos-on-your-windows-11-pc/"><u>Step-by-Step Guide: Viewing MOV Videos on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-guides.techidaily.com/transferieren-sie-ihre-iphone-aufnahmen-direkt-mit-diesen-vier-tipps-keine-notwendigkeit-zu-icloud/"><u>Transferieren Sie Ihre iPhone-Aufnahmen Direkt Mit Diesen Vier Tipps - Keine Notwendigkeit Zu iCloud!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-add-a-professional-touch-free-video-watermark-software/"><u>Updated In 2024, Add a Professional Touch Free Video Watermark Software</u></a></li>
 </ul></div>
 

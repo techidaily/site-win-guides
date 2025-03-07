@@ -1,7 +1,7 @@
 ---
 title: "Schritt-Für-Schritt Anleitung: Automatisierte Datensicherung Auf Google Drive"
-date: 2025-01-13T16:10:46.280Z
-updated: 2025-01-21T04:41:34.306Z
+date: 2025-02-28T17:29:22.108Z
+updated: 2025-03-07T17:37:30.819Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a8d93fea013a39cba2a1ab43.jpg
@@ -24,17 +24,9 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -73,10 +65,6 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
 Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NAS Buffalo pour Windows, veuillez préparer un disque dur externe, une clé USB, etc. pour stocker l'image de sauvegarde. Ensuite, suivez attentivement les étapes ci-dessous.
@@ -105,17 +93,9 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
@@ -141,17 +121,9 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -198,16 +170,18 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-creating-a-safe-mc-habitat-plan-6-for-2024/"><u>[Updated] Creating a Safe MC Habitat Plan #6 for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-a-deep-dive-into-ffmpeg-for-authentic-unaltered-audio-extraction/"><u>2024 Approved A Deep Dive Into FFmpeg for Authentic, Unaltered Audio Extraction</u></a></li>
-<li><a href="https://win-guides.techidaily.com/how-to-speed-up-pc-launch-expert-tips-by-yl-software-team/"><u>How to Speed Up PC Launch - Expert Tips by YL Software Team</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-realme-v30t-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Realme V30T to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-precisioncapture-w10-pro/"><u>In 2024, PrecisionCapture W10 Pro</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/mastering-the-management-of-system-users-with-tips-from-yl-software-experts/"><u>Mastering the Management of System Users with Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-guides.techidaily.com/overcoming-mouse-malfunctions-insider-guide-to-fixes-and-workarounds-by-yl-software-professionals/"><u>Overcoming Mouse Malfunctions: Insider Guide to Fixes and Workarounds by YL Software Professionals</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-gionee-lock-screen-without-password-gionee-f3-pro-by-drfone-android-unlock-android-unlock/"><u>Remove Gionee Lock Screen without Password(Gionee F3 Pro)</u></a></li>
-<li><a href="https://win-guides.techidaily.com/the-consequences-of-tweaking-windows-registry-settings-unveiled-by-yl-software-experts/"><u>The Consequences of Tweaking Windows Registry Settings Unveiled by YL Software Experts</u></a></li>
-<li><a href="https://win-guides.techidaily.com/troubleshooting-non-printing-issues-expert-advice-from-yl-software/"><u>Troubleshooting Non-Printing Issues: Expert Advice From YL Software</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-broadcast-friendly-techniques-for-fb-live-events/"><u>[Updated] In 2024, Broadcast-Friendly Techniques for FB Live Events</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-innovative-ways-to-remove-ssgnature-backdrops-fast/"><u>[Updated] Innovative Ways to Remove Ssgnature Backdrops Fast</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-beyond-popularity-metrics-understanding-trillers-distinct-features/"><u>2024 Approved Beyond Popularity Metrics Understanding Triller's Distinct Features</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-capture-quality-in-nintendo-switch-life/"><u>2024 Approved Capture Quality in Nintendo Switch Life</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/comment-installer-avec-succes-microsoft-office-sur-windows-et-macos/"><u>Comment Installer Avec Succès Microsoft Office Sur Windows Et macOS?</u></a></li>
+<li><a href="https://win-guides.techidaily.com/complimentary-administrator-interface-using-nextjs-plus-material-design-by-creative-tim/"><u>Complimentary Administrator Interface Using Next.js + Material Design by Creative Tim</u></a></li>
+<li><a href="https://win-guides.techidaily.com/creative-tims-premium-angular-bootstrap-admin-control-panel-with-over-11-advanced-features/"><u>Creative Tim's Premium Angular-Bootstrap Admin Control Panel with Over 11 Advanced Features</u></a></li>
+<li><a href="https://win-guides.techidaily.com/discover-a-wide-selection-of-top-rated-html5-boilerplate-layouts-by-creative-tim-for-your-web-project/"><u>Discover a Wide Selection of Top-Rated HTML5 Boilerplate Layouts by Creative Tim for Your Web Project!</u></a></li>
+<li><a href="https://win-guides.techidaily.com/explore-top-nodejs-frameworks-and-starter-kits-from-creative-tim-available-for-immediate-download/"><u>Explore Top Node.js Frameworks and Starter Kits From Creative Tim, Available for Immediate Download</u></a></li>
+<li><a href="https://win-guides.techidaily.com/free-nextjs-and-material-ui-admin-panel-with-pre-built-templates-by-creative-tim/"><u>Free Next.js & Material UI Admin Panel with Pre-Built Templates by Creative Tim</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/goovision-9000-ultimate-os-snapshotter/"><u>GooVision 9000 Ultimate OS Snapshotter</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-tips-from-toms-hardware-experts/"><u>Mastering Technology Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://win-guides.techidaily.com/top-5-free-django-designs-and-template-packages-from-creativetim/"><u>Top 5 Free Django Designs and Template Packages From CreativeTim</u></a></li>
 </ul></div>
 

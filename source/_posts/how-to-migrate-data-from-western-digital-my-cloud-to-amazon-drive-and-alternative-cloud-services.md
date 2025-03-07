@@ -1,7 +1,7 @@
 ---
 title: How to Migrate Data From Western Digital My Cloud to Amazon Drive and Alternative Cloud Services
-date: 2025-02-07T22:02:25.064Z
-updated: 2025-02-08T19:33:42.214Z
+date: 2025-03-06T17:01:19.380Z
+updated: 2025-03-07T16:40:44.762Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a164216256186200a3f57210ef49bd6287bae1.jpg
@@ -27,10 +27,6 @@ Want to create an image, restore image, or clone hard drive via Norton Ghost? Th
 By[Lena](https://tools.techidaily.com/ubackup/products/)Updated on June 5, 2024
 
 Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table of Contents** 
 
@@ -72,10 +68,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. The **Easy Setup** screen will appear.
 
 * You can click **OK** to accept the default settings or click a setting to modify it.
@@ -105,10 +97,6 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
 
 ### Clone Disk with Norton Ghost
@@ -118,10 +106,6 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 2\. On the **Tools** page, click **Copy My Hard Drive** and follow the steps in the wizard to copy the drive.
 
 👉 **Note:** The drivers that are used to run the hardware on one computer will likely not match the drivers on a second computer. So you’d better not use the Copy Drive feature to set up a hard drive that will be used in another computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Free Alternative to Norton Ghost
 
@@ -154,10 +138,6 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 [![Disk Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/disk-backup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2\. Click **Add Disk** to choose the system disk to be backed up.
 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
@@ -165,10 +145,6 @@ Select the corresponding backup methods if you want to backup system, partition 
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 👉 **Notes:**
 
@@ -181,20 +157,12 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 
 [![Restore](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/restore/disk-restore/home-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 👉 **Notes:** 
 
 * With AOMEI **[Universal Restore](https://tools.techidaily.com/ubackup/products/)** feature, you can restore a backup image, system image in particular, created on one computer to another one that has dissimilar hardware installed. It can also help you reinstall the system if you are planning to change the hardware such as motherboard, CPU, etc. Available in higher editions like [AOMEI Backupper Professional](https://tools.techidaily.com/ubackup/products/).
 * If you don't create a file backup but you want to perform [hard disk image file restore](https://tools.techidaily.com/ubackup/products/) or from other backup types, try the **Explore image** feature. It requires a professional version as well.
 
 [![Disk Image Explore Home](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/explore-image/home-explore-image-disk.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Clone Hard Drive
 
@@ -245,10 +213,6 @@ Was the provided information useful? Your vote is important to us!
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Related Articles
 
 ##### [How to Create Image Backup with Ghost Disk Utility](https://tools.techidaily.com/ubackup/products/)
@@ -277,10 +241,6 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -298,16 +258,24 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-efficient-techniques-to-enhance-engagement-by-uploading-srt-content-for-2024/"><u>[New] Efficient Techniques to Enhance Engagement by Uploading SRT Content for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/tock-strategy-streams-the-most-valuable-online-sources/"><u>[New] Stock Strategy Streams The Most Valuable Online Sources</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-hear-the-difference-explore-the-best-voice-changer-software-for-smartphones/"><u>[Updated] Hear the Difference Explore the Best Voice Changer Software for Smartphones</u></a></li>
-<li><a href="https://blog-min.techidaily.com/dvd-windows1-3/"><u>自宅パソコンDVDへの複写 - Windows1 #3 で実行方法解説</u></a></li>
-<li><a href="https://win-guides.techidaily.com/easy-steps-restore-your-lost-files-with-these-simple-tricks/"><u>Easy Steps: Restore Your Lost Files with These Simple Tricks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-finding-and-installing-latest-drivers-in-windows-1011/"><u>Guide to Finding & Installing Latest Drivers in Windows 10/11</u></a></li>
-<li><a href="https://win-guides.techidaily.com/how-do-new-e-commerce-ventures-leverage-email-campaigns-with-massmail-solutions/"><u>How Do New E-Commerce Ventures Leverage Email Campaigns with Massmail Solutions?</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/leading-disk-imaging-applications-compatible-with-windows-servers-insights-for-200320082012/"><u>Leading Disk Imaging Applications Compatible with Windows Servers: Insights for 2003/2008/2012</u></a></li>
-<li><a href="https://win-guides.techidaily.com/les-meilleures-methodes-pour-tirer-en-bloc-le-contenu-de-votre-dropbox-vers-un-nas/"><u>Les Meilleures Méthodes Pour Tirer En Bloc Le Contenu De Votre Dropbox Vers Un NAS</u></a></li>
-<li><a href="https://win-guides.techidaily.com/solution-found-how-to-create-a-restore-disk-on-windows-10-and-11/"><u>Solution Found: How to Create a Restore Disk on Windows 10 & 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-top-podcasts-and-youtubers-analyzing-apples-latest-gadgets-and-software-updates-cnet/"><u>Ultimate Guide: Top Podcasts & YouTubers Analyzing Apple's Latest Gadgets and Software Updates | CNET</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-create-captivating-content-engaging-windows-movie-maker-on-w11/"><u>[New] Create Captivating Content Engaging Windows Movie Maker on W11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-11-free-youtube-playlist-downloadersonlinepcandroidios/"><u>[Updated] 2024 Approved 11 FREE YouTube Playlist Downloaders[Online/PC/Android/iOS)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-youtube-seo-guide-for-beginners-who-want-more-views/"><u>[Updated] 2024 Approved YouTube SEO Guide for Beginners Who Want More Views</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-art-of-pairing-b-clips-with-main-shots/"><u>[Updated] The Art of Pairing B-Clips with Main Shots</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-highlighting-youtubes-creme-de-la-creme-makeup-influencers/"><u>2024 Approved Highlighting YouTube's Crème De La Crème Makeup Influencers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211166565-9781950921416-a-collection-of-true-paranormal-police-encounters/"><u>A Collection of True Paranormal Police Encounters | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-instructions-to-downloading-and-setting-up-epson-wf-3540-drivers-on-windows-computers/"><u>Complete Instructions to Downloading and Setting Up Epson WF-3540 Drivers on Windows Computers</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-does-color-leakage-occur-on-photographic-prints-expert-advice-by-yl-software-team/"><u>How Does Color Leakage Occur on Photographic Prints? Expert Advice by YL Software Team</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-to-speed-up-pc-launch-expert-tips-by-yl-software-team/"><u>How to Speed Up PC Launch - Expert Tips by YL Software Team</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-thriving-financially-via-beauty-channels/"><u>In 2024, Thriving Financially via Beauty Channels</u></a></li>
+<li><a href="https://win-guides.techidaily.com/master-the-art-of-windows-brightness-control-a-tutorial-from-yl-software/"><u>Master the Art of Windows Brightness Control: A Tutorial From YL Software</u></a></li>
+<li><a href="https://win-guides.techidaily.com/mastering-the-management-of-system-users-with-tips-from-yl-software-experts/"><u>Mastering the Management of System Users with Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-guides.techidaily.com/mouse-malfunction-mastery-expert-advice-for-perfect-performance-by-yl-software-experts/"><u>Mouse Malfunction Mastery: Expert Advice for Perfect Performance by YL Software Experts</u></a></li>
+<li><a href="https://win-guides.techidaily.com/overcoming-mouse-malfunctions-insider-guide-to-fixes-and-workarounds-by-yl-software-professionals/"><u>Overcoming Mouse Malfunctions: Insider Guide to Fixes and Workarounds by YL Software Professionals</u></a></li>
+<li><a href="https://win-guides.techidaily.com/resolving-windows-device-driver-problems-expert-advice-from-yl-computing/"><u>Resolving Windows Device Driver Problems: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-guides.techidaily.com/the-consequences-of-tweaking-windows-registry-settings-unveiled-by-yl-software-experts/"><u>The Consequences of Tweaking Windows Registry Settings Unveiled by YL Software Experts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/mpact-of-instant-subscribing-on-online-viewing-habits/"><u>The Impact of Instant Subscribing on Online Viewing Habits</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/thriving-as-an-independent-youtube-entrepreneur-dodging-the-ad-dilemrante/"><u>Thriving as an Independent YouTube Entrepreneur Dodging the Ad Dilemrante</u></a></li>
+<li><a href="https://win-guides.techidaily.com/troubleshooting-non-printing-issues-expert-advice-from-yl-software/"><u>Troubleshooting Non-Printing Issues: Expert Advice From YL Software</u></a></li>
 </ul></div>
 
